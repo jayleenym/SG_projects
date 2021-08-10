@@ -64,10 +64,10 @@
 # 
 ## 객체 실행 결과
 ‘테넷’이라는 영화를 사용하여 실행해본 결과는 다음과 같습니다.  
-![](Picture1.png)
-![](Picture2.png)
-![](Picture3.png)
-![](Picture4.png)
+![](Picture1.png)  
+![](Picture2.png)  
+![](Picture3.png)  
+![](Picture4.png)   
 
 <br/><br>
 ## main함수 실행 결과
@@ -76,8 +76,8 @@
 
 ‘월터의 상상은 현실이 된다’라는 영화제목 전체가 아닌 일부분을 입력해도, 네이버 영화 검색의 첫 번째 영화로 선택되기 때문에 원하는 영화가 제대로 크롤링된 것을 확인할 수 있습니다. 
 
-![](Picture5.png)
-![](Picture6.png)
+![](Picture5.png)    
+![](Picture6.png)    
 
 
 

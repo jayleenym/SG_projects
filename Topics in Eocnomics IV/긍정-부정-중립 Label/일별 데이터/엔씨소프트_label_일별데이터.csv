@@ -1,0 +1,691 @@
+,Date,EngTitle,posneg,neg,pos,neu,compound,vader_pred,New_date(str),New_Date(dt)
+0,2020-10-31 08:01:00,"[Yuanta's weekly recommendation]'New Momentum Effective'... NCsoft, E-Mart, Com2uS",0,0.0,0.0,1.0,0.0,0,2020-10-31,2020-10-31 00:00:00
+1,2020-10-30 14:06:00,NCsoft's new “Trickster M” exceeds 1 million in advance reservation in two days,-1,0.0,0.0,1.0,0.0,0,2020-10-30,2020-10-30 00:00:00
+2,2020-10-30 13:24:00,NCsoft achieves 1 million advance reservations for Trickster M,-1,0.24100000000000002,0.0,0.759,-0.2263,-1,2020-10-30,2020-10-30 00:00:00
+3,2020-10-30 13:42:00,NCsoft'Aion' opens'Classic Server' on November 11th,0,0.0,0.0,1.0,0.0,0,2020-10-30,2020-10-30 00:00:00
+4,2020-10-27 18:09:00,"Kim Taek-jin, CEO of NCsoft, ""Game is a key driver of the future cultural industry""",0,0.0,0.0,1.0,0.0,0,2020-10-28,2020-10-28 00:00:00
+5,2020-10-26 14:55:00,"NCsoft,'Cute Lineage' Trickster M pre-booked on the 28th",-1,0.24100000000000002,0.0,0.759,-0.2263,-1,2020-10-26,2020-10-26 00:00:00
+6,2020-10-26 11:21:00,"NCsoft, Trickster M to make advance reservations on the 28",0,0.192,0.0,0.8079999999999999,-0.2263,-1,2020-10-26,2020-10-26 00:00:00
+7,2020-10-25 13:47:00,"[Weekly recommended stock] Love call with positive performance stock... Samsung Electronics, NCsoft, CJ CheilJedang",0,0.0,0.466,0.534,0.8625,1,2020-10-25,2020-10-25 00:00:00
+8,2020-10-21 14:20:00,NCsoft unveils picture language type play containing game stories,0,0.0,0.231,0.769,0.34,1,2020-10-21,2020-10-21 00:00:00
+9,2020-10-21 08:38:00,"NCsoft, MMORPG that is prospering overseas... Target price 1.12 million won-yuan hit",-1,0.0,0.0,1.0,0.0,0,2020-10-21,2020-10-21 00:00:00
+10,2020-10-21 08:00:00,NCsoft to outperform consensus in 3rd and 4th quarter-Yuanta,1,0.0,0.0,1.0,0.0,0,2020-10-21,2020-10-21 00:00:00
+11,2020-10-21 07:50:00,NCsoft to outperform 3Q earnings consensus-Yuanta,1,0.0,0.0,1.0,0.0,0,2020-10-21,2020-10-21 00:00:00
+12,2020-10-20 16:17:00,"End of adjustment NCsoft… ""If the new work schedule is confirmed, it will rebound""",1,0.0,0.0,1.0,0.0,0,2020-10-21,2020-10-21 00:00:00
+13,2020-10-19 09:03:00,NCsoft's 3Q operating profit forecast to fall short-Shinhan,0,0.0,0.293,0.7070000000000001,0.4404,1,2020-10-19,2020-10-19 00:00:00
+14,2020-10-14 13:38:00,NCsoft opens'Trickster M'brand page,0,0.0,0.0,1.0,0.0,0,2020-10-14,2020-10-14 00:00:00
+15,2020-10-14 12:42:00,Opened NCsoft's new “Trickster M” brand page,0,0.0,0.0,1.0,0.0,0,2020-10-14,2020-10-14 00:00:00
+16,2020-10-14 10:40:00,"NCsoft is hard to use… ""Long-term investment points remain unchanged""",0,0.135,0.0,0.865,-0.1027,-1,2020-10-14,2020-10-14 00:00:00
+17,2020-10-14 06:02:00,[Corporate tax analysis for the first half of 2020] ⑥ Game/entertainment pandemic untouch effect...,0,0.0,0.0,1.0,0.0,0,2020-10-14,2020-10-14 00:00:00
+18,2020-10-13 13:24:00,"NCsoft,'Halloween Tattoo Play' event",0,0.0,0.444,0.556,0.34,1,2020-10-13,2020-10-13 00:00:00
+19,2020-10-11 15:34:00,NCsoft drives new business... Catching “Idol·AI·Finance”,0,0.0,0.0,1.0,0.0,0,2020-10-11,2020-10-11 00:00:00
+20,2020-10-11 10:13:00,"[Market Point]'NCSoft', No. 1 in foreign net selling during the week of KOSPI",0,0.16699999999999998,0.0,0.833,-0.29600000000000004,-1,2020-10-11,2020-10-11 00:00:00
+21,2020-10-10 14:57:00,[Weekly HOT Stock] NCsoft stock price adjustment... Individuals' interest ↑,0,0.0,0.273,0.727,0.4588,1,2020-10-10,2020-10-10 00:00:00
+22,2020-10-08 15:14:00,"NCsoft'Lineage M'and'Lineage 2M', Hangul Day event",0,0.0,0.0,1.0,0.0,0,2020-10-8,2020-10-08 00:00:00
+23,2020-10-08 08:28:00,"“NCSoft, release of new work that is delayed...Goal ↓”",-1,0.0,0.0,1.0,0.0,0,2020-10-8,2020-10-08 00:00:00
+24,2020-10-07 17:27:00,NCsoft jumped into the securities industry Establishment of'AI Securities Company' in cooperation with KB Securities and others...,0,0.0,0.32,0.68,0.6808,1,2020-10-8,2020-10-08 00:00:00
+25,2020-10-07 15:00:00,"December & Company, KB Securities and NCsoft and'AI Investment & Securities Company' joint venture ...",0,0.0,0.28600000000000003,0.7140000000000001,0.5267,1,2020-10-7,2020-10-07 00:00:00
+26,2020-10-07 16:05:00,KB證 and NCsoft join hands to create'artificial intelligence PB',0,0.0,0.431,0.569,0.6486,1,2020-10-8,2020-10-08 00:00:00
+27,2020-10-07 14:07:00,"KB Securities, December & Company, and NCsoft to create AI simple investment securities company",0,0.0,0.39399999999999996,0.606,0.6705,1,2020-10-7,2020-10-07 00:00:00
+28,2020-10-07 10:35:00,KB Securities signed a joint venture agreement with December & Company and NCsoft,0,0.0,0.375,0.625,0.6597,1,2020-10-7,2020-10-07 00:00:00
+29,2020-10-07 09:55:00,"KB Securities, NCsoft and December & Company to enter AI securities company",0,0.0,0.32799999999999996,0.672,0.5267,1,2020-10-7,2020-10-07 00:00:00
+30,2020-10-07 09:33:00,KB Securities·December&Company·NCSoft promotes establishment of AI simple investment securities company,0,0.0,0.365,0.635,0.5574,1,2020-10-7,2020-10-07 00:00:00
+31,2020-10-07 16:03:00,"NCsoft unveils new video,'Trickster M'",0,0.0,0.0,1.0,0.0,0,2020-10-8,2020-10-08 00:00:00
+32,2020-10-07 15:12:00,NCsoft unveils two new mobile teaser videos for'Trickster M',0,0.2,0.0,0.8,-0.25,-1,2020-10-7,2020-10-07 00:00:00
+33,2020-10-07 15:29:00,NCsoft holds online recruitment briefing session for new recruits,0,0.0,0.0,1.0,0.0,0,2020-10-7,2020-10-07 00:00:00
+34,2020-10-07 14:23:00,"KB證-December & Company-NCSoft, after the establishment of AI simple investment securities company",0,0.0,0.18,0.82,0.29600000000000004,1,2020-10-7,2020-10-07 00:00:00
+35,2020-10-07 13:54:00,NCsoft also moved... Entering the digital finance industry with AI,0,0.0,0.0,1.0,0.0,0,2020-10-7,2020-10-07 00:00:00
+36,2020-10-07 11:17:00,NCsoft joins forces with KB Securities and December & Company to create an AI securities company,0,0.0,0.35100000000000003,0.649,0.6705,1,2020-10-7,2020-10-07 00:00:00
+37,2020-10-07 08:56:00,NCsoft forecasts 140% ↑ in operating profit next year... Target Price↓-Samsung,0,0.0,0.244,0.7559999999999999,0.4404,1,2020-10-7,2020-10-07 00:00:00
+38,2020-10-06 09:33:00,"[Market Insight] NCsoft's development team independently created NU, attracting 20 billion won investment...",-1,0.0,0.46799999999999997,0.532,0.8316,1,2020-10-6,2020-10-06 00:00:00
+39,2020-10-06 08:43:00,NCsoft's new release delay variable Target price↓-Evest,-1,0.27699999999999997,0.0,0.723,-0.3182,-1,2020-10-6,2020-10-06 00:00:00
+40,2020-10-06 08:19:00,"NCsoft, breath-taking adjustment... Target price↓-Ebest",1,0.0,0.0,1.0,0.0,0,2020-10-6,2020-10-06 00:00:00
+41,2020-10-06 07:58:00,"NCsoft, 3Q earnings announcement to be an inflection point... Target price↓-Ebest",1,0.0,0.0,1.0,0.0,0,2020-10-6,2020-10-06 00:00:00
+42,2020-10-06 07:56:00,"[Click e-event] ""NCSoft, judged by sound breathtaking adjustment""",0,0.0,0.3,0.7,0.4588,1,2020-10-6,2020-10-06 00:00:00
+43,2020-09-28 17:25:00,"NCsoft, recruiting talent New recruits",0,0.0,0.41200000000000003,0.588,0.4215,1,2020-9-29,2020-09-29 00:00:00
+44,2020-09-28 13:31:00,NCsoft enters public recruitment of new employees... Application by the 14th of next month,0,0.0,0.0,1.0,0.0,0,2020-9-28,2020-09-28 00:00:00
+45,2020-09-28 12:14:00,"NCsoft, open recruitment of new employees in 2020",0,0.0,0.0,1.0,0.0,0,2020-9-28,2020-09-28 00:00:00
+46,2020-09-28 08:31:00,NCsoft's earnings growth to emerge from the beginning of next year... Target price↓-KTB,0,0.0,0.17800000000000002,0.8220000000000001,0.3818,1,2020-9-28,2020-09-28 00:00:00
+47,2020-09-28 08:25:00,[Click e-Event] NCsoft is slow to run from next year,-1,0.0,0.0,1.0,0.0,0,2020-9-28,2020-09-28 00:00:00
+48,2020-09-28 08:22:00,"NCsoft, Lineage 2M domestic sales down... Target price↓-KTB",0,0.0,0.0,1.0,0.0,0,2020-9-28,2020-09-28 00:00:00
+49,2020-09-25 08:57:00,"[Industry Attack] Game, Green New Deal, NCsoft",0,0.0,0.0,1.0,0.0,0,2020-9-25,2020-09-25 00:00:00
+50,2020-09-23 17:32:00,NCsoft Presents a Paper at the International Conference on Voice Synthesis Technology'VocGAN,0,0.0,0.0,1.0,0.0,0,2020-9-24,2020-09-24 00:00:00
+51,2020-09-23 15:05:00,"NCsoft, presented a paper at the International Conference on Speech Synthesis Technology",0,0.0,0.0,1.0,0.0,0,2020-9-23,2020-09-23 00:00:00
+52,2020-09-21 16:46:00,"NCsoft’s “Lineage 2M” on the 300th, runs towards the 1st anniversary",0,0.0,0.0,1.0,0.0,0,2020-9-22,2020-09-22 00:00:00
+53,2020-09-13 17:56:00,"""NCSoft, undervalued compared to competitors""",0,0.0,0.0,1.0,0.0,0,2020-9-14,2020-09-14 00:00:00
+54,2020-09-11 09:54:00,NCsoft unveils new video of console music game'Fuser',0,0.0,0.0,1.0,0.0,0,2020-9-11,2020-09-11 00:00:00
+55,2020-09-11 08:51:00,NCsoft highlights its undervalued charm on the occasion of listing Kakao Games,-1,0.0,0.19699999999999998,0.8029999999999999,0.4019,1,2020-9-11,2020-09-11 00:00:00
+56,2020-09-11 08:35:00,"NCsoft, considerably undervalued compared to Kakao Games and Netmarble",0,0.0,0.0,1.0,0.0,0,2020-9-11,2020-09-11 00:00:00
+57,2020-09-10 13:58:00,[itM-characteristic stock] NCsoft surged 4%,0,0.0,0.0,1.0,0.0,0,2020-9-10,2020-09-10 00:00:00
+58,2020-09-10 08:43:00,"""NCSoft, new work momentum in earnest after October"" -Mirae Asset Daewoo",0,0.0,0.392,0.608,0.7003,1,2020-9-10,2020-09-10 00:00:00
+59,2020-09-09 14:39:00,"NCsoft's'Lineage 2M', the first'World Siege', begins on the 13th",0,0.0,0.0,1.0,0.0,0,2020-9-9,2020-09-09 00:00:00
+60,2020-09-07 09:30:00,NCsoft's earnings improvement momentum is “rich”… “Top Pick in Game Industry”,0,0.0,0.231,0.769,0.4588,1,2020-9-7,2020-09-07 00:00:00
+61,2020-09-07 08:49:00,NCsoft's signature game'Lineage' expands overseas territories-IBK,0,0.0,0.21899999999999997,0.7809999999999999,0.1027,1,2020-9-7,2020-09-07 00:00:00
+62,2020-09-05 14:02:00,"""NCSoft strengthens overseas momentum for new works""",1,0.0,0.33299999999999996,0.667,0.4588,1,2020-9-5,2020-09-05 00:00:00
+63,2020-09-03 09:05:00,"[Hot-Line] ""NCSoft, 4Q earnings are expected to rebound""",1,0.408,0.0,0.5920000000000001,-0.7034,-1,2020-9-3,2020-09-03 00:00:00
+64,2020-09-01 17:15:00,NCsoft Postpones In-House Test for'Project TL' to Corona 19 Warriors at Home,0,0.16,0.0,0.84,-0.2732,-1,2020-9-2,2020-09-02 00:00:00
+65,2020-08-31 13:35:00,NCsoft expands communication area through blog,0,0.0,0.21899999999999997,0.7809999999999999,0.1027,1,2020-8-31,2020-08-31 00:00:00
+66,2020-08-28 18:05:00,"NCsoft,'Lineage 2M' becomes stronger... Siege of Giran begins on the 30th",1,0.0,0.0,1.0,0.0,0,2020-8-29,2020-08-29 00:00:00
+67,2020-08-28 11:16:00,'Game stock revival is coming'... NCsoft dreams of another jump-up,1,0.0,0.231,0.769,0.4019,1,2020-8-28,2020-08-28 00:00:00
+68,2020-08-28 09:50:00,NCsoft's expectations for'high stock price',0,0.0,0.0,1.0,0.0,0,2020-8-28,2020-08-28 00:00:00
+69,2020-08-27 09:49:00,[itM-characteristic stock] NCsoft surges 5% during intraday… The largest increase since July,0,0.0,0.17300000000000001,0.8270000000000001,0.3182,1,2020-8-27,2020-08-27 00:00:00
+70,2020-08-24 17:26:00,Are you stuck with NCsoft's'Three Used'... BBIG's alone stock price'reverse running',0,0.308,0.0,0.6920000000000001,-0.4588,-1,2020-8-25,2020-08-25 00:00:00
+71,2020-08-24 16:01:00,"""I'm BBIG too, why don't I come up..."" NCSOF fell into'triple trouble'...",0,0.0,0.0,1.0,0.0,0,2020-8-25,2020-08-25 00:00:00
+72,2020-08-23 08:20:00,"[Weekly HOT event] NCsoft, has adjusted? ""Possibility of rebound in the fourth quarter ↑""",1,0.0,0.0,1.0,0.0,0,2020-8-23,2020-08-23 00:00:00
+73,2020-08-22 08:01:00,[SK Securities' weekly recommendation stocks] Attention to earnings improvement in the second half of the year… NCsoft·ITM Semiconductor...,0,0.0,0.245,0.755,0.6369,1,2020-8-22,2020-08-22 00:00:00
+74,2020-08-21 12:25:00,NCsoft releases'Fever Music 2020 Cool Summer Project' album,0,0.0,0.247,0.753,0.3182,1,2020-8-21,2020-08-21 00:00:00
+75,2020-08-21 11:33:00,Believe in “Lineage 2M Power” in the fourth quarter… Ant corps sweep over NCsoft,-1,0.0,0.0,1.0,0.0,0,2020-8-21,2020-08-21 00:00:00
+76,2020-08-21 09:36:00,"Ants' Choice, ""Ncsoft Next to Samsung Electronics""",0,0.0,0.0,1.0,0.0,0,2020-8-21,2020-08-21 00:00:00
+77,2020-08-21 07:58:00,NCsoft launches new works and expects Lineage 2M sales to rebound-Daeshin,1,0.0,0.0,1.0,0.0,0,2020-8-21,2020-08-21 00:00:00
+78,2020-08-21 07:31:00,"[Click e-sector] ""NCsoft expects to rebound in 4Q after 3Q period adjustment""",1,0.305,0.0,0.695,-0.7034,-1,2020-8-21,2020-08-21 00:00:00
+79,2020-08-20 16:26:00,NCsoft enters the entertainment business... Established'Klep',0,0.0,0.359,0.6409999999999999,0.4215,1,2020-8-21,2020-08-21 00:00:00
+80,2020-08-20 00:31:00,'Lineage M'retakes first place in 7 months... NCsoft rebounded,1,0.0,0.0,1.0,0.0,0,2020-8-20,2020-08-20 00:00:00
+81,2020-08-19 09:24:00,[Features] NCsoft to'rise' on news of the establishment of entertainment'Kleb,0,0.0,0.0,1.0,0.0,0,2020-8-19,2020-08-19 00:00:00
+82,2020-08-17 17:06:00,"I didn't know, NCsoft was an AI powerhouse... Game company's first financial advance",0,0.0,0.0,1.0,0.0,0,2020-8-18,2020-08-18 00:00:00
+83,2020-08-15 16:54:00,"NCsoft, take a breath in the second quarter... Market interest in the fourth quarter",0,0.0,0.2,0.8,0.4588,1,2020-8-16,2020-08-16 00:00:00
+84,2020-08-14 21:26:00,"Hyosung Honorary Chairman Cho Seok-rae 26.6 billion... Kim Tae-jin, CEO of NCsoft",0,0.0,0.179,0.821,0.34,1,2020-8-15,2020-08-15 00:00:00
+85,2020-08-14 11:54:00,"NCsoft, music content service through'BGM Factory'",0,0.0,0.0,1.0,0.0,0,2020-8-14,2020-08-14 00:00:00
+86,2020-08-14 08:55:00,"NCsoft, expectation of new work is valid... Target price ↑-Shinhan Investment Corp.",0,0.0,0.0,1.0,0.0,0,2020-8-14,2020-08-14 00:00:00
+87,2020-08-14 08:54:00,NCsoft. Relieving concerns about delays in new work... Target price↑-Shinhan,-1,0.0,0.217,0.7829999999999999,0.3612,1,2020-8-14,2020-08-14 00:00:00
+88,2020-08-14 08:32:00,"[Hot-Line] ""NCSoft, earnings reversal with the release of new works in the second half""",0,0.0,0.0,1.0,0.0,0,2020-8-14,2020-08-14 00:00:00
+89,2020-08-14 08:21:00,"NCsoft, expects growth with new titles in 2H despite sluggish 2Q-Meritz",-1,0.0,0.35100000000000003,0.649,0.5938,1,2020-8-14,2020-08-14 00:00:00
+90,2020-08-14 08:21:00,"NCsoft, expects growth with new titles in 2H despite sluggish 2Q-Meritz",-1,0.0,0.35100000000000003,0.649,0.5938,1,2020-8-14,2020-08-14 00:00:00
+91,2020-08-14 08:10:00,"NCsoft was sluggish in 2Q, but expects improvement in 2H... Target price↑",-1,0.11699999999999999,0.252,0.631,0.4854,1,2020-8-14,2020-08-14 00:00:00
+92,2020-08-13 18:30:00,"[Concall Synthesis] NCsoft, Breathtaking Q2… 'Preliminary' running in the second half",0,0.0,0.231,0.769,0.4588,1,2020-8-14,2020-08-14 00:00:00
+93,2020-08-13 15:59:00,'The Power of Lineage Brothers' NCsoft's 2nd Quarter Performance is also warm...,0,0.0,0.0,1.0,0.0,0,2020-8-13,2020-08-13 00:00:00
+94,2020-08-13 10:13:00,"[NCSoft Concall] “Lineage 2M seeks a rebound in the fourth quarter… Siege war, 1st anniversary",1,0.231,0.0,0.769,-0.5994,-1,2020-8-13,2020-08-13 00:00:00
+95,2020-08-13 10:16:00,“Influence of the release of competitors such as “The Kingdom of the Wind” is minimal”-NCsoft Concall,1,0.0,0.0,1.0,0.0,0,2020-8-13,2020-08-13 00:00:00
+96,2020-08-13 10:15:00,"[NCSoft Concall] “Project TL, a large-scale in-house test within a few weeks… Running next year...",0,0.0,0.0,1.0,0.0,0,2020-8-13,2020-08-13 00:00:00
+97,2020-08-13 10:01:00,“'Project TL' in-house test soon… Convinced that it will be released next year”-NCsoft...,0,0.0,0.184,0.816,0.4019,1,2020-8-13,2020-08-13 00:00:00
+98,2020-08-13 10:15:00,"[NCSoft Concall] “Project TL, a large-scale in-house test within a few weeks… Running next year...",0,0.0,0.0,1.0,0.0,0,2020-8-13,2020-08-13 00:00:00
+99,2020-08-13 08:28:00,NCsoft donated 1 billion won for flood recovery,-1,0.0,0.381,0.619,0.5719,1,2020-8-13,2020-08-13 00:00:00
+100,2020-08-13 10:14:00,"[NCSOFT CONCALL] “Lineage 2M, overseas, Taiwan first… Add in the first half of next year ...",0,0.0,0.0,1.0,0.0,0,2020-8-13,2020-08-13 00:00:00
+101,2020-08-13 09:45:00,"""Lineage 2M"" overseas release is confirmed only in Taiwan""-NCsoft Concall",0,0.0,0.0,1.0,0.0,0,2020-8-13,2020-08-13 00:00:00
+102,2020-08-13 10:13:00,[NCSoft Concall] “Lineage M sales rebound in 3Q… Continuous Update”,1,0.0,0.0,1.0,0.0,0,2020-8-13,2020-08-13 00:00:00
+103,2020-08-13 09:25:00,"“Lineage M, sales in the third quarter will increase more than in the second quarter”-NCsoft Consumer...",0,0.0,0.133,0.867,0.3182,1,2020-8-13,2020-08-13 00:00:00
+104,2020-08-13 10:12:00,[NCSoft Concall] “Bulso 2 as expected to be released within this year… 2030 target”,0,0.0,0.0,1.0,0.0,0,2020-8-13,2020-08-13 00:00:00
+105,2020-08-13 10:04:00,The power of the “Lineage Brothers”… NCsoft's 2nd Quarter Continues Good Performance (Total),1,0.0,0.195,0.805,0.4404,1,2020-8-13,2020-08-13 00:00:00
+106,2020-08-13 10:03:00,"The new effect that disappeared... NCsoft,'saved' 2Q operating profit of 209 billion [Total...",-1,0.0,0.195,0.805,0.4404,1,2020-8-13,2020-08-13 00:00:00
+107,2020-08-13 09:44:00,The power of the Lineage brothers ‥ NCsoft 2Q operating profit 61% ↑,0,0.0,0.225,0.775,0.4404,1,2020-8-13,2020-08-13 00:00:00
+108,2020-08-13 10:03:00,"The new effect that disappeared... NCsoft,'saved' 2Q operating profit of 209 billion [Total...",-1,0.0,0.195,0.805,0.4404,1,2020-8-13,2020-08-13 00:00:00
+109,2020-08-13 09:02:00,"NCsoft, 2Q operating profit of 209 billion... 61% year-on-year↑",-1,0.0,0.266,0.7340000000000001,0.4404,1,2020-8-13,2020-08-13 00:00:00
+110,2020-08-13 08:44:00,"[Breaking News] NCsoft, 2Q operating profit of 209 billion… 61% ↑",-1,0.0,0.244,0.7559999999999999,0.4404,1,2020-8-13,2020-08-13 00:00:00
+111,2020-08-13 08:19:00,"[Breaking News] NCsoft, 2Q operating profit of 290 billion… 61% ↑",-1,0.0,0.244,0.7559999999999999,0.4404,1,2020-8-13,2020-08-13 00:00:00
+112,2020-08-13 08:22:00,"NCsoft, 2Q operating profit of 209 billion won... 61% increase over the previous year",-1,0.0,0.302,0.698,0.6369,1,2020-8-13,2020-08-13 00:00:00
+113,2020-08-13 08:12:00,NCsoft donates 1 billion won to recover from torrential rain,-1,0.0,0.316,0.684,0.5719,1,2020-8-13,2020-08-13 00:00:00
+114,2020-08-10 08:46:00,"Performance announcement on the 13th NCsoft, what are the points of watching?",0,0.0,0.0,1.0,0.0,0,2020-8-10,2020-08-10 00:00:00
+115,2020-08-05 14:40:00,NCsoft's'Lineage 2M' first siege warfare announced on the 16th,0,0.21600000000000003,0.0,0.784,-0.29600000000000004,-1,2020-8-5,2020-08-05 00:00:00
+116,2020-08-05 14:10:00,"NCsoft's'Lineage 2M', the first siege, will be held at Dionseong on the 16th",0,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+117,2020-08-02 17:12:00,The power of mobile… NCsoft Challenge 1 trillion in all operating profit,-1,0.0,0.318,0.682,0.4939,1,2020-8-3,2020-08-03 00:00:00
+118,2020-08-02 15:41:00,"Second half performance is better… Samsung Electronics, Naver, NCsoft'Jjim'",1,0.0,0.0,1.0,0.0,0,2020-8-2,2020-08-02 00:00:00
+119,2020-07-29 17:04:00,"NCsoft, Selected as “The Best Job Company in Korea in 2020” by the Ministry of Employment and Labor",1,0.0,0.198,0.802,0.6369,1,2020-7-30,2020-07-30 00:00:00
+120,2020-07-28 08:28:00,"""NCSoft pays attention to new works in the second half""... Mirae Asset Daewoo",0,0.0,0.172,0.828,0.3612,1,2020-7-28,2020-07-28 00:00:00
+121,2020-07-28 08:25:00,“NCsoft stock price adjustment is an opportunity to buy at a low price”,0,0.141,0.188,0.6709999999999999,0.1779,1,2020-7-28,2020-07-28 00:00:00
+122,2020-07-28 07:56:00,NCsoft's recent correction is a low-cost buying opportunity,0,0.0,0.318,0.682,0.4215,1,2020-7-28,2020-07-28 00:00:00
+123,2020-07-27 17:29:00,Netmarble vs NCsoft... Is the game'Rivals' on fire?,0,0.255,0.0,0.745,-0.34,-1,2020-7-28,2020-07-28 00:00:00
+124,2020-07-27 14:08:00,"NCsoft'Lineage Remaster', the 10th new class'Changgisa' released",0,0.0,0.0,1.0,0.0,0,2020-7-27,2020-07-27 00:00:00
+125,2020-07-26 09:56:00,"[Market Point]'NCSoft', No. 1 in individual net purchases for KOSPI weekly",0,0.196,0.0,0.804,-0.29600000000000004,-1,2020-7-26,2020-07-26 00:00:00
+126,2020-08-17 17:06:00,"I didn't know, NCsoft was an AI powerhouse... Game company's first financial advance",0,0.0,0.0,1.0,0.0,0,2020-8-18,2020-08-18 00:00:00
+127,2020-08-15 16:54:00,"NCsoft, take a breath in the second quarter... Market interest in the fourth quarter",0,0.0,0.2,0.8,0.4588,1,2020-8-16,2020-08-16 00:00:00
+128,2020-08-14 21:26:00,"Hyosung Honorary Chairman Cho Seok-rae 26.6 billion... Kim Tae-jin, CEO of NCsoft",0,0.0,0.179,0.821,0.34,1,2020-8-15,2020-08-15 00:00:00
+129,2020-08-14 11:54:00,"NCsoft, music content service through'BGM Factory'",0,0.0,0.0,1.0,0.0,0,2020-8-14,2020-08-14 00:00:00
+130,2020-08-14 08:55:00,"NCsoft, expectation of new work is valid... Target price ↑-Shinhan Investment Corp.",0,0.0,0.0,1.0,0.0,0,2020-8-14,2020-08-14 00:00:00
+131,2020-08-14 08:54:00,NCsoft. Relieving concerns about delays in new work... Target price↑-Shinhan,-1,0.0,0.217,0.7829999999999999,0.3612,1,2020-8-14,2020-08-14 00:00:00
+132,2020-08-14 08:32:00,"[Hot-Line] ""NCSoft, earnings reversal with the release of new works in the second half""",0,0.0,0.0,1.0,0.0,0,2020-8-14,2020-08-14 00:00:00
+133,2020-08-14 08:21:00,"NCsoft, expects growth with new titles in 2H despite sluggish 2Q-Meritz",-1,0.0,0.35100000000000003,0.649,0.5938,1,2020-8-14,2020-08-14 00:00:00
+134,2020-08-14 08:21:00,"NCsoft, expects growth with new titles in 2H despite sluggish 2Q-Meritz",-1,0.0,0.35100000000000003,0.649,0.5938,1,2020-8-14,2020-08-14 00:00:00
+135,2020-08-14 08:10:00,"NCsoft was sluggish in 2Q, but expects improvement in 2H... Target price↑",-1,0.11699999999999999,0.252,0.631,0.4854,1,2020-8-14,2020-08-14 00:00:00
+136,2020-08-13 18:30:00,"[Concall Synthesis] NCsoft, Breathtaking Q2… 'Preliminary' running in the second half",0,0.0,0.231,0.769,0.4588,1,2020-8-14,2020-08-14 00:00:00
+137,2020-08-13 15:59:00,'The Power of Lineage Brothers' NCsoft's 2nd Quarter Performance is also warm...,0,0.0,0.0,1.0,0.0,0,2020-8-13,2020-08-13 00:00:00
+138,2020-08-13 10:13:00,"[NCSoft Concall] “Lineage 2M seeks a rebound in the fourth quarter… Siege war, 1st anniversary",1,0.231,0.0,0.769,-0.5994,-1,2020-8-13,2020-08-13 00:00:00
+139,2020-08-13 18:30:00,"[Concall Synthesis] NCsoft, Breathtaking Q2… 'Preliminary' running in the second half",0,0.0,0.231,0.769,0.4588,1,2020-8-14,2020-08-14 00:00:00
+140,2020-08-13 15:59:00,'The Power of Lineage Brothers' NCsoft's 2nd Quarter Performance is also warm...,0,0.0,0.0,1.0,0.0,0,2020-8-13,2020-08-13 00:00:00
+141,2020-08-13 10:13:00,"[NCSoft Concall] “Lineage 2M seeks a rebound in the fourth quarter… Siege war, 1st anniversary",1,0.231,0.0,0.769,-0.5994,-1,2020-8-13,2020-08-13 00:00:00
+142,2020-08-13 10:16:00,“Influence of the release of competitors such as “The Kingdom of the Wind” is minimal”-NCsoft Concall,1,0.0,0.0,1.0,0.0,0,2020-8-13,2020-08-13 00:00:00
+143,2020-08-13 10:15:00,"[NCSoft Concall] “Project TL, a large-scale in-house test within a few weeks… Running next year...",0,0.0,0.0,1.0,0.0,0,2020-8-13,2020-08-13 00:00:00
+144,2020-08-13 10:01:00,“'Project TL' in-house test soon… Convinced that it will be released next year”-NCsoft...,0,0.0,0.184,0.816,0.4019,1,2020-8-13,2020-08-13 00:00:00
+145,2020-08-13 10:15:00,"[NCSoft Concall] “Project TL, a large-scale in-house test within a few weeks… Running next year...",0,0.0,0.0,1.0,0.0,0,2020-8-13,2020-08-13 00:00:00
+146,2020-08-13 08:28:00,NCsoft donated 1 billion won for flood recovery,-1,0.0,0.381,0.619,0.5719,1,2020-8-13,2020-08-13 00:00:00
+147,2020-08-13 10:14:00,"[NCSOFT CONCALL] “Lineage 2M, overseas, Taiwan first… Add in the first half of next year ...",0,0.0,0.0,1.0,0.0,0,2020-8-13,2020-08-13 00:00:00
+148,2020-08-13 09:45:00,"""Lineage 2M"" overseas release is confirmed only in Taiwan""-NCsoft Concall",0,0.0,0.0,1.0,0.0,0,2020-8-13,2020-08-13 00:00:00
+149,2020-08-13 10:13:00,"[NCSoft Concall] “Lineage 2M seeks a rebound in the fourth quarter… Siege war, 1st anniversary",1,0.231,0.0,0.769,-0.5994,-1,2020-8-13,2020-08-13 00:00:00
+150,2020-08-13 09:25:00,"“Lineage M, sales in the third quarter will increase more than in the second quarter”-NCsoft Consumer...",0,0.0,0.133,0.867,0.3182,1,2020-8-13,2020-08-13 00:00:00
+151,2020-08-13 10:12:00,[NCSoft Concall] “Bulso 2 as expected to be released within this year… 2030 target”,0,0.0,0.0,1.0,0.0,0,2020-8-13,2020-08-13 00:00:00
+152,2020-08-13 10:04:00,The power of the “Lineage Brothers”… NCsoft's 2nd Quarter Continues Good Performance (Total),1,0.0,0.195,0.805,0.4404,1,2020-8-13,2020-08-13 00:00:00
+153,2020-08-13 10:03:00,"The new effect that disappeared... NCsoft,'saved' 2Q operating profit of 209 billion [Total...",-1,0.0,0.195,0.805,0.4404,1,2020-8-13,2020-08-13 00:00:00
+154,2020-08-13 09:44:00,The power of the Lineage brothers ‥ NCsoft 2Q operating profit 61% ↑,0,0.0,0.225,0.775,0.4404,1,2020-8-13,2020-08-13 00:00:00
+155,2020-08-13 10:03:00,"The new effect that disappeared... NCsoft,'saved' 2Q operating profit of 209 billion [Total...",-1,0.0,0.195,0.805,0.4404,1,2020-8-13,2020-08-13 00:00:00
+156,2020-08-13 09:02:00,"NCsoft, 2Q operating profit of 209 billion... 61% year-on-year↑",-1,0.0,0.266,0.7340000000000001,0.4404,1,2020-8-13,2020-08-13 00:00:00
+157,2020-08-13 08:44:00,"[Breaking News] NCsoft, 2Q operating profit of 209 billion… 61% ↑",-1,0.0,0.244,0.7559999999999999,0.4404,1,2020-8-13,2020-08-13 00:00:00
+158,2020-08-13 08:19:00,"[Breaking News] NCsoft, 2Q operating profit of 290 billion… 61% ↑",-1,0.0,0.244,0.7559999999999999,0.4404,1,2020-8-13,2020-08-13 00:00:00
+159,2020-08-13 08:22:00,"NCsoft, 2Q operating profit of 209 billion won... 61% increase over the previous year",-1,0.0,0.302,0.698,0.6369,1,2020-8-13,2020-08-13 00:00:00
+160,2020-08-13 10:03:00,"NCsoft, 2Q operating profit of 209 billion... 61% year-on-year↑",-1,0.0,0.266,0.7340000000000001,0.4404,1,2020-8-13,2020-08-13 00:00:00
+161,2020-08-13 09:02:00,"NCsoft, 2Q operating profit of 209 billion... 61% year-on-year↑",-1,0.0,0.266,0.7340000000000001,0.4404,1,2020-8-13,2020-08-13 00:00:00
+162,2020-08-13 08:44:00,"[Breaking News] NCsoft, 2Q operating profit of 209 billion… 61% ↑",-1,0.0,0.244,0.7559999999999999,0.4404,1,2020-8-13,2020-08-13 00:00:00
+163,2020-08-13 08:19:00,"[Breaking News] NCsoft, 2Q operating profit of 290 billion… 61% ↑",-1,0.0,0.244,0.7559999999999999,0.4404,1,2020-8-13,2020-08-13 00:00:00
+164,2020-08-13 10:03:00,"NCsoft, 2Q operating profit of 209 billion... 61% year-on-year↑",-1,0.0,0.266,0.7340000000000001,0.4404,1,2020-8-13,2020-08-13 00:00:00
+165,2020-08-13 09:44:00,The power of the Lineage brothers ‥ NCsoft 2Q operating profit 61% ↑,0,0.0,0.225,0.775,0.4404,1,2020-8-13,2020-08-13 00:00:00
+166,2020-08-13 10:01:00,“'Project TL' in-house test soon… Convinced of next year release”-NCsoft ...,0,0.0,0.213,0.787,0.4019,1,2020-8-13,2020-08-13 00:00:00
+167,2020-08-13 09:45:00,"""Lineage 2M"" overseas release is confirmed only in Taiwan""-NCsoft Concall",0,0.0,0.0,1.0,0.0,0,2020-8-13,2020-08-13 00:00:00
+168,2020-08-13 09:25:00,“Lineage M” will increase sales in the third quarter than in the second quarter”-NCsoft Concall,0,0.0,0.141,0.8590000000000001,0.3182,1,2020-8-13,2020-08-13 00:00:00
+169,2020-08-13 08:28:00,NCsoft donated 1 billion won for flood recovery,-1,0.0,0.381,0.619,0.5719,1,2020-8-13,2020-08-13 00:00:00
+170,2020-08-13 08:22:00,"NCsoft, 2Q operating profit of 209 billion won... 61% increase over the previous year",-1,0.0,0.302,0.698,0.6369,1,2020-8-13,2020-08-13 00:00:00
+171,2020-08-13 08:12:00,NCsoft donates 1 billion won to recover from torrential rain,-1,0.0,0.316,0.684,0.5719,1,2020-8-13,2020-08-13 00:00:00
+172,2020-08-10 08:46:00,"Performance announcement on the 13th NCsoft, what are the points of watching?",0,0.0,0.0,1.0,0.0,0,2020-8-10,2020-08-10 00:00:00
+173,2020-08-05 14:40:00,NCsoft's'Lineage 2M' first siege warfare announced on the 16th,0,0.21600000000000003,0.0,0.784,-0.29600000000000004,-1,2020-8-5,2020-08-05 00:00:00
+174,2020-08-13 08:19:00,"[Breaking News] NCsoft, 2Q operating profit of 290 billion… 61% ↑",-1,0.0,0.244,0.7559999999999999,0.4404,1,2020-8-13,2020-08-13 00:00:00
+175,2020-08-13 08:12:00,NCsoft donates 1 billion won to recover from torrential rain,-1,0.0,0.316,0.684,0.5719,1,2020-8-13,2020-08-13 00:00:00
+176,2020-08-10 08:46:00,"Performance announcement on the 13th NCsoft, what are the points of watching?",0,0.0,0.0,1.0,0.0,0,2020-8-10,2020-08-10 00:00:00
+177,2020-08-05 14:40:00,NCsoft's'Lineage 2M' first siege warfare announced on the 16th,0,0.21600000000000003,0.0,0.784,-0.29600000000000004,-1,2020-8-5,2020-08-05 00:00:00
+178,2020-08-05 14:10:00,"NCsoft's'Lineage 2M', the first siege, will be held at Dionseong on the 16th",0,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+179,2020-08-02 17:12:00,The power of mobile… NCsoft Challenge 1 trillion in all operating profit,-1,0.0,0.318,0.682,0.4939,1,2020-8-3,2020-08-03 00:00:00
+180,2020-08-02 15:41:00,"Second half performance is better… Samsung Electronics, Naver, NCsoft'Jjim'",1,0.0,0.0,1.0,0.0,0,2020-8-2,2020-08-02 00:00:00
+181,2020-07-29 17:04:00,"NCsoft, Selected as “The Best Job Company in Korea in 2020” by the Ministry of Employment and Labor",1,0.0,0.198,0.802,0.6369,1,2020-7-30,2020-07-30 00:00:00
+182,2020-07-28 08:28:00,"""NCSoft pays attention to new works in the second half""... Mirae Asset Daewoo",0,0.0,0.172,0.828,0.3612,1,2020-7-28,2020-07-28 00:00:00
+183,2020-07-28 08:25:00,“NCsoft stock price adjustment is an opportunity to buy at a low price”,0,0.141,0.188,0.6709999999999999,0.1779,1,2020-7-28,2020-07-28 00:00:00
+184,2020-07-28 07:56:00,NCsoft's recent correction is a low-cost buying opportunity,0,0.0,0.318,0.682,0.4215,1,2020-7-28,2020-07-28 00:00:00
+185,2020-07-28 07:56:00,NCsoft's recent correction is a low-cost buying opportunity,0,0.0,0.318,0.682,0.4215,1,2020-7-28,2020-07-28 00:00:00
+186,2020-07-27 17:29:00,Netmarble vs NCsoft... Is the game'Rivals' on fire?,0,0.255,0.0,0.745,-0.34,-1,2020-7-28,2020-07-28 00:00:00
+187,2020-07-27 14:08:00,"NCsoft'Lineage Remaster', the 10th new class'Changgisa' released",0,0.0,0.0,1.0,0.0,0,2020-7-27,2020-07-27 00:00:00
+188,2020-07-26 09:56:00,"[Market Point]'NCSoft', No. 1 in individual net purchases for KOSPI weekly",0,0.196,0.0,0.804,-0.29600000000000004,-1,2020-7-26,2020-07-26 00:00:00
+189,2020-07-26 09:55:00,"[Market Point]'NCSoft', No. 1 in foreign net selling during the week of KOSPI",0,0.16699999999999998,0.0,0.833,-0.29600000000000004,-1,2020-7-26,2020-07-26 00:00:00
+190,2020-07-25 08:02:00,[Chairman and Sports-4] Baseball with NCsoft CEO Taekjin Kim,0,0.0,0.0,1.0,0.0,0,2020-7-25,2020-07-25 00:00:00
+191,2020-07-23 17:31:00,"NCsoft's stock price shakes on the return of the ""land of the wind""... Is it past?",1,0.0,0.0,1.0,0.0,0,2020-7-24,2020-07-24 00:00:00
+192,2020-07-22 13:13:00,"NCsoft'Lineage M', the first master server'Girtas Raid' updated...",0,0.0,0.0,1.0,0.0,0,2020-7-22,2020-07-22 00:00:00
+193,2020-07-20 10:35:00,NCsoft unveils the sound source of'Fever Music 2020 Cool Summer Project',0,0.0,0.187,0.813,0.3182,1,2020-7-20,2020-07-20 00:00:00
+194,2020-07-20 09:22:00,"[Features] Untact 3 companies following adjustment NAVER, Kakao, NCsoft",0,0.0,0.0,1.0,0.0,0,2020-7-20,2020-07-20 00:00:00
+195,2020-07-17 18:04:00,NCsoft announces 2nd quarter earnings on the 13th,0,0.0,0.0,1.0,0.0,0,2020-7-18,2020-07-18 00:00:00
+196,2020-07-16 15:39:00,NCsoft signed a trust contract for OST music copyright with Hamjeohyup,0,0.0,0.268,0.732,0.5106,1,2020-7-16,2020-07-16 00:00:00
+197,2020-07-16 11:32:00,"NCsoft, active community... Share price -4.53%.",0,0.0,0.551,0.449,0.5994,1,2020-7-16,2020-07-16 00:00:00
+198,2020-07-14 08:41:00,NCsoft expects the game market to grow in the wake of Corona 19. Target price↑-KTB,0,0.0,0.0,1.0,0.0,0,2020-7-14,2020-07-14 00:00:00
+199,2020-07-14 08:37:00,NCsoft expects to update'Lineage 2M' in the third quarter... Target price↑-IBK,0,0.0,0.0,1.0,0.0,0,2020-7-14,2020-07-14 00:00:00
+200,2020-07-13 14:50:00,"NCsoft Infinite Run… 1 million won ""Gazah?""",-1,0.0,0.425,0.575,0.5719,1,2020-7-13,2020-07-13 00:00:00
+201,2020-07-13 09:10:00,NCsoft's target price upward revision,0,0.0,0.0,1.0,0.0,0,2020-7-13,2020-07-13 00:00:00
+202,2020-07-13 09:03:00,"Daishin Securities ""NCSoft, the stock price goes up to 1.2 million won""",-1,0.0,0.371,0.629,0.7096,1,2020-7-13,2020-07-13 00:00:00
+203,2020-07-13 08:32:00,NCsoft expects to update'Lineage M·2M' in the second half... Target price↑-DB,0,0.0,0.0,1.0,0.0,0,2020-7-13,2020-07-13 00:00:00
+204,2020-07-13 07:36:00,NCsoft expects to launch'Lineage 2M' overseas... Target price of 1.2 million won-Daeshin Securities,-1,0.0,0.155,0.845,0.29600000000000004,1,2020-7-13,2020-07-13 00:00:00
+205,2020-07-12 15:27:00,Celltrion·Samsung SDI·LG Chemical·NCSoft… 'BBIG7' jump and run every day,0,0.0,0.0,1.0,0.0,0,2020-7-12,2020-07-12 00:00:00
+206,2020-07-10 09:09:00,"[Intensive Analysis Issue Time] Non-face-to-face'Big 3'Naver, Kakao, NCsoft, where are they...",0,0.0,0.0,1.0,0.0,0,2020-7-10,2020-07-10 00:00:00
+207,2020-07-09 07:20:00,The National Pension Plan bought Naver with the money sold by NCsoft,0,0.0,0.0,1.0,0.0,0,2020-7-9,2020-07-09 00:00:00
+208,2020-07-08 16:20:00,NCsoft Updates Lineage M Titan,0,0.0,0.0,1.0,0.0,0,2020-7-9,2020-07-09 00:00:00
+209,2020-07-13 07:36:00,NCsoft expects to launch'Lineage 2M' overseas... Target price of 1.2 million won-Daeshin Securities,-1,0.0,0.155,0.845,0.29600000000000004,1,2020-7-13,2020-07-13 00:00:00
+210,2020-07-12 15:27:00,Celltrion·Samsung SDI·LG Chemical·NCSoft… 'BBIG7' jump and run every day,0,0.0,0.0,1.0,0.0,0,2020-7-12,2020-07-12 00:00:00
+211,2020-07-10 09:09:00,"[Intensive Analysis Issue Time] Non-face-to-face'Big 3'Naver, Kakao, NCsoft, where are they...",0,0.0,0.0,1.0,0.0,0,2020-7-10,2020-07-10 00:00:00
+212,2020-07-09 07:20:00,The National Pension Plan bought Naver with the money sold by NCsoft,0,0.0,0.0,1.0,0.0,0,2020-7-9,2020-07-09 00:00:00
+213,2020-07-08 16:20:00,NCsoft Updates Lineage M Titan,0,0.0,0.0,1.0,0.0,0,2020-7-9,2020-07-09 00:00:00
+214,2020-07-07 08:41:00,NCsoft expects to lift Han-Korean government to benefit from Untact... Target Price↑-Korea,1,0.0,0.214,0.7859999999999999,0.4588,1,2020-7-7,2020-07-07 00:00:00
+215,2020-07-07 08:01:00,"NCsoft, when you need to no-route.. Goal is 1.1 million won-Korea",-1,0.0,0.0,1.0,0.0,0,2020-7-7,2020-07-07 00:00:00
+216,2020-07-07 07:58:00,NCsoft's 2Q and 4Q earnings expected to grow significantly,0,0.377,0.0,0.623,-0.7034,-1,2020-7-7,2020-07-07 00:00:00
+217,2020-07-07 07:45:00,"[Click e-Stock]"" NCsoft, target price of 1.1 million won... Expectations for 2Q earnings...",-1,0.0,0.0,1.0,0.0,0,2020-7-7,2020-07-07 00:00:00
+218,2020-07-06 16:39:00,NCsoft ranks 10th in the KOSPI market cap… 1 million won notice ‘at the moment’,-1,0.0,0.222,0.778,0.5719,1,2020-7-7,2020-07-07 00:00:00
+219,2020-07-06 13:15:00,"[fnRASSI] NCsoft (036570), 52 weeks report...4.98%...",0,0.0,0.0,1.0,0.0,0,2020-7-6,2020-07-06 00:00:00
+220,2020-07-06 09:29:00,"[fnRASSI] NCsoft (036570), 52 weeks report...2.22...",0,0.0,0.0,1.0,0.0,0,2020-7-6,2020-07-06 00:00:00
+221,2020-07-06 11:18:00,"'NCSoft' increased by more than 5%, rising due to the regular alignment of the short and mid-term",0,0.0,0.11599999999999999,0.884,0.2732,1,2020-7-6,2020-07-06 00:00:00
+222,2020-07-06 09:31:00,[Features] NCsoft reports 52 weeks… LG Household & Health Care,0,0.0,0.28600000000000003,0.7140000000000001,0.4939,1,2020-7-6,2020-07-06 00:00:00
+223,2020-07-06 13:15:00,"[fnRASSI] NCsoft (036570), 52 weeks report...4.98%...",0,0.0,0.0,1.0,0.0,0,2020-7-6,2020-07-06 00:00:00
+224,2020-07-06 09:29:00,"[fnRASSI] NCsoft (036570), 52 weeks report...2.22...",0,0.0,0.0,1.0,0.0,0,2020-7-6,2020-07-06 00:00:00
+225,2020-07-06 11:18:00,"'NCSoft' increased by more than 5%, rising due to the regular alignment of the short and mid-term",0,0.0,0.11599999999999999,0.884,0.2732,1,2020-7-6,2020-07-06 00:00:00
+226,2020-07-06 09:31:00,[Features] NCsoft reports 52 weeks… LG Household & Health Care,0,0.0,0.28600000000000003,0.7140000000000001,0.4939,1,2020-7-6,2020-07-06 00:00:00
+227,2020-07-06 08:53:00,"""NCSoft,"" rich in positive factors-NH Investment & Securities",0,0.0,0.701,0.299,0.8555,1,2020-7-6,2020-07-06 00:00:00
+228,2020-07-06 08:09:00,"[Click e-Stock]"" NCsoft, rich momentum for further upside… 2Q results are con...",0,0.0,0.247,0.753,0.5574,1,2020-7-6,2020-07-06 00:00:00
+229,2020-07-02 18:21:00,"Ncsoft's'Linger C', to target all generations",0,0.0,0.0,1.0,0.0,0,2020-7-3,2020-07-03 00:00:00
+230,2020-07-02 15:05:00,NCsoft unveils three PC games-based mobile games,0,0.0,0.0,1.0,0.0,0,2020-7-2,2020-07-02 00:00:00
+231,2020-07-02 11:28:00,NCsoft brings back memories of game users connecting'Linger C',0,0.0,0.0,1.0,0.0,0,2020-7-2,2020-07-02 00:00:00
+232,2020-07-02 15:18:00,[fnRASSI] NCsoft reports 52 weeks...7.5% ↑,0,0.0,0.0,1.0,0.0,0,2020-7-2,2020-07-02 00:00:00
+233,2020-07-02 15:08:00,"'NCSoft' 52 weeks report is Kyungshin, multiple expansion section Daejangju-Hanwha...",0,0.0,0.0,1.0,0.0,0,2020-7-2,2020-07-02 00:00:00
+234,2020-07-02 13:56:00,"'NCSoft' increased by more than 5%, Daejangju, a multiple expansion section-Hanwha2...",0,0.0,0.18899999999999997,0.8109999999999999,0.2732,1,2020-7-2,2020-07-02 00:00:00
+235,2020-07-01 15:08:00,NCsoft launches US attack.. Fuser starts advance reservation,0,0.0,0.0,1.0,0.0,0,2020-7-1,2020-07-01 00:00:00
+236,2020-07-01 13:17:00,"NCsoft launches advance reservation for new console and PC ""fuser""",0,0.0,0.0,1.0,0.0,0,2020-7-1,2020-07-01 00:00:00
+237,2020-07-01 10:43:00,"NCsoft, console challenge'fuser' advance reservation'rush in'",0,0.0,0.0,1.0,0.0,0,2020-7-1,2020-07-01 00:00:00
+238,2020-07-01 14:54:00,"NCsoft'Blade & Soul','B&S Figure' released",0,0.0,0.0,1.0,0.0,0,2020-7-1,2020-07-01 00:00:00
+239,2020-06-30 16:08:00,NCsoft'Untact Hunpung'...the target soared to 1.2 million won,-1,0.0,0.34600000000000003,0.654,0.5719,1,2020-7-1,2020-07-01 00:00:00
+240,2020-07-02 13:56:00,"'NCSoft' increased by more than 5%, Daejangju, which is a multiple expansion section-Hanwha Investment...",0,0.0,0.149,0.851,0.2732,1,2020-7-2,2020-07-02 00:00:00
+241,2020-07-02 11:28:00,NCsoft brings back memories of game users connecting'Linger C',0,0.0,0.0,1.0,0.0,0,2020-7-2,2020-07-02 00:00:00
+242,2020-07-01 15:08:00,NCsoft launches US attack.. Fuser starts advance reservation,0,0.0,0.0,1.0,0.0,0,2020-7-1,2020-07-01 00:00:00
+243,2020-07-01 13:17:00,"NCsoft launches advance reservation for new console and PC ""fuser""",0,0.0,0.0,1.0,0.0,0,2020-7-1,2020-07-01 00:00:00
+244,2020-07-01 10:43:00,"NCsoft, console challenge'fuser' advance reservation'rush in'",0,0.0,0.0,1.0,0.0,0,2020-7-1,2020-07-01 00:00:00
+245,2020-07-01 14:54:00,"NCsoft'Blade & Soul','B&S Figure' released",0,0.0,0.0,1.0,0.0,0,2020-7-1,2020-07-01 00:00:00
+246,2020-06-30 16:08:00,NCsoft'Untact Hunpung'...the target soared to 1.2 million won,-1,0.0,0.34600000000000003,0.654,0.5719,1,2020-7-1,2020-07-01 00:00:00
+247,2020-06-30 09:54:00,NCsoft is well received... Stock price “target is over 1 million won”,-1,0.0,0.174,0.826,0.2732,1,2020-6-30,2020-06-30 00:00:00
+248,2020-06-30 09:03:00,NCsoft expects large-scale update effect. Target price ↑-Hi Investment & Securities,0,0.0,0.196,0.804,0.29600000000000004,1,2020-6-30,2020-06-30 00:00:00
+249,2020-06-30 08:53:00,"Hanwha Investment & Securities ""NCSoft, Up to 1.2 Million Won""",-1,0.0,0.457,0.5429999999999999,0.7096,1,2020-6-30,2020-06-30 00:00:00
+250,2020-06-30 08:21:00,"""NCsoft, expected to increase 115% in 3Q operating profit"" Hanwha Investment & Securities",0,0.0,0.451,0.5489999999999999,0.7506,1,2020-6-30,2020-06-30 00:00:00
+251,2020-06-29 13:00:00,'Lineage M Brothers' dual strength... NCsoft aims at 2.7 trillion in sales,0,0.0,0.0,1.0,0.0,0,2020-6-29,2020-06-29 00:00:00
+252,2020-06-29 08:39:00,NCsoft's earnings outlook for this year'clear'-target price↑-SK,0,0.0,0.0,1.0,0.0,0,2020-6-29,2020-06-29 00:00:00
+253,2020-06-29 08:23:00,NCsoft has ample room for further growth. Target price ↑-SK Securities,0,0.0,0.348,0.652,0.5859,1,2020-6-29,2020-06-29 00:00:00
+254,2020-06-26 08:23:00,NCsoft's share price rises with updates and overseas releases... Target Price↑-Samsung Securities,0,0.0,0.306,0.6940000000000001,0.5267,1,2020-6-26,2020-06-26 00:00:00
+255,2020-06-26 08:18:00,NCsoft strengthens new game momentum as a top-tier game company... Target price ↑-Samsung,1,0.0,0.214,0.7859999999999999,0.4588,1,2020-6-26,2020-06-26 00:00:00
+256,2020-06-25 09:30:00,"NCsoft, 2 hour stock price -1.27%.... Institution 23,43 on the last 5 days",0,0.0,0.0,1.0,0.0,0,2020-6-25,2020-06-25 00:00:00
+257,2020-06-30 08:21:00,"""NCsoft, expected to increase 115% in 3Q operating profit"" Hanwha Investment & Securities",0,0.0,0.451,0.5489999999999999,0.7506,1,2020-6-30,2020-06-30 00:00:00
+258,2020-06-29 13:00:00,'Lineage M Brothers' dual strength... NCsoft aims at 2.7 trillion in sales,0,0.0,0.0,1.0,0.0,0,2020-6-29,2020-06-29 00:00:00
+259,2020-06-29 08:39:00,NCsoft's earnings outlook for this year'clear'-target price↑-SK,0,0.0,0.0,1.0,0.0,0,2020-6-29,2020-06-29 00:00:00
+260,2020-06-29 08:23:00,NCsoft has ample room for further growth. Target price ↑-SK Securities,0,0.0,0.348,0.652,0.5859,1,2020-6-29,2020-06-29 00:00:00
+261,2020-06-26 08:23:00,NCsoft's share price rises with updates and overseas releases... Target Price↑-Samsung Securities,0,0.0,0.306,0.6940000000000001,0.5267,1,2020-6-26,2020-06-26 00:00:00
+262,2020-06-26 08:18:00,NCsoft strengthens new game momentum as a top-tier game company... Target price ↑-Samsung,1,0.0,0.214,0.7859999999999999,0.4588,1,2020-6-26,2020-06-26 00:00:00
+263,2020-06-25 09:30:00,"NCsoft, 2 hour stock price -1.27%.... Institution 23,43 on the last 5 days",0,0.0,0.0,1.0,0.0,0,2020-6-25,2020-06-25 00:00:00
+264,2020-06-24 16:52:00,NCsoft'Lineage 2M' and'Chronicle III Age of Abundance' update,0,0.0,0.0,1.0,0.0,0,2020-6-25,2020-06-25 00:00:00
+265,2020-06-24 14:39:00,NCsoft exceeds market cap of 20 trillion won How much more will it rise,-1,0.0,0.222,0.778,0.5719,1,2020-6-24,2020-06-24 00:00:00
+266,2020-06-24 11:18:00,The 6th report this month... NCsoft ahead of entering'Emperor's,0,0.0,0.0,1.0,0.0,0,2020-6-24,2020-06-24 00:00:00
+267,2020-06-24 10:32:00,"[Market Insight] ""No problem even if the investment burden increases""... Soup pouring into NCsoft...",-1,0.415,0.0,0.585,-0.7783,-1,2020-6-24,2020-06-24 00:00:00
+268,2020-06-24 09:30:00,"NCsoft, net selling of 24,311 shares by institution on the last 5 days ... 920,000 shares ...",0,0.0,0.239,0.7609999999999999,0.5267,1,2020-6-24,2020-06-24 00:00:00
+269,2020-06-24 10:32:00,"[Market Insight] ""No problem even if the investment burden increases""... Soup pouring into NCsoft...",-1,0.415,0.0,0.585,-0.7783,-1,2020-6-24,2020-06-24 00:00:00
+270,2020-06-24 09:30:00,"NCsoft, net selling of 24,311 shares by institution on the last 5 days ... 920,000 shares ...",0,0.0,0.239,0.7609999999999999,0.5267,1,2020-6-24,2020-06-24 00:00:00
+271,2020-06-23 18:20:00,NCsoft surpasses 20 trillion won in market cap... First listed game company in Korea,0,0.0,0.222,0.778,0.5719,1,2020-6-24,2020-06-24 00:00:00
+272,2020-06-23 16:44:00,"NCsoft,'Taekjin Transformation Company', surpassed 20 trillion won for the first time in game",0,0.0,0.23600000000000002,0.764,0.5719,1,2020-6-24,2020-06-24 00:00:00
+273,2020-06-23 15:47:00,"Taecjin hyung, it's rewarding all night... NCsoft market cap exceeded 20 trillion won",0,0.0,0.392,0.608,0.7964,1,2020-6-23,2020-06-23 00:00:00
+274,2020-06-23 15:25:00,[fnRASSI] NCsoft reports 52 weeks...3.94% ↑,0,0.0,0.0,1.0,0.0,0,2020-6-23,2020-06-23 00:00:00
+275,2020-06-23 10:23:00,"[fnRASSI] NCsoft (036570), 52 weeks report renewed...4...",0,0.0,0.0,1.0,0.0,0,2020-6-23,2020-06-23 00:00:00
+276,2020-06-23 14:12:00,"NCsoft, which rose by 43% in two months, to become'Emperor' by 1 million won",-1,0.0,0.23600000000000002,0.764,0.5719,1,2020-6-23,2020-06-23 00:00:00
+277,2020-06-23 07:13:00,Still cheap... NCsoft sees '1.15 million won' in stock prices,-1,0.0,0.29100000000000004,0.7090000000000001,0.5719,1,2020-6-23,2020-06-23 00:00:00
+278,2020-06-23 11:16:00,NCsoft's Kim Taek-jin equity value of over 1 million won 9119 billion ↑,-1,0.0,0.40399999999999997,0.596,0.7269,1,2020-6-23,2020-06-23 00:00:00
+279,2020-06-23 10:05:00,NCsoft over 1 million won... Taekjin Kim's stake increased by 9119 billion won,-1,0.0,0.36700000000000005,0.633,0.7003,1,2020-6-23,2020-06-23 00:00:00
+280,2020-06-23 10:18:00,"[Features] Untact to go again... Naver, Kakao, NCsoft's best price update",1,0.0,0.29600000000000004,0.7040000000000001,0.6369,1,2020-6-23,2020-06-23 00:00:00
+281,2020-06-23 09:51:00,"NCsoft, Naver, Kakao, Shingo is strong...",1,0.0,0.0,1.0,0.0,0,2020-6-23,2020-06-23 00:00:00
+282,2020-06-23 09:38:00,"Game week, “hojo” in the early part of the game… Vespa·Neowiz·NCSoft “Strong”",1,0.0,0.0,1.0,0.0,0,2020-6-23,2020-06-23 00:00:00
+283,2020-06-23 09:20:00,"'NCSoft' increased by more than 5%, rising due to the regular alignment of the short and mid-term",0,0.0,0.11599999999999999,0.884,0.2732,1,2020-6-23,2020-06-23 00:00:00
+284,2020-06-23 10:05:00,NCsoft over 1 million won... Taekjin Kim's stake increased by 9119 billion won,-1,0.0,0.36700000000000005,0.633,0.7003,1,2020-6-23,2020-06-23 00:00:00
+285,2020-06-23 09:51:00,"NCsoft, Naver, Kakao, Shingo is strong...",1,0.0,0.0,1.0,0.0,0,2020-6-23,2020-06-23 00:00:00
+286,2020-06-23 09:38:00,"Game week, “hojo” in the early part of the game… Vespa·Neowiz·NCSoft “Strong”",1,0.0,0.0,1.0,0.0,0,2020-6-23,2020-06-23 00:00:00
+287,2020-06-23 09:20:00,"'NCSoft' increased by more than 5%, rising due to the regular alignment of the short and mid-term",0,0.0,0.11599999999999999,0.884,0.2732,1,2020-6-23,2020-06-23 00:00:00
+288,2020-06-23 09:17:00,[Features] NCsoft's second-day high price on expectations of earnings improvement,0,0.0,0.25,0.75,0.4588,1,2020-6-23,2020-06-23 00:00:00
+289,2020-06-23 09:06:00,"52-week report of NCsoft renewed, mass net purchase by foreigners the previous day",0,0.0,0.0,1.0,0.0,0,2020-6-23,2020-06-23 00:00:00
+290,2020-06-23 08:46:00,NCsoft's earnings and new product momentum are also outstanding.. Target price↑-Ebest,1,0.0,0.0,1.0,0.0,0,2020-6-23,2020-06-23 00:00:00
+291,2020-06-23 08:22:00,"“NCSoft, operating profit forecast to surge 114% this year... Target price of 1.1 million...",-1,0.0,0.182,0.818,0.4404,1,2020-6-23,2020-06-23 00:00:00
+292,2020-06-23 08:06:00,NCsoft excels in both earnings and momentum for new works... Target price↑-Ebest,1,0.0,0.24100000000000002,0.759,0.5423,1,2020-6-23,2020-06-23 00:00:00
+293,2020-06-23 08:20:00,[Disclosure of major credits on the 22nd] NCsoft upgrades to'AA',0,0.0,0.217,0.7829999999999999,0.3612,1,2020-6-23,2020-06-23 00:00:00
+294,2020-06-23 07:13:00,Still cheap... NCsoft sees '1.15 million won' in stock prices,-1,0.0,0.29100000000000004,0.7090000000000001,0.5719,1,2020-6-23,2020-06-23 00:00:00
+295,2020-06-22 17:45:00,Na Shinpyeong upgrades NCsoft's credit rating to AA,0,0.0,0.271,0.7290000000000001,0.3818,1,2020-6-23,2020-06-23 00:00:00
+296,2020-06-23 07:13:00,Still cheap... NCsoft sees '1.15 million won' in stock prices,-1,0.0,0.29100000000000004,0.7090000000000001,0.5719,1,2020-6-23,2020-06-23 00:00:00
+297,2020-06-22 17:45:00,Na Shinpyeong upgrades NCsoft's credit rating to AA,0,0.0,0.271,0.7290000000000001,0.3818,1,2020-6-23,2020-06-23 00:00:00
+298,2020-06-22 16:40:00,NCsoft develops AI for writing articles and editing videos [Evolution],0,0.0,0.0,1.0,0.0,0,2020-6-23,2020-06-23 00:00:00
+299,2020-06-22 13:44:00,"[fnRASSI] NCsoft (036570), 52 weeks report renewed...3....",0,0.0,0.0,1.0,0.0,0,2020-6-22,2020-06-22 00:00:00
+300,2020-06-22 12:36:00,"'NCSoft' 52 weeks report is renewed, there are still many things to show-Shinhan Financial Investment...",-1,0.0,0.0,1.0,0.0,0,2020-6-22,2020-06-22 00:00:00
+301,2020-06-22 12:11:00,NCsoft's third quarter also ‘Thantandaero’… Lineage M·2M update “imminent”,0,0.0,0.0,1.0,0.0,0,2020-6-22,2020-06-22 00:00:00
+302,2020-06-22 11:52:00,Still cheap... NCsoft sees '1.15 million won' in stock prices,-1,0.0,0.29100000000000004,0.7090000000000001,0.5719,1,2020-6-22,2020-06-22 00:00:00
+303,2020-06-22 08:31:00,"[Hot-Line] ""NCSoft, expects earnings growth with the release of new works next year""",0,0.0,0.17800000000000002,0.8220000000000001,0.3818,1,2020-6-22,2020-06-22 00:00:00
+304,2020-06-22 08:20:00,NCsoft pays attention to the expectation of new work and overseas release… Target price↑-Shinhan,0,0.0,0.0,1.0,0.0,0,2020-6-22,2020-06-22 00:00:00
+305,2020-06-22 08:14:00,"""NCSoft, expectation to grow with massive update in the third quarter""-Shinhan Investment",0,0.0,0.0,1.0,0.0,0,2020-6-22,2020-06-22 00:00:00
+306,2020-06-22 07:47:00,"NCsoft,'Lineage' earnings momentum in effect in 2H... Target price ↑-Yuan hit",0,0.0,0.0,1.0,0.0,0,2020-6-22,2020-06-22 00:00:00
+307,2020-06-22 07:34:00,"NCsoft, massive update on the 24th... ""It's still cheap""-Yuanta",-1,0.0,0.0,1.0,0.0,0,2020-6-22,2020-06-22 00:00:00
+308,2020-06-21 15:10:00,"[Weekly HOT event] NCsoft, will 1 million won be covered... Reports renewed in momentum",-1,0.0,0.23600000000000002,0.764,0.5719,1,2020-6-21,2020-06-21 00:00:00
+309,2020-06-19 11:19:00,"“Siege, export, new work” halo… Should NCsoft break the “1 million won wall”",-1,0.0,0.23600000000000002,0.764,0.5719,1,2020-6-19,2020-06-19 00:00:00
+310,2020-06-19 10:15:00,'Siege Exhibition'·Export·New Works… Corona winged NCsoft stock price goes more,1,0.0,0.0,1.0,0.0,0,2020-6-19,2020-06-19 00:00:00
+311,2020-06-19 08:06:00,NCsoft expects to release new and updated works,0,0.0,0.0,1.0,0.0,0,2020-6-19,2020-06-19 00:00:00
+312,2020-06-19 07:53:00,"NCsoft, Lineage 2M Overseas Launch and Update Expectations Target price↑-instead of",0,0.0,0.0,1.0,0.0,0,2020-6-19,2020-06-19 00:00:00
+313,2020-06-19 07:49:00,NCsoft to continue momentum-instead,0,0.0,0.0,1.0,0.0,0,2020-6-19,2020-06-19 00:00:00
+314,2020-06-19 07:44:00,"[Click e-Stock]"" NCsoft, target price of 1 million won... abundant momentum until next year...",-1,0.0,0.0,1.0,0.0,0,2020-6-19,2020-06-19 00:00:00
+315,2020-06-22 07:47:00,"NCsoft,'Lineage' earnings momentum in effect in 2H... Target price ↑-Yuan hit",0,0.0,0.0,1.0,0.0,0,2020-6-22,2020-06-22 00:00:00
+316,2020-06-22 07:34:00,"NCsoft, massive update on the 24th... ""It's still cheap""-Yuanta",-1,0.0,0.0,1.0,0.0,0,2020-6-22,2020-06-22 00:00:00
+317,2020-06-21 15:10:00,"[Weekly HOT event] NCsoft, will 1 million won be covered... Reports renewed in momentum",-1,0.0,0.23600000000000002,0.764,0.5719,1,2020-6-21,2020-06-21 00:00:00
+318,2020-06-19 11:19:00,"“Siege, export, new work” halo… Should NCsoft break the “1 million won wall”",-1,0.0,0.23600000000000002,0.764,0.5719,1,2020-6-19,2020-06-19 00:00:00
+319,2020-06-19 10:15:00,'Siege Exhibition'·Export·New Works… Corona winged NCsoft stock price goes more,1,0.0,0.0,1.0,0.0,0,2020-6-19,2020-06-19 00:00:00
+320,2020-06-19 08:06:00,NCsoft expects to release new and updated works,0,0.0,0.0,1.0,0.0,0,2020-6-19,2020-06-19 00:00:00
+321,2020-06-19 07:53:00,"NCsoft, Lineage 2M Overseas Launch and Update Expectations Target price↑-instead of",0,0.0,0.0,1.0,0.0,0,2020-6-19,2020-06-19 00:00:00
+322,2020-06-19 07:49:00,NCsoft to continue momentum-instead,0,0.0,0.0,1.0,0.0,0,2020-6-19,2020-06-19 00:00:00
+323,2020-06-19 07:44:00,"[Click e-Stock]"" NCsoft, target price of 1 million won... abundant momentum until next year...",-1,0.0,0.0,1.0,0.0,0,2020-6-19,2020-06-19 00:00:00
+324,2020-06-18 18:37:00,"On the 18th, at a foreign exchange, NCsoft (-3.93%), NAVER (-1....",0,0.0,0.0,1.0,0.0,0,2020-6-19,2020-06-19 00:00:00
+325,2020-06-17 09:07:00,"52-week report of NCsoft renewed, mass net purchase by foreigners the previous day",0,0.0,0.0,1.0,0.0,0,2020-6-17,2020-06-17 00:00:00
+326,2020-06-16 14:25:00,[fnRASSI] NCsoft reports 52 weeks...7.53% ↑,0,0.0,0.0,1.0,0.0,0,2020-6-16,2020-06-16 00:00:00
+327,2020-06-16 10:35:00,"The 52-week report of NCsoft is renewed, and momentum continues. The upward trend is...",0,0.0,0.0,1.0,0.0,0,2020-6-16,2020-06-16 00:00:00
+328,2020-06-15 17:53:00,NCsoft intraday report again… Go to the emperor,0,0.0,0.0,1.0,0.0,0,2020-6-16,2020-06-16 00:00:00
+329,2020-06-15 15:49:00,"Report is refreshing and breathing'NCSoft' Still, the goal is'UP'",-1,0.0,0.0,1.0,0.0,0,2020-6-15,2020-06-15 00:00:00
+330,2020-06-15 14:13:00,"[Features] NCsoft, ‘reporter’ in bearish market",0,0.0,0.0,1.0,0.0,0,2020-6-15,2020-06-15 00:00:00
+331,2020-06-15 13:47:00,"NCsoft surpasses 850,000 won..New report",1,0.0,0.0,1.0,0.0,0,2020-6-15,2020-06-15 00:00:00
+332,2020-06-17 09:07:00,"52-week report of NCsoft renewed, mass net purchase by foreigners the previous day",0,0.0,0.0,1.0,0.0,0,2020-6-17,2020-06-17 00:00:00
+333,2020-06-16 14:25:00,[fnRASSI] NCsoft reports 52 weeks...7.53% ↑,0,0.0,0.0,1.0,0.0,0,2020-6-16,2020-06-16 00:00:00
+334,2020-06-16 10:35:00,"The 52-week report of NCsoft is renewed, and momentum continues. The upward trend is...",0,0.0,0.0,1.0,0.0,0,2020-6-16,2020-06-16 00:00:00
+335,2020-06-15 17:53:00,NCsoft intraday report again… Go to the emperor,0,0.0,0.0,1.0,0.0,0,2020-6-16,2020-06-16 00:00:00
+336,2020-06-15 15:49:00,"Report is refreshing and breathing'NCSoft' Still, the goal is'UP'",-1,0.0,0.0,1.0,0.0,0,2020-6-15,2020-06-15 00:00:00
+337,2020-06-15 14:13:00,"[Features] NCsoft, ‘reporter’ in bearish market",0,0.0,0.0,1.0,0.0,0,2020-6-15,2020-06-15 00:00:00
+338,2020-06-15 13:47:00,"NCsoft surpasses 850,000 won..New report",1,0.0,0.0,1.0,0.0,0,2020-6-15,2020-06-15 00:00:00
+339,2020-06-15 10:06:00,"[fnRASSI] NCsoft (036570), 52 weeks report...2.18%...",0,0.0,0.0,1.0,0.0,0,2020-6-15,2020-06-15 00:00:00
+340,2020-06-15 09:25:00,"52 weeks report of NCsoft renewed, institutional net purchase for 3 consecutive days",-1,0.0,0.0,1.0,0.0,0,2020-6-15,2020-06-15 00:00:00
+341,2020-06-12 08:47:00,"""NCSoft, 113% of 2Q operating profit ↑…the target is 1 million won ahead""",-1,0.0,0.39799999999999996,0.602,0.765,1,2020-6-12,2020-06-12 00:00:00
+342,2020-06-12 07:47:00,NCsoft continues to upward trend in stock price-Hyundai Motor,0,0.0,0.0,1.0,0.0,0,2020-6-12,2020-06-12 00:00:00
+343,2020-06-12 07:42:00,"NCsoft continues to upward trend in stock price… Target price of 990,000 won-Hyundai Motor Securities",0,0.0,0.136,0.8640000000000001,0.29600000000000004,1,2020-6-12,2020-06-12 00:00:00
+344,2020-06-12 08:05:00,[Disclosure of major credits on the 11th] NCsoft upgrades to'AA',0,0.0,0.217,0.7829999999999999,0.3612,1,2020-6-12,2020-06-12 00:00:00
+345,2020-06-12 08:47:00,"""NCSoft, 113% of 2Q operating profit ↑…the target is 1 million won ahead""",-1,0.0,0.39799999999999996,0.602,0.765,1,2020-6-12,2020-06-12 00:00:00
+346,2020-06-12 07:47:00,NCsoft continues to upward trend in stock price-Hyundai Motor,0,0.0,0.0,1.0,0.0,0,2020-6-12,2020-06-12 00:00:00
+347,2020-06-12 07:42:00,"NCsoft continues to upward trend in stock price… Target price of 990,000 won-Hyundai Motor Securities",0,0.0,0.136,0.8640000000000001,0.29600000000000004,1,2020-6-12,2020-06-12 00:00:00
+348,2020-06-12 08:05:00,[Disclosure of major credits on the 11th] NCsoft upgrades to'AA',0,0.0,0.217,0.7829999999999999,0.3612,1,2020-6-12,2020-06-12 00:00:00
+349,2020-06-11 17:28:00,[Market Inn] NCsoft upgrades to'AA',0,0.0,0.0,1.0,0.0,0,2020-6-12,2020-06-12 00:00:00
+350,2020-06-11 15:43:00,"[Market Insight] One trillion won'cash rich' NCsoft, mobile game successive",0,0.0,0.41600000000000004,0.584,0.6908,1,2020-6-11,2020-06-11 00:00:00
+351,2020-06-10 09:34:00,[fnRASSI] NCsoft reports 52 weeks...4.38% ↑,0,0.0,0.0,1.0,0.0,0,2020-6-10,2020-06-10 00:00:00
+352,2020-06-10 09:25:00,"52 weeks report of'NCSoft' is net sales for 4 consecutive days, respectively, for foreigners and institutions",-1,0.0,0.146,0.8540000000000001,0.34,1,2020-6-10,2020-06-10 00:00:00
+353,2020-06-02 08:43:00,"""NCSoft, 2Q earnings outperformed expectations""-Mirae Asset Daewoo",1,0.0,0.294,0.706,0.3612,1,2020-6-2,2020-06-02 00:00:00
+354,2020-06-02 08:38:00,"NCsoft, focus on momentum for new work... Target price↑-future",0,0.0,0.0,1.0,0.0,0,2020-6-2,2020-06-02 00:00:00
+355,2020-05-28 09:27:00,"NCsoft, good performance will continue until the end of this year",1,0.0,0.225,0.775,0.4404,1,2020-5-28,2020-05-28 00:00:00
+356,2020-05-28 08:38:00,“NCsoft will continue to perform well until the fourth quarter of this year”,0,0.0,0.149,0.851,0.2732,1,2020-5-28,2020-05-28 00:00:00
+357,2020-05-28 07:25:00,"[Click e-sector] ""NCsoft expects quarterly earnings growth this year""",0,0.0,0.245,0.755,0.3818,1,2020-5-28,2020-05-28 00:00:00
+358,2020-05-27 17:41:00,NCsoft'Spoons' unveiled web entertainment with NU'EST,0,0.0,0.359,0.6409999999999999,0.4215,1,2020-5-28,2020-05-28 00:00:00
+359,2020-05-27 14:22:00,NCsoft'Spoons X Nu'est' new collaboration web entertainment release,0,0.0,0.318,0.682,0.4215,1,2020-5-27,2020-05-27 00:00:00
+360,2020-05-25 13:51:00,"[Features] Untact's representative stocks NAVER, Kakao, and NCsoft, have a companion report",0,0.0,0.0,1.0,0.0,0,2020-5-25,2020-05-25 00:00:00
+361,2020-05-25 13:35:00,"'NCSoft' increased by more than 5%, foreign mass net buying in the last 3 days",0,0.0,0.139,0.861,0.2732,1,2020-5-25,2020-05-25 00:00:00
+362,2020-05-25 10:02:00,"52-week report of NCsoft renewed, foreign mass net purchase in the last 3 days",0,0.0,0.0,1.0,0.0,0,2020-5-25,2020-05-25 00:00:00
+363,2020-05-28 09:27:00,"NCsoft, good performance will continue until the end of this year",1,0.0,0.225,0.775,0.4404,1,2020-5-28,2020-05-28 00:00:00
+364,2020-05-28 08:38:00,“NCsoft will continue to perform well until the fourth quarter of this year”,0,0.0,0.149,0.851,0.2732,1,2020-5-28,2020-05-28 00:00:00
+365,2020-05-28 07:25:00,"[Click e-sector] ""NCsoft expects quarterly earnings growth this year""",0,0.0,0.245,0.755,0.3818,1,2020-5-28,2020-05-28 00:00:00
+366,2020-05-27 17:41:00,NCsoft'Spoons' unveiled web entertainment with NU'EST,0,0.0,0.359,0.6409999999999999,0.4215,1,2020-5-28,2020-05-28 00:00:00
+367,2020-05-27 14:22:00,NCsoft'Spoons X Nu'est' new collaboration web entertainment release,0,0.0,0.318,0.682,0.4215,1,2020-5-27,2020-05-27 00:00:00
+368,2020-05-25 13:51:00,"[Features] Untact's representative stocks NAVER, Kakao, and NCsoft, have a companion report",0,0.0,0.0,1.0,0.0,0,2020-5-25,2020-05-25 00:00:00
+369,2020-05-25 13:35:00,"'NCSoft' increased by more than 5%, foreign mass net buying in the last 3 days",0,0.0,0.139,0.861,0.2732,1,2020-5-25,2020-05-25 00:00:00
+370,2020-05-25 10:02:00,"52-week report of NCsoft renewed, foreign mass net purchase in the last 3 days",0,0.0,0.0,1.0,0.0,0,2020-5-25,2020-05-25 00:00:00
+371,2020-05-25 10:37:00,"[Features] NCsoft, 813,000 won during the intraday ... the highest price after listing",1,0.0,0.23600000000000002,0.764,0.5719,1,2020-5-25,2020-05-25 00:00:00
+372,2020-05-25 09:15:00,[fnRASSI] NCsoft reports 52 weeks...0.63% ↑,0,0.0,0.0,1.0,0.0,0,2020-5-25,2020-05-25 00:00:00
+373,2020-05-24 14:45:00,"[Recommended Week of the Week]'Surprising Performance' NCsoft, Celltrion Healthcare",0,0.0,0.0,1.0,0.0,0,2020-5-24,2020-05-24 00:00:00
+374,2020-05-23 12:33:00,"[Weekly recommended weekly by Yuanta] Double U Games, NCsoft, LG Chem",0,0.0,0.16699999999999998,0.833,0.2023,1,2020-5-23,2020-05-23 00:00:00
+375,2020-05-22 14:17:00,"Kim Taek-jin, CEO of NCsoft, participates in the'Flower Bucket Challenge'",0,0.0,0.126,0.8740000000000001,0.0772,0,2020-5-22,2020-05-22 00:00:00
+376,2020-05-25 09:15:00,[fnRASSI] NCsoft reports 52 weeks...0.63% ↑,0,0.0,0.0,1.0,0.0,0,2020-5-25,2020-05-25 00:00:00
+377,2020-05-24 14:45:00,"[Recommended Week of the Week]'Surprising Performance' NCsoft, Celltrion Healthcare",0,0.0,0.0,1.0,0.0,0,2020-5-24,2020-05-24 00:00:00
+378,2020-05-23 12:33:00,"[Weekly recommended weekly by Yuanta] Double U Games, NCsoft, LG Chem",0,0.0,0.16699999999999998,0.833,0.2023,1,2020-5-23,2020-05-23 00:00:00
+379,2020-05-22 14:17:00,"Kim Taek-jin, CEO of NCsoft, participates in the'Flower Bucket Challenge'",0,0.0,0.126,0.8740000000000001,0.0772,0,2020-5-22,2020-05-22 00:00:00
+380,2020-05-22 09:12:00,"52-week report of NCsoft renewed, mass net purchase by foreigners the previous day",0,0.0,0.0,1.0,0.0,0,2020-5-22,2020-05-22 00:00:00
+381,2020-05-21 17:43:00,NCsoft overtakes SKT market cap... Kakao closely pursues Hyundai Motor Company,-1,0.0,0.0,1.0,0.0,0,2020-5-22,2020-05-22 00:00:00
+382,2020-05-21 13:31:00,[fnRASSI] NCsoft reports 52 weeks...5.2% ↑,0,0.0,0.0,1.0,0.0,0,2020-5-21,2020-05-21 00:00:00
+383,2020-05-21 10:07:00,"[fnRASSI] NCsoft (036570), 52 weeks report...2.8%...",0,0.0,0.0,1.0,0.0,0,2020-5-21,2020-05-21 00:00:00
+384,2020-05-21 11:01:00,"'NCSoft' increased by more than 5%, rising due to the regular alignment of the short and mid-term",0,0.0,0.11599999999999999,0.884,0.2732,1,2020-5-21,2020-05-21 00:00:00
+385,2020-05-21 09:29:00,"52-week report of NCsoft renewed, good entry timing in May and June -...",0,0.0,0.195,0.805,0.4404,1,2020-5-21,2020-05-21 00:00:00
+386,2020-05-20 10:34:00,"NCsoft, AI talent development program'NC Fellowship'",0,0.0,0.359,0.6409999999999999,0.4215,1,2020-5-20,2020-05-20 00:00:00
+387,2020-05-20 09:58:00,"NCsoft, AI talent development program'NC Fellowship'",0,0.0,0.359,0.6409999999999999,0.4215,1,2020-5-20,2020-05-20 00:00:00
+388,2020-05-20 10:34:00,"NCsoft, AI talent development program'NC Fellowship'",0,0.0,0.359,0.6409999999999999,0.4215,1,2020-5-20,2020-05-20 00:00:00
+389,2020-05-20 09:58:00,"NCsoft, AI talent development program'NC Fellowship'",0,0.0,0.359,0.6409999999999999,0.4215,1,2020-5-20,2020-05-20 00:00:00
+390,2020-05-20 09:58:00,"NCsoft, AI talent development program'NC Fellowship'",0,0.0,0.359,0.6409999999999999,0.4215,1,2020-5-20,2020-05-20 00:00:00
+391,2020-05-20 08:53:00,NCsoft's New Momentum Until Next Year... Best Time to Buy in May and June,0,0.0,0.244,0.7559999999999999,0.6369,1,2020-5-20,2020-05-20 00:00:00
+392,2020-05-20 08:34:00,[Click e-sector] NCsoft to exceed expectations in the second quarter,0,0.0,0.0,1.0,0.0,0,2020-5-20,2020-05-20 00:00:00
+393,2020-05-20 08:18:00,"NCsoft, now is the timing of entry... New Momentum Expectation-Future",0,0.0,0.0,1.0,0.0,0,2020-5-20,2020-05-20 00:00:00
+394,2020-05-20 08:00:00,"NCsoft, a good time to enter May and June -Mirae Asset Daewoo",0,0.0,0.375,0.625,0.6597,1,2020-5-20,2020-05-20 00:00:00
+395,2020-05-17 15:36:00,"Jiersoft, NCsoft, Naver... Include Zipkok'Subscription Consumption'",0,0.0,0.0,1.0,0.0,0,2020-5-17,2020-05-17 00:00:00
+396,2020-05-17 11:39:00,"[Weekly Recommended Week] NCsoft expects to release new work… Cosmax, as a beneficiary of hand sanitizer",0,0.0,0.40299999999999997,0.597,0.7964,1,2020-5-17,2020-05-17 00:00:00
+397,2020-05-17 08:30:00,Foreigners continue to'sell' for 2 consecutive weeks... NCsoft and Kakao net purchase,-1,0.0,0.0,1.0,0.0,0,2020-5-17,2020-05-17 00:00:00
+398,2020-05-16 09:31:00,[Review Report] NCsoft to “KingcSoft” in the post-corona era,0,0.0,0.0,1.0,0.0,0,2020-5-16,2020-05-16 00:00:00
+399,2020-05-15 16:10:00,NCsoft'starts' to level the Korean mobile game market and target the global market,0,0.0,0.0,1.0,0.0,0,2020-5-16,2020-05-16 00:00:00
+400,2020-05-14 17:20:00,NCsoft's'Lineage BGM' caught in a billion copyright lawsuit,-1,0.24100000000000002,0.0,0.759,-0.2263,-1,2020-5-15,2020-05-15 00:00:00
+401,2020-05-14 12:04:00,Not everyone is benefiting from'Untact' during the game... Only NCsoft'broadly',1,0.0,0.0,1.0,0.0,0,2020-5-14,2020-05-14 00:00:00
+402,2020-05-14 09:20:00,"""Keep going"" NCsoft, reports rally in surprise results and expectations",0,0.0,0.18899999999999997,0.8109999999999999,0.2732,1,2020-5-14,2020-05-14 00:00:00
+403,2020-05-16 09:31:00,[Review Report] NCsoft to “KingcSoft” in the post-corona era,0,0.0,0.0,1.0,0.0,0,2020-5-16,2020-05-16 00:00:00
+404,2020-05-15 16:10:00,NCsoft'starts' to level the Korean mobile game market and target the global market,0,0.0,0.0,1.0,0.0,0,2020-5-16,2020-05-16 00:00:00
+405,2020-05-14 17:20:00,NCsoft's'Lineage BGM' caught in a billion copyright lawsuit,-1,0.24100000000000002,0.0,0.759,-0.2263,-1,2020-5-15,2020-05-15 00:00:00
+406,2020-05-14 12:04:00,Not everyone is benefiting from'Untact' during the game... Only NCsoft'broadly',1,0.0,0.0,1.0,0.0,0,2020-5-14,2020-05-14 00:00:00
+407,2020-05-14 09:20:00,"""Keep going"" NCsoft, reports rally in surprise results and expectations",0,0.0,0.18899999999999997,0.8109999999999999,0.2732,1,2020-5-14,2020-05-14 00:00:00
+408,2020-05-14 11:04:00,"'NCSoft' rose more than 5%, younger siblings' turn-Heungkuk Securities, BU...",0,0.0,0.196,0.804,0.29600000000000004,1,2020-5-14,2020-05-14 00:00:00
+409,2020-05-14 11:02:00,"52-week report of NCsoft is renewed, younger siblings' turn-Heungkuk Securities,...",0,0.0,0.0,1.0,0.0,0,2020-5-14,2020-05-14 00:00:00
+410,2020-05-14 09:37:00,[Features] NCsoft reported on the third day of good performance in the first quarter,1,0.0,0.182,0.818,0.4404,1,2020-5-14,2020-05-14 00:00:00
+411,2020-05-14 09:17:00,[fnRASSI] NCsoft reports 52 weeks...4.44% ↑,0,0.0,0.0,1.0,0.0,0,2020-5-14,2020-05-14 00:00:00
+412,2020-05-13 14:17:00,"""Taekjin hyung, the second half is also Gazua""... Stock prices, NCsoft target price increase",0,0.0,0.15,0.85,0.3182,1,2020-5-13,2020-05-13 00:00:00
+413,2020-05-13 07:39:00,"NCsoft, target price in anticipation of new release ↑-Korea",0,0.0,0.149,0.851,0.1027,1,2020-5-13,2020-05-13 00:00:00
+414,2020-05-13 05:30:00,"NCsoft's stock price of 747,000 won... ""Breaking new records again""",-1,0.0,0.0,1.0,0.0,0,2020-5-13,2020-05-13 00:00:00
+415,2020-05-13 09:05:00,"52-week report of NCsoft renewed, mass net purchase by foreigners the previous day",0,0.0,0.0,1.0,0.0,0,2020-5-13,2020-05-13 00:00:00
+416,2020-05-13 08:47:00,"NCsoft, expectation of new product release.. Target price ↑-KTB Investment & Securities",0,0.0,0.18,0.82,0.29600000000000004,1,2020-5-13,2020-05-13 00:00:00
+417,2020-05-13 09:05:00,"52-week report of NCsoft renewed, mass net purchase by foreigners the previous day",0,0.0,0.0,1.0,0.0,0,2020-5-13,2020-05-13 00:00:00
+418,2020-05-13 08:47:00,"NCsoft, expectation of new product release.. Target price ↑-KTB Investment & Securities",0,0.0,0.18,0.82,0.29600000000000004,1,2020-5-13,2020-05-13 00:00:00
+419,2020-05-13 08:23:00,"NCsoft, 1Q record-high sales Target price↑-Shinhan",0,0.0,0.0,1.0,0.0,0,2020-5-13,2020-05-13 00:00:00
+420,2020-05-13 08:13:00,"[Hot-Line] ""NCSoft has enough expectations for next year following this year…Thu...",0,0.0,0.0,1.0,0.0,0,2020-5-13,2020-05-13 00:00:00
+421,2020-05-13 08:01:00,"NCsoft, expectation of new product release... Timely Presentation-Hana Financial Investment",0,0.0,0.0,1.0,0.0,0,2020-5-13,2020-05-13 00:00:00
+422,2020-05-13 07:57:00,"NCsoft, Lineage 2M performance exceeding expectations... Target price↑-KB",0,0.0,0.0,1.0,0.0,0,2020-5-13,2020-05-13 00:00:00
+423,2020-05-13 07:24:00,"[Click e-sector]"" NCsoft, Lineage 2M exceeded sales expectations...",0,0.0,0.0,1.0,0.0,0,2020-5-13,2020-05-13 00:00:00
+424,2020-05-13 07:39:00,"NCsoft, target price in anticipation of new release ↑-Korea",0,0.0,0.149,0.851,0.1027,1,2020-5-13,2020-05-13 00:00:00
+425,2020-05-13 05:30:00,"NCsoft's stock price of 747,000 won... ""Breaking new records again""",-1,0.0,0.0,1.0,0.0,0,2020-5-13,2020-05-13 00:00:00
+426,2020-05-13 07:30:00,"[Click e-Event] ""NCSoft, the second quarter is better",1,0.0,0.293,0.7070000000000001,0.4404,1,2020-5-13,2020-05-13 00:00:00
+427,2020-05-12 18:48:00,Will Shingo's NCsoft Shares Rise More Thanks to'Linger'?,0,0.0,0.473,0.527,0.659,1,2020-5-13,2020-05-13 00:00:00
+428,2020-05-12 16:30:00,"NCsoft, which took 747,000 won, saw stock prices up to 930,000 won",0,0.0,0.425,0.575,0.8126,1,2020-5-13,2020-05-13 00:00:00
+429,2020-05-12 14:15:00,"[Comprehensive] NCsoft, showing Lineage 2M performance, surpasses 2 trillion in sales ‘Aim Jung...",0,0.0,0.0,1.0,0.0,0,2020-5-12,2020-05-12 00:00:00
+430,2020-05-12 08:16:00,'Lineage 2M Power' NCsoft achieves record-high quarterly sales,0,0.0,0.0,1.0,0.0,0,2020-5-12,2020-05-12 00:00:00
+431,2020-05-12 18:37:00,"On the 12th, at foreign exchanges NCsoft (+6.87%), Kakao (+3.37...",0,0.0,0.0,1.0,0.0,0,2020-5-13,2020-05-13 00:00:00
+432,2020-05-12 17:32:00,NCsoft's first quarter sales of 73.1 billion won,-1,0.0,0.34600000000000003,0.654,0.5719,1,2020-5-13,2020-05-13 00:00:00
+433,2020-05-12 18:48:00,Will Shingo's NCsoft Shares Rise More Thanks to'Linger'?,0,0.0,0.473,0.527,0.659,1,2020-5-13,2020-05-13 00:00:00
+434,2020-05-12 16:30:00,"NCsoft, which took 747,000 won, saw stock prices up to 930,000 won",0,0.0,0.425,0.575,0.8126,1,2020-5-13,2020-05-13 00:00:00
+435,2020-05-12 14:15:00,"[Comprehensive] NCsoft, showing Lineage 2M performance, surpasses 2 trillion in sales ‘Aim Jung...",0,0.0,0.0,1.0,0.0,0,2020-5-12,2020-05-12 00:00:00
+436,2020-05-12 18:37:00,"On the 12th, at foreign exchanges NCsoft (+6.87%), Kakao (+3.37...",0,0.0,0.0,1.0,0.0,0,2020-5-13,2020-05-13 00:00:00
+437,2020-05-12 17:32:00,NCsoft's first quarter sales of 73.1 billion won,-1,0.0,0.34600000000000003,0.654,0.5719,1,2020-5-13,2020-05-13 00:00:00
+438,2020-05-12 15:15:00,"NCsoft, exceeded 740,000...the highest price ever",1,0.0,0.0,1.0,0.0,0,2020-5-12,2020-05-12 00:00:00
+439,2020-05-12 11:27:00,"Game stock IP release effect “Tok Tok” Nexon affiliated company, NCsoft’s ‘worn out’",0,0.0,0.0,1.0,0.0,0,2020-5-12,2020-05-12 00:00:00
+440,2020-05-12 10:07:00,“There is still no decision on the Pangyo parking lot site”-NCsoft Concall,-1,0.16699999999999998,0.0,0.833,-0.29600000000000004,-1,2020-5-12,2020-05-12 00:00:00
+441,2020-05-12 09:53:00,"“Lineage-based project TL, expected to be released next year”-NCsoft Concall",0,0.0,0.0,1.0,0.0,0,2020-5-12,2020-05-12 00:00:00
+442,2020-05-12 10:04:00,"[NCSoft Concall] “Project TL, the probability of launching next year is high”",0,0.0,0.0,1.0,0.0,0,2020-5-12,2020-05-12 00:00:00
+443,2020-05-12 09:40:00,"Game stock IP new effect, Nexon affiliates, NCsoft stock price high",0,0.0,0.0,1.0,0.0,0,2020-5-12,2020-05-12 00:00:00
+444,2020-05-12 08:13:00,"NCsoft, 1Q operating profit of 241.4 billion won... 204% increase over the previous year",-1,0.0,0.302,0.698,0.6369,1,2020-5-12,2020-05-12 00:00:00
+445,2020-05-12 09:26:00,"[NCSoft Concall] “Blade & Soul 2, target for domestic release within this year”",0,0.0,0.0,1.0,0.0,0,2020-5-12,2020-05-12 00:00:00
+446,2020-05-12 09:26:00,"[NCSoft Concall] “Blade & Soul 2, target for domestic release within this year”",0,0.0,0.0,1.0,0.0,0,2020-5-12,2020-05-12 00:00:00
+447,2020-05-12 09:14:00,"[NCSoft Concall] “Lineage 2M, stable sales curve'expected' until the end of the year”",0,0.0,0.155,0.845,0.29600000000000004,1,2020-5-12,2020-05-12 00:00:00
+448,2020-05-12 09:14:00,"[NCSoft Concall] “Lineage 2M, stable sales curve'expected' until the end of the year”",0,0.0,0.155,0.845,0.29600000000000004,1,2020-5-12,2020-05-12 00:00:00
+449,2020-05-12 09:10:00,"Operating profit increased 200% in the first quarter, but NCsoft's stock price...",0,0.0,0.259,0.741,0.3612,1,2020-5-12,2020-05-12 00:00:00
+450,2020-05-12 08:16:00,'Lineage 2M Power' NCsoft achieves record-high quarterly sales,0,0.0,0.0,1.0,0.0,0,2020-5-12,2020-05-12 00:00:00
+451,2020-02-13 08:03:00,NCsoft re-evaluates performance and valuations in favor of'Lineage 2M' Target price↑-N...,0,0.0,0.213,0.787,0.4019,1,2020-2-13,2020-02-13 00:00:00
+452,2020-02-13 08:23:00,"[Click e-sector] “NCSoft, full of materials that will be the growth engine this year… Target stock...",0,0.0,0.14800000000000002,0.852,0.3818,1,2020-2-13,2020-02-13 00:00:00
+453,2020-02-12 17:47:00,`Dividend 0%` Look at Netmarble... '30%' NCsoft does it?,0,0.0,0.0,1.0,0.0,0,2020-2-13,2020-02-13 00:00:00
+454,2020-02-12 09:39:00,"“Lineage 2M incentive payment, continuing according to performance”-NCsoft Concall",0,0.0,0.23800000000000002,0.762,0.3612,1,2020-2-12,2020-02-12 00:00:00
+455,2020-02-12 11:37:00,[Comprehensive] NCsoft promoted as'Lineage 2M'... 60% of sales are'mobile games...,0,0.0,0.237,0.763,0.4215,1,2020-2-12,2020-02-12 00:00:00
+456,2020-02-12 08:48:00,"NCsoft, operating profit declined 22% last year... Loyalty reduction impact",1,0.0,0.444,0.556,0.7506,1,2020-2-12,2020-02-12 00:00:00
+457,2020-02-12 08:35:00,(Breaking news) NCsoft last year's operating profit of 478 billion won...,-1,0.0,0.225,0.775,0.4404,1,2020-2-12,2020-02-12 00:00:00
+458,2020-02-12 08:28:00,"NCsoft, operating profit of 141.1 billion in the fourth quarter of last year… 25.4% year-on-year↑",-1,0.0,0.172,0.828,0.4404,1,2020-2-12,2020-02-12 00:00:00
+459,2020-02-11 18:57:00,"[Preliminary results] NCsoft, sales surged 5338 billion won in 4Q last year... Same as last year...",-1,0.214,0.16399999999999998,0.621,-0.2808,-1,2020-2-12,2020-02-12 00:00:00
+460,2020-02-11 17:19:00,"[Disclosure] NCsoft, last year's operating profit of 4789 billion... 22% compared to the previous year↓",-1,0.0,0.172,0.828,0.4404,1,2020-2-12,2020-02-12 00:00:00
+461,2020-02-11 17:14:00,"NCsoft, last year's operating profit of 4789 billion... 22% compared to the previous year↓",-1,0.0,0.182,0.818,0.4404,1,2020-2-12,2020-02-12 00:00:00
+462,2020-02-11 17:46:00,"NCsoft, last year's sales of 1.701 trillion won and operating profit of 479 billion won",-1,0.0,0.462,0.5379999999999999,0.8834,1,2020-2-12,2020-02-12 00:00:00
+463,2020-02-10 14:43:00,NCsoft's Lineage 2M earned an average of 4.1 billion a day,-1,0.0,0.0,1.0,0.0,0,2020-2-10,2020-02-10 00:00:00
+464,2020-02-10 14:43:00,NCsoft's Lineage 2M earned an average of 4.1 billion a day,-1,0.0,0.0,1.0,0.0,0,2020-2-10,2020-02-10 00:00:00
+465,2020-02-06 09:09:00,"52-week report of NCsoft renewed, mass net purchase by foreigners the previous day",0,0.0,0.0,1.0,0.0,0,2020-2-6,2020-02-06 00:00:00
+466,2020-02-05 14:11:00,NCsoft's'Aion' and'Battle Support' introduced... Automatic hunting became possible,0,0.0,0.278,0.722,0.4019,1,2020-2-5,2020-02-05 00:00:00
+467,2020-02-04 08:38:00,NCsoft expects the effect of a massive update of Lineage 2M-Future,0,0.0,0.0,1.0,0.0,0,2020-2-4,2020-02-04 00:00:00
+468,2020-02-04 08:36:00,"[Hot-Line] ""NCSoft, Lineage 2M's sales exceeded expected""",0,0.0,0.0,1.0,0.0,0,2020-2-4,2020-02-04 00:00:00
+469,2020-02-04 08:33:00,NCsoft expects 1Q earnings surprise-Mirae Asset Daewoo,0,0.0,0.294,0.706,0.3612,1,2020-2-4,2020-02-04 00:00:00
+470,2020-02-03 13:07:00,NCsoft and MIT hold science program for the underprivileged for 5 years,0,0.0,0.0,1.0,0.0,0,2020-2-3,2020-02-03 00:00:00
+471,2020-02-03 10:57:00,"“NCSoft, this year's operating profit grew 92%… Target price of 800,000 won”",0,0.0,0.209,0.7909999999999999,0.4404,1,2020-2-3,2020-02-03 00:00:00
+472,2020-01-31 14:47:00,NCsoft Releases Lineage 2M's 4th OST'Warheart',0,0.0,0.0,1.0,0.0,0,2020-1-31,2020-01-31 00:00:00
+473,2020-02-03 10:57:00,"“NCSoft, this year's operating profit grew 92%… Target price of 800,000 won”",0,0.0,0.209,0.7909999999999999,0.4404,1,2020-2-3,2020-02-03 00:00:00
+474,2020-01-31 14:47:00,NCsoft Releases Lineage 2M's 4th OST'Warheart',0,0.0,0.0,1.0,0.0,0,2020-1-31,2020-01-31 00:00:00
+475,2020-01-30 09:06:00,"52-week report of NCsoft renewed, mass net purchase by foreigners the previous day",0,0.0,0.0,1.0,0.0,0,2020-1-30,2020-01-30 00:00:00
+476,2020-01-28 10:19:00,"NCsoft, intraday 650,000 won... Best Price Gyeongshin “Snow Road”",1,0.0,0.344,0.6559999999999999,0.6369,1,2020-1-28,2020-01-28 00:00:00
+477,2020-01-28 08:35:00,NCsoft's Lineage 2M is good this year.. Target price↑-DB,1,0.0,0.266,0.7340000000000001,0.4404,1,2020-1-28,2020-01-28 00:00:00
+478,2020-01-28 08:30:00,"NCsoft, Lineage 2M Profitable This Year... Target price↑-DB",0,0.0,0.293,0.7070000000000001,0.4404,1,2020-1-28,2020-01-28 00:00:00
+479,2020-01-28 09:16:00,"52-week report of NCsoft renewed, mass net purchase by foreigners the previous day",0,0.0,0.0,1.0,0.0,0,2020-1-28,2020-01-28 00:00:00
+480,2020-01-23 16:45:00,NCsoft's All-Operating Profit ‘Double Last Year’,0,0.0,0.36700000000000005,0.633,0.4404,1,2020-1-24,2020-01-24 00:00:00
+481,2020-01-23 08:29:00,"""NCSoft, this year's operating profit soared 118% over the previous year""-Mirae Asset Daewoo",0,0.0,0.32899999999999996,0.6709999999999999,0.6597,1,2020-1-23,2020-01-23 00:00:00
+482,2020-01-23 09:02:00,"[Hot-Line] ""NCSoft, this year's performance and new product release momentum expected""",0,0.0,0.0,1.0,0.0,0,2020-1-23,2020-01-23 00:00:00
+483,2020-01-23 12:30:00,"52-week report of'NCSoft' is renewed, L2M is popular, customer diversification begins ...",1,0.0,0.203,0.797,0.4215,1,2020-1-23,2020-01-23 00:00:00
+484,2020-01-23 08:36:00,"NCsoft, another surprise.. game stock top pick-future",0,0.0,0.231,0.769,0.2023,1,2020-1-23,2020-01-23 00:00:00
+485,2020-01-23 08:29:00,"""NCSoft, this year's operating profit soared 118% over the previous year""-Mirae Asset Daewoo",0,0.0,0.32899999999999996,0.6709999999999999,0.6597,1,2020-1-23,2020-01-23 00:00:00
+486,2020-01-22 12:42:00,"NCsoft's'Lineage 2M','Sages of the Ivory Tower' update",0,0.0,0.0,1.0,0.0,0,2020-1-22,2020-01-22 00:00:00
+487,2020-01-22 11:13:00,NCsoft's strength and expectations for new works... Game ETF flies,1,0.0,0.262,0.738,0.4939,1,2020-1-22,2020-01-22 00:00:00
+488,2020-01-22 09:19:00,"""Based on Lineage 2M and Lineage M performance... NCsoft, 2020 operating profit ...",0,0.0,0.209,0.7909999999999999,0.4404,1,2020-1-22,2020-01-22 00:00:00
+489,2020-01-22 08:07:00,"[Click e-sector]"" NCsoft, diversify sales with'Lineage 2M'... Goal ...",0,0.0,0.0,1.0,0.0,0,2020-1-22,2020-01-22 00:00:00
+490,2020-01-22 07:30:00,NCsoft Diversifies Sales with'Lineage 2M'-KB Securities,0,0.0,0.306,0.6940000000000001,0.29600000000000004,1,2020-1-22,2020-01-22 00:00:00
+491,2020-01-22 09:14:00,"52 weeks report of'NCSoft' is renewed, success history continues-...",1,0.0,0.316,0.684,0.5719,1,2020-1-22,2020-01-22 00:00:00
+492,2020-01-19 11:32:00,[Recommended Week of the Week] Pay attention to'performance improvement' NCsoft'undervaluation' Kumho Petrochemical,0,0.09699999999999999,0.20800000000000002,0.6940000000000001,0.3818,1,2020-1-19,2020-01-19 00:00:00
+493,2020-01-17 06:00:00,"NCsoft writes a myth, the highest price ever after solving'the curse of a new work'",1,0.226,0.0,0.774,-0.5423,-1,2020-1-17,2020-01-17 00:00:00
+494,2020-01-22 07:30:00,NCsoft Diversifies Sales with'Lineage 2M'-KB Securities,0,0.0,0.306,0.6940000000000001,0.29600000000000004,1,2020-1-22,2020-01-22 00:00:00
+495,2020-01-19 11:32:00,[Recommended Week of the Week] Pay attention to'performance improvement' NCsoft'undervaluation' Kumho Petrochemical,0,0.09699999999999999,0.20800000000000002,0.6940000000000001,0.3818,1,2020-1-19,2020-01-19 00:00:00
+496,2020-01-17 09:06:00,"52 weeks report of'NCSoft' is renewed, success history continues-...",1,0.0,0.316,0.684,0.5719,1,2020-1-17,2020-01-17 00:00:00
+497,2020-01-17 06:00:00,"NCsoft writes a myth, the highest price ever after solving'the curse of a new work'",1,0.226,0.0,0.774,-0.5423,-1,2020-1-17,2020-01-17 00:00:00
+498,2020-01-16 09:56:00,[Features] Lineage 2M box office NCsoft report marched,0,0.0,0.0,1.0,0.0,0,2020-1-16,2020-01-16 00:00:00
+499,2020-01-16 09:30:00,[Features] NCsoft reports 52 weeks of earnings expectations,0,0.0,0.0,1.0,0.0,0,2020-1-16,2020-01-16 00:00:00
+500,2020-01-16 09:26:00,"NCsoft, Lineage 2M box office report is updated every day",0,0.0,0.0,1.0,0.0,0,2020-1-16,2020-01-16 00:00:00
+501,2020-01-16 09:10:00,"52-week report of NCsoft renewed, mass net purchase by foreigners the previous day",0,0.0,0.0,1.0,0.0,0,2020-1-16,2020-01-16 00:00:00
+502,2020-01-15 09:13:00,"52-week report of NCsoft is renewed, the strongest player in the high-end game market, performance...",1,0.0,0.172,0.828,0.4404,1,2020-1-15,2020-01-15 00:00:00
+503,2020-01-10 14:58:00,"NCsoft, Lineage, etc. 4 games'PC Cafe Grand Festival' held",0,0.0,0.508,0.49200000000000005,0.7351,1,2020-1-10,2020-01-10 00:00:00
+504,2020-01-09 11:05:00,NCsoft'game leader's report' taken even in conflict between the US and Iran,-1,0.17300000000000001,0.0,0.8270000000000001,-0.3182,-1,2020-1-9,2020-01-09 00:00:00
+505,2020-01-10 09:07:00,"52-week report of NCsoft renewed, foreign mass net purchase in the last 3 days",0,0.0,0.0,1.0,0.0,0,2020-1-10,2020-01-10 00:00:00
+506,2020-01-09 11:05:00,NCsoft'game leader's report' taken even in conflict between the US and Iran,-1,0.17300000000000001,0.0,0.8270000000000001,-0.3182,-1,2020-1-9,2020-01-09 00:00:00
+507,2020-01-09 09:12:00,"52-week report of NCsoft renewed, mass net purchase by foreigners the previous day",0,0.0,0.0,1.0,0.0,0,2020-1-9,2020-01-09 00:00:00
+508,2020-01-08 11:43:00,"'NCSoft' 52 weeks report is renewed, global game stocks top pick and target price...",0,0.0,0.122,0.878,0.2023,1,2020-1-8,2020-01-08 00:00:00
+509,2020-01-08 08:57:00,"""NCSoft, undervalued compared to earnings expectations... Target ↑""",0,0.0,0.0,1.0,0.0,0,2020-1-8,2020-01-08 00:00:00
+510,2020-01-08 07:48:00,"NCsoft, overwhelming investment attraction'target price ↑'-Mirae Asset Daewoo",0,0.23199999999999998,0.0,0.768,-0.2755,-1,2020-1-8,2020-01-08 00:00:00
+511,2020-01-08 08:06:00,NCsoft secures two mobile game IPs for Lineage 2M box office-NH,0,0.0,0.187,0.813,0.3182,1,2020-1-8,2020-01-08 00:00:00
+512,2020-01-07 20:38:00,NCsoft's number 1 trillion in operating profits... Stock prices running from the beginning of the year,-1,0.0,0.085,0.915,0.0772,0,2020-1-8,2020-01-08 00:00:00
+513,2020-01-07 09:42:00,"NCsoft, strong for the third day... Stock prices are also well received",1,0.0,0.35100000000000003,0.649,0.6597,1,2020-1-7,2020-01-07 00:00:00
+514,2020-01-07 07:57:00,"[Click e-Event] ""Ncsoft, Lineage 2M Prospects Good Performance""",1,0.0,0.45899999999999996,0.541,0.6249,1,2020-1-7,2020-01-07 00:00:00
+515,2020-01-07 07:52:00,"""NCsoft,'Lineage 2M' estimated daily average sales of 3 billion won"" -Ebest",0,0.0,0.29100000000000004,0.7090000000000001,0.5719,1,2020-1-7,2020-01-07 00:00:00
+516,2020-01-07 07:47:00,NCsoft departs Lineage two-headed carriage-Korea Investment & Securities,0,0.0,0.268,0.732,0.29600000000000004,1,2020-1-7,2020-01-07 00:00:00
+517,2020-01-07 18:21:00,NCsoft unveils new CI and slogan,0,0.0,0.0,1.0,0.0,0,2020-1-8,2020-01-08 00:00:00
+518,2020-01-07 16:27:00,NCsoft unveils new CI,0,0.0,0.0,1.0,0.0,0,2020-1-8,2020-01-08 00:00:00
+519,2020-01-07 14:12:00,NCsoft unveils new CI,0,0.0,0.0,1.0,0.0,0,2020-1-7,2020-01-07 00:00:00
+520,2020-01-07 10:39:00,"""Window to the future"" NCsoft CI renewal",1,0.0,0.0,1.0,0.0,0,2020-1-7,2020-01-07 00:00:00
+521,2020-01-07 09:25:00,"52-week report of NCsoft renewed, mass net purchase by foreigners the previous day",0,0.0,0.0,1.0,0.0,0,2020-1-7,2020-01-07 00:00:00
+522,2020-01-07 16:27:00,NCsoft unveils new CI,0,0.0,0.0,1.0,0.0,0,2020-1-8,2020-01-08 00:00:00
+523,2020-01-07 14:12:00,NCsoft unveils new CI,0,0.0,0.0,1.0,0.0,0,2020-1-7,2020-01-07 00:00:00
+524,2020-01-07 10:39:00,"""Window to the future"" NCsoft CI renewal",1,0.0,0.0,1.0,0.0,0,2020-1-7,2020-01-07 00:00:00
+525,2020-01-07 09:42:00,"NCsoft, strong for the third day... Stock prices are also well received",1,0.0,0.35100000000000003,0.649,0.6597,1,2020-1-7,2020-01-07 00:00:00
+526,2020-01-07 08:26:00,"NCsoft, Lineage 2M expects good results... Target Price↑-Korea",1,0.0,0.293,0.7070000000000001,0.4404,1,2020-1-7,2020-01-07 00:00:00
+527,2020-01-07 08:25:00,"“Ncsoft, Lineage 2M's Big Hit will continue earnings momentum”",0,0.0,0.0,1.0,0.0,0,2020-1-7,2020-01-07 00:00:00
+528,2020-01-07 07:57:00,"[Click e-Event] ""Ncsoft, Lineage 2M Prospects Good Performance""",1,0.0,0.45899999999999996,0.541,0.6249,1,2020-1-7,2020-01-07 00:00:00
+529,2020-01-07 07:52:00,"""NCsoft,'Lineage 2M' estimated daily average sales of 3 billion won"" -Ebest",0,0.0,0.29100000000000004,0.7090000000000001,0.5719,1,2020-1-7,2020-01-07 00:00:00
+530,2020-01-07 07:47:00,NCsoft departs Lineage two-headed carriage-Korea Investment & Securities,0,0.0,0.268,0.732,0.29600000000000004,1,2020-1-7,2020-01-07 00:00:00
+531,2020-01-07 07:12:00,"""NCSoft, high long-term investment attractiveness… Target price of 720,000 won""",0,0.0,0.29100000000000004,0.7090000000000001,0.5719,1,2020-1-7,2020-01-07 00:00:00
+532,2020-01-07 09:25:00,"52-week report of NCsoft renewed, mass net purchase by foreigners the previous day",0,0.0,0.0,1.0,0.0,0,2020-1-7,2020-01-07 00:00:00
+533,2020-01-06 18:37:00,"On the 06th, Samsung Electronics (0.00%), NCsoft (+2.48...",0,0.0,0.0,1.0,0.0,0,2020-1-7,2020-01-07 00:00:00
+534,2020-01-06 11:42:00,NCsoft strengthens the game leader with “Lineage 2M”,1,0.0,0.3,0.7,0.4588,1,2020-1-6,2020-01-06 00:00:00
+535,2020-01-06 09:34:00,"[Features] NCsoft, record high price on expectations for earnings",0,0.0,0.0,1.0,0.0,0,2020-1-6,2020-01-06 00:00:00
+536,2020-01-05 15:31:00,"""Korea Finance and Growth Promising Investment… NCsoft, Operating Profit Appears 38% Increase""",-1,0.0,0.568,0.43200000000000005,0.8591,1,2020-1-5,2020-01-05 00:00:00
+537,2020-01-03 11:14:00,NCsoft '52 weeks report price'... Share price starts to rise this year,0,0.0,0.16699999999999998,0.833,0.29600000000000004,1,2020-1-3,2020-01-03 00:00:00
+538,2020-01-03 09:33:00,"52-week report of NCsoft is renewed, rising with regular alignment of short- and mid-term",0,0.0,0.0,1.0,0.0,0,2020-1-3,2020-01-03 00:00:00
+539,2020-01-02 18:51:00,NCsoft catches two “new and global” rabbits this year,0,0.0,0.0,1.0,0.0,0,2020-1-3,2020-01-03 00:00:00
+540,2020-01-07 07:47:00,NCsoft departs Lineage two-headed carriage-Korea Investment & Securities,0,0.0,0.268,0.732,0.29600000000000004,1,2020-1-7,2020-01-07 00:00:00
+541,2020-01-07 07:12:00,"""NCSoft, high long-term investment attractiveness… Target price of 720,000 won""",0,0.0,0.29100000000000004,0.7090000000000001,0.5719,1,2020-1-7,2020-01-07 00:00:00
+542,2020-01-06 18:37:00,"On the 06th, Samsung Electronics (0.00%), NCsoft (+2.48...",0,0.0,0.0,1.0,0.0,0,2020-1-7,2020-01-07 00:00:00
+543,2020-01-06 11:42:00,NCsoft strengthens the game leader with “Lineage 2M”,1,0.0,0.3,0.7,0.4588,1,2020-1-6,2020-01-06 00:00:00
+544,2020-01-06 09:34:00,"[Features] NCsoft, record high price on expectations for earnings",0,0.0,0.0,1.0,0.0,0,2020-1-6,2020-01-06 00:00:00
+545,2020-01-05 15:31:00,"""Korea Finance and Growth Promising Investment… NCsoft, Operating Profit Appears 38% Increase""",-1,0.0,0.568,0.43200000000000005,0.8591,1,2020-1-5,2020-01-05 00:00:00
+546,2020-01-03 11:14:00,NCsoft '52 weeks report price'... Share price starts to rise this year,0,0.0,0.16699999999999998,0.833,0.29600000000000004,1,2020-1-3,2020-01-03 00:00:00
+547,2020-01-03 09:33:00,"52-week report of NCsoft is renewed, rising with regular alignment of short- and mid-term",0,0.0,0.0,1.0,0.0,0,2020-1-3,2020-01-03 00:00:00
+548,2020-01-02 18:51:00,NCsoft catches two “new and global” rabbits this year,0,0.0,0.0,1.0,0.0,0,2020-1-3,2020-01-03 00:00:00
+549,2020-01-02 16:28:00,NCsoft releases Lineage 2M's 3rd OST'The Heroes',0,0.0,0.355,0.645,0.5106,1,2020-1-3,2020-01-03 00:00:00
+550,2020-01-02 14:05:00,NCsoft Releases Lineage 2M's 3rd OST'The Heroes',0,0.0,0.355,0.645,0.5106,1,2020-1-2,2020-01-02 00:00:00
+551,2020-01-02 14:05:00,NCsoft Releases Lineage 2M's 3rd OST'The Heroes',0,0.0,0.355,0.645,0.5106,1,2020-1-2,2020-01-02 00:00:00
+552,2020-01-02 09:36:00,"NCsoft, 38% of operating profit in 4Q on lineage 2M box office ↑… Target price↑-Shinyoung",0,0.233,0.14,0.627,-0.4466,-1,2020-1-2,2020-01-02 00:00:00
+553,2019-12-15 17:38:00,"[Recommended Week of the Week] New work'Lineage 2M' at the box office NCsoft, etc.",0,0.0,0.0,1.0,0.0,0,2019-12-16,2019-12-16 00:00:00
+554,2019-12-13 09:05:00,"""NCsoft, Lineage M sales are also stable…the target is raised""-Shinhan Investment",0,0.0,0.0,1.0,0.0,0,2019-12-13,2019-12-13 00:00:00
+555,2019-12-13 08:39:00,"""Lineage M is as stable as NCsoft, Lineage 2M""... Target price ↑",0,0.0,0.196,0.804,0.29600000000000004,1,2019-12-13,2019-12-13 00:00:00
+556,2019-12-13 08:27:00,"NCsoft, Lineage and Lineage 2 mobile box office success… Target price↑-Shinhan",1,0.0,0.0,1.0,0.0,0,2019-12-13,2019-12-13 00:00:00
+557,2019-12-11 15:03:00,NCsoft releases Lineage 2M's second OST album,0,0.0,0.0,1.0,0.0,0,2019-12-11,2019-12-11 00:00:00
+558,2019-12-11 08:52:00,[The 2nd Tax Award Winning Company] NCsoft's'Linger C'gathered… Sales and profit growth...,1,0.0,0.521,0.479,0.8689,1,2019-12-11,2019-12-11 00:00:00
+559,2019-12-11 08:22:00,"[Click e-sector] ""NCSoft to benefit from China's cloud gaming market expansion""",1,0.0,0.231,0.769,0.4588,1,2019-12-11,2019-12-11 00:00:00
+560,2019-12-10 09:37:00,“The “achievements” beyond NCsoft’s Lineage 2M expectations”,0,0.0,0.0,1.0,0.0,0,2019-12-10,2019-12-10 00:00:00
+561,2019-12-10 08:15:00,"NCsoft, Lineage 2M'goal price ↑'more than expected-Ebest",1,0.0,0.0,1.0,0.0,0,2019-12-10,2019-12-10 00:00:00
+562,2019-12-10 08:14:00,"[Click e-sector]"" NCsoft, Lineage 2M hit level exceeded expectations... Target is'...",0,0.0,0.0,1.0,0.0,0,2019-12-10,2019-12-10 00:00:00
+563,2019-12-10 07:49:00,"NCsoft,'Lineage 2M' hit more than expected... Target price↑-Ebest",1,0.0,0.0,1.0,0.0,0,2019-12-10,2019-12-10 00:00:00
+564,2019-12-08 13:27:00,The effect of'Lineage 2M' triggered ... Will NCsoft record '1 trillion of operating profits' next year?,-1,0.0,0.162,0.838,0.4404,1,2019-12-8,2019-12-08 00:00:00
+565,2019-12-10 08:14:00,"[Click e-sector]"" NCsoft, Lineage 2M hit level exceeded expectations... Target is'...",0,0.0,0.0,1.0,0.0,0,2019-12-10,2019-12-10 00:00:00
+566,2019-12-10 07:49:00,"NCsoft,'Lineage 2M' hit more than expected... Target price↑-Ebest",1,0.0,0.0,1.0,0.0,0,2019-12-10,2019-12-10 00:00:00
+567,2019-12-08 13:27:00,The effect of'Lineage 2M' triggered ... Will NCsoft record '1 trillion of operating profits' next year?,-1,0.0,0.162,0.838,0.4404,1,2019-12-8,2019-12-08 00:00:00
+568,2019-12-07 12:40:00,"""Ncsoft creates a positive atmosphere thanks to Lineage 2M""",0,0.0,0.632,0.368,0.8225,1,2019-12-7,2019-12-07 00:00:00
+569,2019-12-07 09:31:00,Lineage 2M's expectations for success grow... NCsoft stock price rebound,1,0.0,0.29100000000000004,0.7090000000000001,0.5719,1,2019-12-7,2019-12-07 00:00:00
+570,2019-12-06 18:37:00,"On the 06th, at a foreign exchange, NCsoft (+7.37%), Samsung Electronics Woo (+2....",0,0.0,0.22,0.78,0.4767,1,2019-12-7,2019-12-07 00:00:00
+571,2019-12-06 14:14:00,NCsoft's stock price for 3 consecutive days in lineage 2M craze↑,-1,0.0,0.0,1.0,0.0,0,2019-12-6,2019-12-06 00:00:00
+572,2019-12-06 10:48:00,"NCsoft, rising for the third day... “Lineage 2M” box office success “Continuous”",1,0.0,0.252,0.748,0.5719,1,2019-12-6,2019-12-06 00:00:00
+573,2019-12-06 10:08:00,"[Features] NCsoft, strong in expectations for Lineage 2M early in the market",1,0.0,0.231,0.769,0.5106,1,2019-12-6,2019-12-06 00:00:00
+574,2019-12-06 09:49:00,"[Features] NCsoft, Lineage 2M'Strengthened' in Positive Change",1,0.0,0.375,0.625,0.5574,1,2019-12-6,2019-12-06 00:00:00
+575,2019-12-06 08:36:00,“NCsoft expects earnings and stock prices to rise with Lineage 2M”,0,0.0,0.0,1.0,0.0,0,2019-12-6,2019-12-06 00:00:00
+576,2019-12-06 08:16:00,"[Click e-sector] “Ncsoft, Lineage 2M should pay attention to performance improvement”",0,0.12300000000000001,0.0,0.877,-0.1027,-1,2019-12-6,2019-12-06 00:00:00
+577,2019-12-06 08:09:00,"""NCSoft, Lineage M, No. 1 in Sales""-Korea Investment & Securities",0,0.212,0.212,0.5770000000000001,0.0,0,2019-12-6,2019-12-06 00:00:00
+578,2019-12-06 08:03:00,Game BJ's evaluation of Lineage 2M has changed... NCsoft attention-Korea,0,0.0,0.0,1.0,0.0,0,2019-12-6,2019-12-06 00:00:00
+579,2019-12-06 07:35:00,"""NCSoft achieves No. 1 in sales of Lineage 2M... paying attention to performance improvement""",0,0.136,0.185,0.679,0.2023,1,2019-12-6,2019-12-06 00:00:00
+580,2019-12-06 10:30:00,"'NCSoft' increased by more than 5%, mass net purchase of institutions in the last 3 days",0,0.0,0.13,0.87,0.2732,1,2019-12-6,2019-12-06 00:00:00
+581,2019-12-04 16:52:00,"NCsoft'Lineage 2M', first update after launch",0,0.0,0.0,1.0,0.0,0,2019-12-5,2019-12-05 00:00:00
+582,2019-12-04 16:31:00,"NCsoft, the first update after the release of Lineage 2M",0,0.0,0.0,1.0,0.0,0,2019-12-5,2019-12-05 00:00:00
+583,2019-12-04 11:43:00,"NCsoft,'a brother of brother's lineage 2M rebound rally",1,0.0,0.0,1.0,0.0,0,2019-12-4,2019-12-04 00:00:00
+584,2019-12-04 14:41:00,"NCsoft'Lineage M','Class Reboot & Care' update progress",1,0.0,0.6,0.4,0.7184,1,2019-12-4,2019-12-04 00:00:00
+585,2019-12-04 10:17:00,“Lineage 2M” box office mall... “NCSoft's stock price upturns'outlook'”,1,0.0,0.0,1.0,0.0,0,2019-12-4,2019-12-04 00:00:00
+586,2019-12-03 14:38:00,NCsoft launches'Spoons X New'est' Christmas goods,1,0.0,0.0,1.0,0.0,0,2019-12-3,2019-12-03 00:00:00
+587,2019-12-06 10:08:00,"[Features] NCsoft, strong in expectations for Lineage 2M early in the market",1,0.0,0.231,0.769,0.5106,1,2019-12-6,2019-12-06 00:00:00
+588,2019-12-06 09:49:00,"[Features] NCsoft, Lineage 2M'Strengthened' in Positive Change",1,0.0,0.375,0.625,0.5574,1,2019-12-6,2019-12-06 00:00:00
+589,2019-12-06 08:16:00,"[Click e-sector] “Ncsoft, Lineage 2M should pay attention to performance improvement”",0,0.12300000000000001,0.0,0.877,-0.1027,-1,2019-12-6,2019-12-06 00:00:00
+590,2019-12-06 08:03:00,Game BJ's evaluation of Lineage 2M has changed... NCsoft attention-Korea,0,0.0,0.0,1.0,0.0,0,2019-12-6,2019-12-06 00:00:00
+591,2019-12-06 07:35:00,"""NCSoft achieves No. 1 in sales of Lineage 2M... paying attention to performance improvement""",0,0.136,0.185,0.679,0.2023,1,2019-12-6,2019-12-06 00:00:00
+592,2019-12-04 16:52:00,"NCsoft'Lineage 2M', first update after launch",0,0.0,0.0,1.0,0.0,0,2019-12-5,2019-12-05 00:00:00
+593,2019-12-04 16:31:00,"NCsoft, the first update after the release of Lineage 2M",0,0.0,0.0,1.0,0.0,0,2019-12-5,2019-12-05 00:00:00
+594,2019-12-04 11:43:00,"NCsoft,'a brother of brother's lineage 2M rebound rally",1,0.0,0.0,1.0,0.0,0,2019-12-4,2019-12-04 00:00:00
+595,2019-12-04 14:41:00,"NCsoft'Lineage M','Class Reboot & Care' update progress",1,0.0,0.6,0.4,0.7184,1,2019-12-4,2019-12-04 00:00:00
+596,2019-12-04 10:17:00,“Lineage 2M” box office mall... “NCSoft's stock price upturns'outlook'”,1,0.0,0.0,1.0,0.0,0,2019-12-4,2019-12-04 00:00:00
+597,2019-12-03 14:38:00,NCsoft launches'Spoons X New'est' Christmas goods,1,0.0,0.0,1.0,0.0,0,2019-12-3,2019-12-03 00:00:00
+598,2019-12-03 11:12:00,"It's a new hit, but the stock price is moving back... NCsoft, now is your chance to buy?",0,0.0,0.135,0.865,0.3612,1,2019-12-3,2019-12-03 00:00:00
+599,2019-12-03 09:36:00,"NCsoft's new hit, declining share price a buying opportunity?",0,0.0,0.455,0.545,0.6124,1,2019-12-3,2019-12-03 00:00:00
+600,2019-12-02 11:24:00,"NCsoft, Lineage M'Tower of Conflict' released to all worlds",-1,0.223,0.0,0.777,-0.3182,-1,2019-12-2,2019-12-02 00:00:00
+601,2019-12-02 09:31:00,"[Features] NCsoft, the new'Lineage 2M', ranked No. 1 in Google Play sales ...",0,0.151,0.16399999999999998,0.685,0.0516,0,2019-12-2,2019-12-02 00:00:00
+602,2019-11-28 11:13:00,NCsoft's stock price'Billville' as momentum disappears,-1,0.324,0.0,0.6759999999999999,-0.34,-1,2019-11-28,2019-11-28 00:00:00
+603,2019-11-28 07:55:00,NCsoft shares rebound when Lineage 2M performance is confirmed-future,1,0.0,0.21600000000000003,0.784,0.29600000000000004,1,2019-11-28,2019-11-28 00:00:00
+604,2019-11-28 07:45:00,"NCsoft, Lineage 2M positive box office performance and expectations-Mirae Asset Daewoo",0,0.0,0.40399999999999997,0.596,0.7269,1,2019-11-28,2019-11-28 00:00:00
+605,2019-11-28 08:57:00,"""NCSoft, a weakness before and after the launch is sufficiently predicted"" -NH Investment & Securities",-1,0.14800000000000002,0.324,0.528,0.516,1,2019-11-28,2019-11-28 00:00:00
+606,2019-11-28 08:35:00,NCsoft predicts a decline in stock prices before and after the release of Lineage 2M.. `Let's check sales...,-1,0.0,0.0,1.0,0.0,0,2019-11-28,2019-11-28 00:00:00
+607,2019-12-04 11:43:00,"NCsoft,'a brother of brother's lineage 2M rebound rally",1,0.0,0.0,1.0,0.0,0,2019-12-4,2019-12-04 00:00:00
+608,2019-12-04 10:17:00,“Lineage 2M” box office mall... “NCSoft's stock price upturns'outlook'”,1,0.0,0.0,1.0,0.0,0,2019-12-4,2019-12-04 00:00:00
+609,2019-12-03 14:38:00,NCsoft launches'Spoons X New'est' Christmas goods,1,0.0,0.0,1.0,0.0,0,2019-12-3,2019-12-03 00:00:00
+610,2019-12-03 11:12:00,"It's a new hit, but the stock price is moving back... NCsoft, now is your chance to buy?",0,0.0,0.135,0.865,0.3612,1,2019-12-3,2019-12-03 00:00:00
+611,2019-12-03 09:36:00,"NCsoft's new hit, declining share price a buying opportunity?",0,0.0,0.455,0.545,0.6124,1,2019-12-3,2019-12-03 00:00:00
+612,2019-12-02 11:24:00,"NCsoft, Lineage M'Tower of Conflict' released to all worlds",-1,0.223,0.0,0.777,-0.3182,-1,2019-12-2,2019-12-02 00:00:00
+613,2019-12-02 09:31:00,"[Features] NCsoft, the new'Lineage 2M', ranked No. 1 in Google Play sales ...",0,0.151,0.16399999999999998,0.685,0.0516,0,2019-12-2,2019-12-02 00:00:00
+614,2019-11-28 11:13:00,NCsoft's stock price'Billville' as momentum disappears,-1,0.324,0.0,0.6759999999999999,-0.34,-1,2019-11-28,2019-11-28 00:00:00
+615,2019-11-28 07:55:00,NCsoft shares rebound when Lineage 2M performance is confirmed-future,1,0.0,0.21600000000000003,0.784,0.29600000000000004,1,2019-11-28,2019-11-28 00:00:00
+616,2019-11-28 07:45:00,"NCsoft, Lineage 2M positive box office performance and expectations-Mirae Asset Daewoo",0,0.0,0.40399999999999997,0.596,0.7269,1,2019-11-28,2019-11-28 00:00:00
+617,2019-11-28 08:57:00,"""NCSoft, a weakness before and after the launch is sufficiently predicted"" -NH Investment & Securities",-1,0.14800000000000002,0.324,0.528,0.516,1,2019-11-28,2019-11-28 00:00:00
+618,2019-11-28 08:35:00,NCsoft predicts a decline in stock prices before and after the release of Lineage 2M.. `Let's check sales...,-1,0.0,0.0,1.0,0.0,0,2019-11-28,2019-11-28 00:00:00
+619,2019-11-28 07:58:00,"""After NCsoft launches Lineage 2M, the stock price declines…Sales need to be confirmed""-NH",0,0.0,0.0,1.0,0.0,0,2019-11-28,2019-11-28 00:00:00
+620,2019-11-27 16:16:00,"NCsoft's'Lineage 2M' declined on the launch date... ""Not expected for initial reaction""",0,0.0,0.0,1.0,0.0,0,2019-11-28,2019-11-28 00:00:00
+621,2019-11-27 11:41:00,NCsoft is the top pick for games after Lineage 2M announcement,0,0.0,0.153,0.847,0.2023,1,2019-11-27,2019-11-27 00:00:00
+622,2019-11-27 11:24:00,“NCSoft needs to expand Lineage 2M sales and expand overseas in order to rebound”,1,0.0,0.27699999999999997,0.723,0.5574,1,2019-11-27,2019-11-27 00:00:00
+623,2019-11-27 10:05:00,[Features] NCsoft weakens on the launch date of'Lineage 2M',-1,0.223,0.0,0.777,-0.3182,-1,2019-11-27,2019-11-27 00:00:00
+624,2019-11-27 09:59:00,NCsoft weakens on the first day of'Lineage 2M' release... 5.95%↓,-1,0.204,0.0,0.7959999999999999,-0.3182,-1,2019-11-27,2019-11-27 00:00:00
+625,2019-11-27 09:34:00,[Features] NCsoft's stock price weakened on the first day of'Lineage 2M' release,-1,0.17300000000000001,0.0,0.8270000000000001,-0.3182,-1,2019-11-27,2019-11-27 00:00:00
+626,2019-11-27 10:25:00,NCsoft launches cross-play service'Purple' beta service,0,0.0,0.0,1.0,0.0,0,2019-11-27,2019-11-27 00:00:00
+627,2019-11-28 07:58:00,"""After NCsoft launches Lineage 2M, the stock price declines…Sales need to be confirmed""-NH",0,0.0,0.0,1.0,0.0,0,2019-11-28,2019-11-28 00:00:00
+628,2019-11-28 07:55:00,NCsoft shares rebound when Lineage 2M performance is confirmed-future,1,0.0,0.21600000000000003,0.784,0.29600000000000004,1,2019-11-28,2019-11-28 00:00:00
+629,2019-11-28 07:45:00,"NCsoft, Lineage 2M positive box office performance and expectations-Mirae Asset Daewoo",0,0.0,0.40399999999999997,0.596,0.7269,1,2019-11-28,2019-11-28 00:00:00
+630,2019-11-27 16:16:00,"NCsoft's'Lineage 2M' declined on the launch date... ""Not expected for initial reaction""",0,0.0,0.0,1.0,0.0,0,2019-11-28,2019-11-28 00:00:00
+631,2019-11-27 11:41:00,NCsoft is the top pick for games after Lineage 2M announcement,0,0.0,0.153,0.847,0.2023,1,2019-11-27,2019-11-27 00:00:00
+632,2019-11-27 11:24:00,“NCSoft needs to expand Lineage 2M sales and expand overseas in order to rebound”,1,0.0,0.27699999999999997,0.723,0.5574,1,2019-11-27,2019-11-27 00:00:00
+633,2019-11-27 10:05:00,[Features] NCsoft weakens on the launch date of'Lineage 2M',-1,0.223,0.0,0.777,-0.3182,-1,2019-11-27,2019-11-27 00:00:00
+634,2019-11-27 09:59:00,NCsoft weakens on the first day of'Lineage 2M' release... 5.95%↓,-1,0.204,0.0,0.7959999999999999,-0.3182,-1,2019-11-27,2019-11-27 00:00:00
+635,2019-11-27 09:34:00,[Features] NCsoft's stock price weakened on the first day of'Lineage 2M' release,-1,0.17300000000000001,0.0,0.8270000000000001,-0.3182,-1,2019-11-27,2019-11-27 00:00:00
+636,2019-11-27 10:25:00,NCsoft launches cross-play service'Purple' beta service,0,0.0,0.0,1.0,0.0,0,2019-11-27,2019-11-27 00:00:00
+637,2019-11-27 08:01:00,"NCsoft, Lineage 2M pre-booked maximum value-Merchant",0,0.0,0.0,1.0,0.0,0,2019-11-27,2019-11-27 00:00:00
+638,2019-11-27 07:56:00,"NCsoft, Lineage 2M expectations ↑... New project TL is also paying attention-merchants",0,0.0,0.0,1.0,0.0,0,2019-11-27,2019-11-27 00:00:00
+639,2019-11-25 17:40:00,"NCsoft, ahead of the release of'Lineage 2M', will enjoy momentum for new product releases",1,0.0,0.198,0.802,0.4939,1,2019-11-26,2019-11-26 00:00:00
+640,2019-11-24 16:20:00,"KEPCO, Naver, NCsoft... Communication, utilities, etc.",0,0.0,0.0,1.0,0.0,0,2019-11-25,2019-11-25 00:00:00
+641,2019-11-21 09:22:00,"""NCSoft,'Lineage 2M' box office prediction…will likely be re-evaluated""-Cape",-1,0.0,0.0,1.0,0.0,0,2019-11-21,2019-11-21 00:00:00
+642,2019-11-21 07:50:00,"NCsoft,'Lineage 2M' exceeding expectations... Share price revaluation-Cape",0,0.0,0.268,0.732,0.29600000000000004,1,2019-11-21,2019-11-21 00:00:00
+643,2019-11-20 14:58:00,NCsoft's cross-play service'Purple' begins pre-downloading on the 25th,0,0.0,0.0,1.0,0.0,0,2019-11-20,2019-11-20 00:00:00
+644,2019-11-20 11:43:00,"NCsoft, pre-download of'Lineage 2M' from noon on the 25th",0,0.0,0.0,1.0,0.0,0,2019-11-20,2019-11-20 00:00:00
+645,2019-11-27 08:01:00,"NCsoft, Lineage 2M pre-booked maximum value-Merchant",0,0.0,0.0,1.0,0.0,0,2019-11-27,2019-11-27 00:00:00
+646,2019-11-27 07:56:00,"NCsoft, Lineage 2M expectations ↑... New project TL is also paying attention-merchants",0,0.0,0.0,1.0,0.0,0,2019-11-27,2019-11-27 00:00:00
+647,2019-11-25 17:40:00,"NCsoft, ahead of the release of'Lineage 2M', will enjoy momentum for new product releases",1,0.0,0.198,0.802,0.4939,1,2019-11-26,2019-11-26 00:00:00
+648,2019-11-24 16:20:00,"KEPCO, Naver, NCsoft... Communication, utilities, etc.",0,0.0,0.0,1.0,0.0,0,2019-11-25,2019-11-25 00:00:00
+649,2019-11-21 09:22:00,"""NCSoft,'Lineage 2M' box office prediction…will likely be re-evaluated""-Cape",-1,0.0,0.0,1.0,0.0,0,2019-11-21,2019-11-21 00:00:00
+650,2019-11-21 07:50:00,"NCsoft,'Lineage 2M' exceeding expectations... Share price revaluation-Cape",0,0.0,0.268,0.732,0.29600000000000004,1,2019-11-21,2019-11-21 00:00:00
+651,2019-11-20 14:58:00,NCsoft's cross-play service'Purple' begins pre-downloading on the 25th,0,0.0,0.0,1.0,0.0,0,2019-11-20,2019-11-20 00:00:00
+652,2019-11-20 11:43:00,"NCsoft, pre-download of'Lineage 2M' from noon on the 25th",0,0.0,0.0,1.0,0.0,0,2019-11-20,2019-11-20 00:00:00
+653,2019-11-19 15:02:00,[Features] NCsoft reports 52 weeks ahead of Lineage 2M launch,0,0.0,0.0,1.0,0.0,0,2019-11-19,2019-11-19 00:00:00
+654,2019-11-19 13:28:00,"52 weeks report of'NCSoft' is renewed, step-wise growth on PC. Mobile too...",0,0.0,0.191,0.809,0.3818,1,2019-11-19,2019-11-19 00:00:00
+655,2019-11-19 13:14:00,[fnRASSI] NCsoft reports 52 weeks...0.9% ↑,0,0.0,0.0,1.0,0.0,0,2019-11-19,2019-11-19 00:00:00
+656,2019-11-18 08:51:00,"""NCsoft, Lineage M maintain stable sales... Target price ↑""",0,0.0,0.239,0.7609999999999999,0.29600000000000004,1,2019-11-18,2019-11-18 00:00:00
+657,2019-11-18 08:17:00,"NCsoft, Lineage 2M expectations valid... Target price ↑-Hyundai Motor Company",0,0.0,0.0,1.0,0.0,0,2019-11-18,2019-11-18 00:00:00
+658,2019-11-19 13:14:00,[fnRASSI] NCsoft reports 52 weeks...0.9% ↑,0,0.0,0.0,1.0,0.0,0,2019-11-19,2019-11-19 00:00:00
+659,2019-11-18 08:51:00,"""NCsoft, Lineage M maintain stable sales... Target price ↑""",0,0.0,0.239,0.7609999999999999,0.29600000000000004,1,2019-11-18,2019-11-18 00:00:00
+660,2019-11-18 08:17:00,"NCsoft, Lineage 2M expectations valid... Target price ↑-Hyundai Motor Company",0,0.0,0.0,1.0,0.0,0,2019-11-18,2019-11-18 00:00:00
+661,2019-11-16 13:49:00,Can stock price rise after NCsoft's'Lineage 2M',0,0.0,0.0,1.0,0.0,0,2019-11-16,2019-11-16 00:00:00
+662,2019-11-15 08:46:00,Performance improvement expected based on NCsoft's new work'Lineage 2M',0,0.0,0.273,0.727,0.4588,1,2019-11-15,2019-11-15 00:00:00
+663,2019-11-14 11:02:00,NCsoft's IP confidence in'Lineage',0,0.0,0.524,0.47600000000000003,0.5106,1,2019-11-14,2019-11-14 00:00:00
+664,2019-11-14 11:02:00,NCsoft's IP confidence in'Lineage',0,0.0,0.524,0.47600000000000003,0.5106,1,2019-11-14,2019-11-14 00:00:00
+665,2019-11-14 09:45:00,"""There will be no self-erosion effect following the release of Lineage M and Lineage 2M""-NCsoft ...",0,0.136,0.0,0.8640000000000001,-0.29600000000000004,-1,2019-11-14,2019-11-14 00:00:00
+666,2019-11-14 10:11:00,"[Concall] NCsoft ""Bulso S, released overseas first...Bulso 2, Aion 2 released next year...",0,0.0,0.0,1.0,0.0,0,2019-11-14,2019-11-14 00:00:00
+667,2019-11-14 09:39:00,"""Bulso S, from overseas launch.. Bulso 2 and Aion 2 are discussing the release schedule for next year"" -...",0,0.0,0.0,1.0,0.0,0,2019-11-14,2019-11-14 00:00:00
+668,2019-11-14 09:27:00,"""NC West bequest, to strengthen cooperation with NC headquarters""-NCsoft...",1,0.0,0.223,0.777,0.3182,1,2019-11-14,2019-11-14 00:00:00
+669,2019-11-14 09:18:00,"""Lineage M sales had no impact on competitive product launches""-NCsoft Concall",0,0.185,0.14300000000000002,0.672,-0.128,-1,2019-11-14,2019-11-14 00:00:00
+670,2019-11-14 08:57:00,NCsoft 3rd and 4th quarter operating profit of KRW 128.9 billion ... 7.3% compared to the same period last year...,-1,0.0,0.132,0.868,0.4404,1,2019-11-14,2019-11-14 00:00:00
+671,2019-11-14 08:37:00,"NCsoft, 3Q operating profit 128.9 billion... 7.3% year-on-year↓",-1,0.0,0.293,0.7070000000000001,0.4404,1,2019-11-14,2019-11-14 00:00:00
+672,2019-11-14 08:14:00,"NCsoft, 3Q operating profit 128.9 billion... 7.3% year-on-year↓",-1,0.0,0.293,0.7070000000000001,0.4404,1,2019-11-14,2019-11-14 00:00:00
+673,2019-11-14 09:27:00,"""NC West bequest, to strengthen cooperation with NC headquarters""-NCsoft...",1,0.0,0.223,0.777,0.3182,1,2019-11-14,2019-11-14 00:00:00
+674,2019-11-14 09:18:00,"""Lineage M sales had no impact on competitive product launches""-NCsoft Concall",0,0.185,0.14300000000000002,0.672,-0.128,-1,2019-11-14,2019-11-14 00:00:00
+675,2019-11-14 08:57:00,NCsoft 3rd and 4th quarter operating profit of KRW 128.9 billion ... 7.3% compared to the same period last year...,-1,0.0,0.132,0.868,0.4404,1,2019-11-14,2019-11-14 00:00:00
+676,2019-11-14 08:37:00,"NCsoft, 3Q operating profit 128.9 billion... 7.3% year-on-year↓",-1,0.0,0.293,0.7070000000000001,0.4404,1,2019-11-14,2019-11-14 00:00:00
+677,2019-11-14 08:14:00,"NCsoft, 3Q operating profit 128.9 billion... 7.3% year-on-year↓",-1,0.0,0.293,0.7070000000000001,0.4404,1,2019-11-14,2019-11-14 00:00:00
+678,2019-11-14 08:32:00,"NCsoft, 3Q operating profit of 128.9 billion won... 7.26% compared to the previous year ↓ (complementary)",-1,0.0,0.172,0.828,0.4404,1,2019-11-14,2019-11-14 00:00:00
+679,2019-11-14 08:14:00,"NCsoft, 3Q operating profit 128.9 billion... 7.3% year-on-year↓",-1,0.0,0.293,0.7070000000000001,0.4404,1,2019-11-14,2019-11-14 00:00:00
+680,2019-11-13 18:37:00,"[Signal] NCsoft, increased 133.2 billion won to US subsidiary led by Yoon Song-i",-1,0.0,0.345,0.655,0.7003,1,2019-11-14,2019-11-14 00:00:00
+681,2019-11-13 18:01:00,"NCsoft, ""acquired additional shares of NC West Holdings for 133.2 billion won",-1,0.0,0.371,0.629,0.7096,1,2019-11-14,2019-11-14 00:00:00
+682,2019-11-13 17:42:00,NCsoft acquires 133.2 billion won worth of shares in its US subsidiary,-1,0.0,0.46399999999999997,0.536,0.7783,1,2019-11-14,2019-11-14 00:00:00
+683,2019-11-13 08:36:00,NCsoft's mid- to long-term outlook positive with a rich lineup,0,0.0,0.507,0.493,0.802,1,2019-11-13,2019-11-13 00:00:00
+684,2019-11-13 18:37:00,"[Signal] NCsoft, increased 133.2 billion won to US subsidiary led by Yoon Song-i",-1,0.0,0.345,0.655,0.7003,1,2019-11-14,2019-11-14 00:00:00
+685,2019-11-13 18:01:00,"NCsoft, ""acquired additional shares of NC West Holdings for 133.2 billion won",-1,0.0,0.371,0.629,0.7096,1,2019-11-14,2019-11-14 00:00:00
+686,2019-11-13 17:47:00,"NCsoft ""NC West Holdings decided to issue a capital increase""",0,0.0,0.223,0.777,0.3182,1,2019-11-14,2019-11-14 00:00:00
+687,2019-11-13 17:42:00,NCsoft acquires 133.2 billion won worth of shares in its US subsidiary,-1,0.0,0.46399999999999997,0.536,0.7783,1,2019-11-14,2019-11-14 00:00:00
+688,2019-11-13 08:29:00,"NCsoft,'Buy' with 5 million pre-bookers for'Lineage 2M'",-1,0.0,0.0,1.0,0.0,0,2019-11-13,2019-11-13 00:00:00
+689,2019-11-12 16:38:00,"NCsoft unveils information on'Giran', the third manor of'Lineage 2M'",0,0.0,0.0,1.0,0.0,0,2019-11-13,2019-11-13 00:00:00

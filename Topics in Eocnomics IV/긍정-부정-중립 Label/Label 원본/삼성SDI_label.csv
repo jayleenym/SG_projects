@@ -1,0 +1,647 @@
+Date,EngTitle,posneg,neg,pos,neu,compound,vader_pred
+2020-10-30 10:13:00,"[Features] AF Double, Samsung SDI enters 30 trillion Hyundai Motor battery business...",-1,0.0,0.0,1.0,0.0,0
+2020-10-30 06:03:00,Samsung SDI bids 30 trillion won for Hyundai Motor battery business Samsung-Hyundai Motors Millwall Era,-1,0.0,0.209,0.791,0.5719,1
+2020-10-28 08:57:00,"[Today's target price] Samsung SDI, Hyundai Steel, and Huvitz'performance momentum'... eye level...",0,0.0,0.0,1.0,0.0,0
+2020-10-28 08:31:00,"“Samsung SDI, profit improvement will accelerate”-Hanwha Investment & Securities",0,0.0,0.618,0.382,0.7964,1
+2020-10-28 07:34:00,"Samsung SDI, 3Q sales record highest... Remarkable growth potential of medium and large batteries-NH",1,0.0,0.341,0.659,0.7351,1
+2020-10-28 08:01:00,"Samsung SDI, 4Q mid-to-large-sized batteries to grow significantly… 'Buy' at adjustment-Yuan...",0,0.326,0.0,0.674,-0.7034,-1
+2020-10-28 07:58:00,"Samsung SDI, 4Q auto battery expected to turn profitable",0,0.328,0.197,0.475,-0.4466,-1
+2020-10-28 07:31:00,"[Click e-sector] ""Samsung SDI, expects to turn surplus in car battery... Shares turn right...",0,0.0,0.145,0.855,0.296,1
+2020-10-27 17:24:00,Samsung SDI's third quarter sales of 3.87 trillion won'the largest ever',-1,0.0,0.0,1.0,0.0,0
+2020-10-27 15:12:00,"Battery profit improvement..Samsung SDI, 3 trillion in sales in the third quarter,'maximum'",-1,0.0,0.225,0.775,0.4404,1
+2020-10-27 14:22:00,Samsung SDI's stock price is also strong on'surprising performance' of strong battery,1,0.0,0.398,0.602,0.765,1
+2020-10-27 14:19:00,"Samsung SDI, 3Q operating profit of 2674 billion won... 'Battery business good'",0,0.0,0.367,0.633,0.7003,1
+2020-10-27 13:47:00,"Samsung SDI recorded the highest quarterly sales..""Achieved the old battery BEP""",1,0.0,0.0,1.0,0.0,0
+2020-10-27 15:04:00,"Samsung SDI, donated 600 million won to Samsung Life Insurance Foundation",-1,0.0,0.27,0.73,0.5719,1
+2020-10-27 15:02:00,"Samsung SDI, 3Q operating profit of 267.3 billion... 61.1% increase over the previous year",-1,0.0,0.302,0.698,0.6369,1
+2020-10-27 13:56:00,"Samsung SDI, 3Q operating profit of 267.3 billion... 61.1% year-on-year↑",-1,0.0,0.244,0.756,0.4404,1
+2020-10-27 15:00:00,"Quietly in'mourning'... Samsung SDI, the highest sales ever",1,0.0,0.0,1.0,0.0,0
+2020-10-27 13:44:00,Samsung SDI on a European electric car... 'Quiet room performance',0,0.0,0.0,1.0,0.0,0
+2020-10-27 14:54:00,"""Thanks to the sales of electric vehicles in Europe""... Samsung SDI's third quarter sales record highest (total)",1,0.0,0.153,0.847,0.4404,1
+2020-10-27 13:52:00,Samsung SDI's'good battery life' surged 61% in 3Q operating profit,1,0.0,0.244,0.756,0.4404,1
+2020-10-27 13:23:00,"Samsung SDI's third quarter performance... ""Increase in sales of small and medium-sized battery business""",0,0.0,0.15,0.85,0.3182,1
+2020-10-27 14:24:00,"""The annual demand for micromobility is expected to increase by more than 30%""-Samsung SDI Concall",0,0.089,0.137,0.774,0.2023,1
+2020-10-27 14:03:00,"Samsung SDI, 3Q operating profit of 2674 billion won... 61% increase over the previous year",-1,0.0,0.286,0.714,0.6369,1
+2020-10-27 13:19:00,"[Breaking News] Samsung SDI, 3Q operating profit of 267.4 billion won 61.1% year-on-year↑",-1,0.0,0.375,0.625,0.765,1
+2020-10-27 13:07:00,"Samsung SDI, 3Q operating profit of 2674 billion won... 61.1% ↑ compared to the previous year (breaking news)",-1,0.0,0.153,0.847,0.4404,1
+2020-10-27 13:59:00,"""EV battery sales will increase significantly next year""-Samsung SDI Concall",0,0.0,0.204,0.796,0.3182,1
+2020-10-27 13:58:00,"""Annual polarizing film sales expected to grow by double digits compared to the previous year""-Samsung SDI Concall",0,0.0,0.0,1.0,0.0,0
+2020-10-27 13:53:00,"“Next year, the cost of Zen5 batteries is expected to be reduced by more than 20%”-Samsung SDI Concall",0,0.0,0.0,1.0,0.0,0
+2020-10-27 13:52:00,Samsung SDI's'good battery life' surged 61% in 3Q operating profit,1,0.0,0.244,0.756,0.4404,1
+2020-10-27 13:43:00,“An annual surplus in the automotive battery business is expected next year”-Samsung SDI Concall,0,0.0,0.0,1.0,0.0,0
+2020-10-27 13:38:00,“Sales of medium and large batteries are expected to increase significantly in the fourth quarter”-Samsung SDI Concall,0,0.0,0.126,0.874,0.3182,1
+2020-10-27 13:30:00,"Samsung SDI, 3Q operating profit of KRW 266.4 billion ... 61.1% ↑",-1,0.0,0.225,0.775,0.4404,1
+2020-10-27 13:10:00,"Samsung SDI, 3Q operating profit of 2674 billion won... 61.6% ↑ compared to the previous year",-1,0.0,0.172,0.828,0.4404,1
+2020-10-27 13:07:00,"Samsung SDI, 3Q sales of 3.87 trillion won... 20.2% ↑ compared to the previous year (breaking news)",-1,0.0,0.0,1.0,0.0,0
+2020-10-26 08:35:00,`US ITC ruling-Samsung SDI·SK Ino's performance announcement-LG Chemicals shareholders` battery ...,0,0.0,0.0,1.0,0.0,0
+2020-10-22 11:17:00,Samsung SDI's battery'Zigzag' introduced,0,0.0,0.0,1.0,0.0,0
+2020-10-20 10:42:00,"Samsung SDI, Participated in InterBattery 2020... ""To showcase the eco-friendly future""",0,0.0,0.0,1.0,0.0,0
+2020-10-20 10:20:00,Samsung SDI Unveils Roadmap for All Solid Battery Development,0,0.0,0.167,0.833,0.1531,1
+2020-10-20 10:17:00,"Samsung SDI, Participated in'Inter Battery 2020'... ""Presenting the future of batteries""",0,0.0,0.0,1.0,0.0,0
+2020-10-20 09:56:00,"Samsung SDI, InterBattery, ""Batteries that transcend limits and help a sustainable future""...",0,0.0,0.213,0.787,0.4019,1
+2020-10-18 16:53:00,Samsung SDI's'Mind Prevention' Open one hundred days without an employee's face-to-face,0,0.0,0.0,1.0,0.0,0
+2020-10-18 12:51:00,Samsung SDI held a hundred days for employees overcoming coronavirus,0,0.0,0.0,1.0,0.0,0
+2020-10-18 10:00:00,Samsung SDI's executives and employees''mind defense'...,-1,0.0,0.0,1.0,0.0,0
+2020-10-18 09:39:00,"""Corona blue go""詩 poured into Samsung SDI",0,0.0,0.0,1.0,0.0,0
+2020-10-18 09:19:00,"Samsung SDI, one hundred days in the company'talk'... Best small poems in self-written poems and three lines",1,0.0,0.208,0.792,0.6369,1
+2020-10-18 09:01:00,"""Hope is in us"" Samsung SDI, self-written poems and Samhaeng poems for employees ...",0,0.0,0.182,0.818,0.4404,1
+2020-10-18 11:10:00,3Q good Samsung SDI… Increasing battery expandability,1,0.0,0.326,0.674,0.4404,1
+2020-10-16 05:40:00,Samsung SDI's super-gap battery separator is'safe' even at high temperatures of 150 degrees,0,0.0,0.0,1.0,0.0,0
+2020-10-15 18:27:00,Samsung SDI expands plant in Hungary... Double production capacity,0,0.0,0.149,0.851,0.1027,1
+2020-10-15 17:20:00,Samsung SDI battery wins... Doubled European production,1,0.0,0.0,1.0,0.0,0
+2020-10-14 16:12:00,"""Drag electric car and push ESS""... Samsung SDI, medium and large battery business",-1,0.137,0.0,0.863,-0.2263,-1
+2020-10-12 16:41:00,Samsung SDI held a company briefing session (IR) on the 27th,0,0.0,0.0,1.0,0.0,0
+2020-10-12 08:38:00,"Samsung SDI, Tesla's electric car rivalry sparked a solo run-SK Securities",0,0.0,0.196,0.804,0.296,1
+2020-10-12 08:06:00,"Samsung SDI, desperate anti-Tesla camp... “Electric cars can't be delayed any longer”-SK",-1,0.165,0.119,0.716,-0.1615,-1
+2020-10-06 08:04:00,"Samsung SDI, in earnest contributing to the profits of medium and large batteries... Target price↑-raising",0,0.0,0.323,0.677,0.7351,1
+2020-10-06 07:19:00,"[Click e-Stock] ""Samsung SDI, Prospects for Improvement in Profitability of Medium and Large Battery...",0,0.0,0.399,0.601,0.743,1
+2020-09-28 16:00:00,"Korea battery that lays golden eggs?... Following LG, Samsung SDI also turned to profit in the third quarter ...",0,0.0,0.139,0.861,0.4404,1
+2020-09-21 17:46:00,"LG Chem, Samsung SDI, and Ecoro cry and laugh at Tesla selection",0,0.186,0.216,0.599,0.128,1
+2020-09-21 15:56:00,Three battery companies accelerate growth in the third quarter...Samsung SDI to turn profit,0,0.0,0.333,0.667,0.6705,1
+2020-09-20 18:47:00,"Samsung SDI, poet Na Tae-ju's message, coronavirus'heart defense'",0,0.0,0.176,0.824,0.128,1
+2020-09-20 18:29:00,Samsung SDI's ‘Mind Control’ for executives and employees delivers a message of consolation from poet Na Tae-ju,-1,0.0,0.0,1.0,0.0,0
+2020-09-20 15:05:00,"""The preciousness of repeated daily life""... Samsung SDI shared encouragement with poet Na Tae-ju",0,0.0,0.424,0.576,0.7964,1
+2020-09-20 11:36:00,"Poet Tae-joo Na, message to Samsung SDI executives and employees over coronavirus",-1,0.0,0.0,1.0,0.0,0
+2020-09-20 09:02:00,"Poet Na Tae-ju, executives and employees of Samsung SDI deliver 詩語 for ‘Mind Defense’",-1,0.0,0.0,1.0,0.0,0
+2020-09-20 15:41:00,Sangsin EDP to supply secondary batteries to Samsung SDI... Ample upside,0,0.0,0.0,1.0,0.0,0
+2020-09-19 12:23:00,"""Samsung SDI Visualizes EV Battery Profit…Target Price 550,000 Won""",0,0.0,0.316,0.684,0.5719,1
+2020-09-18 12:51:00,Samsung SDI's first executive negotiations... Ulsan Plant Labor-Management Consultation Case,-1,0.0,0.0,1.0,0.0,0
+2020-09-18 10:53:00,"[Signal] Samsung SDI participates in the bequest of 5 billion won in Phil Energy, a secondary battery equipment company",-1,0.0,0.279,0.721,0.7003,1
+2020-09-18 10:19:00,"Phil Optics, the first investment in Samsung SDI's subsidiary... Conversion to main equipment company for secondary battery",0,0.0,0.0,1.0,0.0,0
+2020-09-18 08:49:00,"Samsung SDI, 3Q Corona 19 to escape from the impact...Goal ↑-Eugene Investment Certificate...",0,0.0,0.124,0.876,0.1779,1
+2020-09-18 08:31:00,"[Hot-Line] ""Samsung SDI, electric vehicle battery expected to turn profitable in 4Q""",0,0.273,0.164,0.564,-0.4466,-1
+2020-09-17 18:34:00,"Samsung SDI, Labor-Management Consultation Case... ""Bargaining in earnest""",1,0.0,0.32,0.68,0.5106,1
+2020-09-17 08:15:00,"Samsung SDI, operating profit of 100 billion won per quarter-DB Financial Investment",-1,0.0,0.398,0.602,0.765,1
+2020-09-14 16:17:00,"Samsung SDI's ""Retaliatory Dismissal"" Workers Dismissed Against Participants of'Union Disruption'...",-1,0.0,0.0,1.0,0.0,0
+2020-09-14 08:12:00,"Samsung SDI, 3Q earnings outlook'clear'… Target price↑-instead of",0,0.0,0.0,1.0,0.0,0
+2020-09-14 07:45:00,"41% next year ↑… Samsung SDI, electric vehicle battery growth period-Daeshin",0,0.0,0.206,0.794,0.3818,1
+2020-09-10 17:27:00,"Samsung SDI ""Kookmin MC Song Hae Spouse""",0,0.0,0.0,1.0,0.0,0
+2020-09-10 15:03:00,Story of Samsung SDI benchmarking'Kookmin MC Songhae',0,0.0,0.0,1.0,0.0,0
+2020-09-06 17:12:00,'Separator market' led by LG Chem and Samsung SDI Within 10 years by expanding the electric vehicle market ...,0,0.0,0.0,1.0,0.0,0
+2020-09-04 14:00:00,"Samsung SDI differentiates with NCA battery, ""greater capacity and output""",1,0.0,0.217,0.783,0.3612,1
+2020-09-01 08:45:00,"Samsung SDI, electric vehicle battery surplus in the fourth quarter of this year...target is 59,000 won",0,0.0,0.198,0.802,0.5719,1
+2020-09-01 08:17:00,"[Hot-Line] ""Samsung SDI, in earnest contributing to the profits of medium and large batteries ...",0,0.0,0.323,0.677,0.7351,1
+2020-09-01 08:12:00,"Samsung SDI, full-fledged entry into the mid-to-large battery increase section",0,0.0,0.204,0.796,0.3182,1
+2020-09-01 07:48:00,"Samsung SDI, high growth potential for mid- to large-sized batteries-Yuanta",0,0.0,0.224,0.776,0.3818,1
+2020-09-01 07:45:00,"[Click e-Event] Samsung SDI, sees the light of medium and large batteries... Next year's operating profits 1 yen",0,0.0,0.153,0.847,0.4404,1
+2020-09-01 07:24:00,"Samsung SDI, full-fledged entry into the'medium and large-sized battery' boost section",1,0.0,0.213,0.787,0.4019,1
+2020-09-01 05:40:00,"Korean battery check? Why the EU, Samsung SDI·LG Chemical subsidies",0,0.0,0.0,1.0,0.0,0
+2020-08-30 10:57:00,"[Market Point]'Samsung SDI', #1 in foreign net purchases during the week",0,0.0,0.0,1.0,0.0,0
+2020-08-27 13:33:00,"Samsung SDI, India production subsidiary → sales subsidiary conversion... ""According to tax law changes""",0,0.0,0.0,1.0,0.0,0
+2020-08-25 08:10:00,Cosmo Advanced Materials reflects profit improvement of LG Chem and Samsung SDI'target price ↑'-Mirae Asset...,0,0.0,0.397,0.603,0.7845,1
+2020-08-23 17:32:00,"""There is a secret that has lasted more than 50 years""... Samsung SDI's'longevity' benchmarking",0,0.0,0.0,1.0,0.0,0
+2020-08-17 17:43:00,'The giant shooting up the stars'... The topic of 50 years of Samsung SDI's history in 28 lines,0,0.0,0.0,1.0,0.0,0
+2020-08-14 09:22:00,"LG Chem, '4th in market cap', declined for the third day... Samsung SDI and SK Inno also 3%↓",0,0.0,0.0,1.0,0.0,0
+2020-08-13 10:55:00,"TCC Steel, exclusive supply of secondary battery cylindrical can material ""Samsung SDI·LG Chemical ...",0,0.0,0.103,0.897,0.128,1
+2020-08-10 05:18:00,"Samsung SDI, up 23% in one week... ""The stock is still low""",-1,0.16,0.0,0.84,-0.2732,-1
+2020-08-09 15:43:00,"Unstoppable rechargeable battery... ""Samsung SDI·Cosmo Advanced Materials Attention""",0,0.184,0.204,0.612,0.0516,0
+2020-08-09 15:41:00,Hyundai Motor Company·LG Chemical·Samsung SDI·SK Inno… A large market with high growth potential,0,0.0,0.191,0.809,0.3818,1
+2020-08-07 10:37:00,"[Features] AF doubles, Samsung SDI parts dock for secondary battery earnings surprise...",0,0.0,0.0,1.0,0.0,0
+2020-08-05 17:05:00,SK Ino 20%·Samsung SDI 12%·LG Chemical 4%↑… Battery capacity 100...,0,0.0,0.0,1.0,0.0,0
+2020-08-05 14:15:00,"[Features] Samsung SDI, double digits surge in foreigner purchases... 52 weeks report price",0,0.0,0.0,1.0,0.0,0
+2020-08-05 14:02:00,LG Chem·Samsung SDI reports every day… SK Inno also rose 15%,0,0.0,0.0,1.0,0.0,0
+2020-08-03 05:40:00,"Soon... Samsung SDI·SK Ino, Promised Battery Surplus",0,0.0,0.294,0.706,0.3612,1
+2020-08-02 13:32:00,[Seokyung Stars IR] Samsung SDI's growth start'Vureung Vureung'... Performance and stock price'Growth...,0,0.0,0.191,0.809,0.3818,1
+2020-07-31 10:48:00,Proof of growth... LG Chem·Samsung SDI Takes Off Secondary Battery,0,0.0,0.0,1.0,0.0,0
+2020-07-30 07:01:00,"[Kim Dae-sung's stock analysis] Samsung SDI, 2Q net profit earnings spurt… What is the stock price?",0,0.0,0.162,0.838,0.4404,1
+2020-07-29 09:54:00,[Market Insight] Samsung SDI working on business efficiency Cathode material facilities in affiliates...,0,0.0,0.172,0.828,0.3612,1
+2020-07-29 08:37:00,Tesla to produce new batteries in Europe.. Samsung SDI and LG Chem are also expected to invest-Mary...,0,0.0,0.0,1.0,0.0,0
+2020-07-29 08:15:00,"Samsung SDI, target price ↑ for 2Q results and high growth prospects-Hyundai Motor Company",0,0.0,0.178,0.822,0.3818,1
+2020-07-29 07:57:00,Samsung SDI expects to strengthen European EV momentum… Target price↑-raising,1,0.0,0.204,0.796,0.3182,1
+2020-07-29 07:50:00,"Samsung SDI improves 2H earnings with electric vehicles Target price of 500,000 won -IBK",0,0.0,0.351,0.649,0.7579,1
+2020-07-29 00:44:00,"[Public announcement of securities] (28th) Samsung SDI, etc.",0,0.0,0.0,1.0,0.0,0
+2020-07-28 17:23:00,"Samsung SDI ""The battery sector will turn to profit next year""",0,0.0,0.225,0.775,0.4404,1
+2020-07-28 16:46:00,Samsung SDI's confidence... “Electric vehicle batteries turn to surplus next year”,0,0.0,0.0,1.0,0.0,0
+2020-07-28 17:23:00,"Samsung SDI ""The battery sector will turn to profit next year""",0,0.0,0.225,0.775,0.4404,1
+2020-07-28 16:46:00,Samsung SDI's confidence... “Electric vehicle batteries turn to surplus next year”,0,0.0,0.0,1.0,0.0,0
+2020-07-28 15:44:00,"Samsung SDI, donated 300 million won to Sungkyunkwan University",-1,0.0,0.316,0.684,0.5719,1
+2020-07-28 15:02:00,Samsung SDI transferred cathode material manufacturing facility to STM for 31.2 billion won,-1,0.0,0.236,0.764,0.5719,1
+2020-07-28 14:23:00,"Samsung SDI, 2Q operating profit of 103.8 billion... 34% year-on-year↓",-1,0.0,0.244,0.756,0.4404,1
+2020-07-28 13:44:00,"[Disclosure] Samsung SDI, 2nd and 4th quarter operating profit of 103.8 billion... 34% compared to the previous year↓",-1,0.0,0.146,0.854,0.4404,1
+2020-07-28 13:34:00,"Samsung SDI, 2Q operating profit of 103.8 billion... 34% compared to the previous year↓",-1,0.0,0.182,0.818,0.4404,1
+2020-07-28 13:29:00,"Samsung SDI, 2Q consolidated operating profit of 103.8 billion won... 34% compared to the previous year↓",-1,0.0,0.162,0.838,0.4404,1
+2020-07-28 13:29:00,"Samsung SDI, 2Q consolidated operating profit of 103.8 billion won... 34% compared to the previous year↓",-1,0.0,0.162,0.838,0.4404,1
+2020-07-28 13:09:00,"Samsung SDI, 2Q operating profit of 103.8 billion... 34% from the previous year↓",-1,0.0,0.195,0.805,0.4404,1
+2020-07-28 14:15:00,“Creating an ESS-friendly environment.. Expected to improve profitability”-Samsung SDI Concall,0,0.0,0.244,0.756,0.4404,1
+2020-07-28 14:14:00,"Samsung SDI ""Contribution to sales of electric vehicle prototype batteries will also increase""",0,0.0,0.161,0.839,0.3182,1
+2020-07-28 14:13:00,“The demand for EV circular batteries is greatly increasing..Conversations with various customers”-Samsung SDI ...,1,0.103,0.0,0.897,-0.128,-1
+2020-07-28 14:07:00,"“All-solid battery, mass production technology in progress”-Samsung SDI Concall",1,0.0,0.0,1.0,0.0,0
+2020-07-28 13:58:00,"Samsung SDI ""All solid battery, mass production technology under development""",0,0.0,0.151,0.849,0.1531,1
+2020-07-28 14:01:00,"Samsung SDI ""TWS coin cell battery starts supplying in the second half""",0,0.0,0.0,1.0,0.0,0
+2020-07-28 13:52:00,“TWS coin cell batteries start supplying in the second half”-Samsung SDI Concall,0,0.0,0.0,1.0,0.0,0
+2020-07-28 13:56:00,“European EV subsidy increase.. price competitiveness↑”-Samsung SDI Concall,0,0.0,0.0,1.0,0.0,0
+2020-07-28 13:52:00,“TWS coin cell batteries start supplying in the second half”-Samsung SDI Concall,0,0.0,0.0,1.0,0.0,0
+2020-07-28 13:40:00,"Samsung SDI, 2Q operating profit 34%↓… Decreased demand in the aftermath of Corona 19",-1,0.091,0.177,0.732,0.34,1
+2020-07-28 13:39:00,"Samsung SDI, 2Q report card exceeding expectations… ""I look forward to more in the second half"" (complementary)",0,0.0,0.0,1.0,0.0,0
+2020-07-28 13:26:00,"Samsung SDI, 2Q operating profit of 103.8 billion won... 34% compared to the same period last year↓",-1,0.0,0.153,0.847,0.4404,1
+2020-09-01 05:40:00,"Korean battery check? Why the EU, Samsung SDI·LG Chemical subsidies",0,0.0,0.0,1.0,0.0,0
+2020-08-30 10:57:00,"[Market Point]'Samsung SDI', #1 in foreign net purchases during the week",0,0.0,0.0,1.0,0.0,0
+2020-08-27 13:33:00,"Samsung SDI, India production subsidiary → sales subsidiary conversion... ""According to tax law changes""",0,0.0,0.0,1.0,0.0,0
+2020-08-25 08:10:00,Cosmo Advanced Materials reflects profit improvement of LG Chem and Samsung SDI'target price ↑'-Mirae Asset...,0,0.0,0.397,0.603,0.7845,1
+2020-08-23 17:32:00,"""There is a secret that has lasted more than 50 years""... Samsung SDI's'longevity' benchmarking",0,0.0,0.0,1.0,0.0,0
+2020-08-17 17:43:00,'The giant shooting up the stars'... The topic of 50 years of Samsung SDI's history in 28 lines,0,0.0,0.0,1.0,0.0,0
+2020-08-14 09:22:00,"LG Chem, '4th in market cap', declined for the third day... Samsung SDI and SK Inno also 3%↓",0,0.0,0.0,1.0,0.0,0
+2020-08-13 10:55:00,"TCC Steel, exclusive supply of secondary battery cylindrical can material ""Samsung SDI·LG Chemical ...",0,0.0,0.103,0.897,0.128,1
+2020-08-10 05:18:00,"Samsung SDI, up 23% in one week... ""The stock is still low""",-1,0.16,0.0,0.84,-0.2732,-1
+2020-08-09 15:43:00,"Unstoppable rechargeable battery... ""Samsung SDI·Cosmo Advanced Materials Attention""",0,0.184,0.204,0.612,0.0516,0
+2020-08-09 15:41:00,Hyundai Motor Company·LG Chemical·Samsung SDI·SK Inno… A large market with high growth potential,0,0.0,0.191,0.809,0.3818,1
+2020-08-07 10:37:00,"[Features] AF doubles, Samsung SDI parts dock for secondary battery earnings surprise...",0,0.0,0.0,1.0,0.0,0
+2020-08-05 17:05:00,SK Ino 20%·Samsung SDI 12%·LG Chemical 4%↑… Battery capacity 100...,0,0.0,0.0,1.0,0.0,0
+2020-08-05 14:15:00,"[Features] Samsung SDI, double digits surge in foreigner purchases... 52 weeks report price",0,0.0,0.0,1.0,0.0,0
+2020-08-05 14:02:00,LG Chem·Samsung SDI reports every day… SK Inno also rose 15%,0,0.0,0.0,1.0,0.0,0
+2020-08-03 05:40:00,"Soon... Samsung SDI·SK Ino, Promised Battery Surplus",0,0.0,0.294,0.706,0.3612,1
+2020-08-02 13:32:00,[Seokyung Stars IR] Samsung SDI's growth start'Vureung Vureung'... Performance and stock price'Growth...,0,0.0,0.191,0.809,0.3818,1
+2020-07-31 10:48:00,Proof of growth... LG Chem·Samsung SDI Takes Off Secondary Battery,0,0.0,0.0,1.0,0.0,0
+2020-07-30 07:01:00,"[Kim Dae-sung's stock analysis] Samsung SDI, 2Q net profit earnings spurt… What is the stock price?",0,0.0,0.162,0.838,0.4404,1
+2020-07-29 09:54:00,[Market Insight] Samsung SDI working on business efficiency Cathode material facilities in affiliates...,0,0.0,0.172,0.828,0.3612,1
+2020-07-29 08:37:00,Tesla to produce new batteries in Europe.. Samsung SDI and LG Chem are also expected to invest-Mary...,0,0.0,0.0,1.0,0.0,0
+2020-07-29 08:15:00,"Samsung SDI, target price ↑ for 2Q results and high growth prospects-Hyundai Motor Company",0,0.0,0.178,0.822,0.3818,1
+2020-07-29 07:57:00,Samsung SDI expects to strengthen European EV momentum… Target price↑-raising,1,0.0,0.204,0.796,0.3182,1
+2020-07-29 07:50:00,"Samsung SDI improves 2H earnings with electric vehicles Target price of 500,000 won -IBK",0,0.0,0.351,0.649,0.7579,1
+2020-07-29 00:44:00,"[Public announcement of securities] (28th) Samsung SDI, etc.",0,0.0,0.0,1.0,0.0,0
+2020-07-28 17:23:00,Samsung SDI expects to turn profitable in the electric vehicle battery sector next year,0,0.0,0.182,0.818,0.4404,1
+2020-07-28 17:19:00,Even in the smartphone recession… Samsung SDI'charging performance',0,0.0,0.0,1.0,0.0,0
+2020-07-28 16:04:00,Samsung SDI's earnings to improve on Corona...,0,0.0,0.326,0.674,0.4404,1
+2020-07-28 14:48:00,Samsung SDI's performance improved amid the “Corona 19” crisis. Expectations for a rebound in the second half↑...,1,0.193,0.146,0.66,-0.25,-1
+2020-07-28 13:22:00,Samsung SDI's 2Q operating profit'fall' by 34%..Demand reduction due to Corona 19...,0,0.0,0.0,1.0,0.0,0
+2020-07-28 17:23:00,Samsung SDI expects to turn profitable in the electric vehicle battery sector next year,0,0.0,0.182,0.818,0.4404,1
+2020-07-28 16:46:00,Samsung SDI's confidence... “Electric vehicle batteries turn to surplus next year”,0,0.0,0.0,1.0,0.0,0
+2020-07-28 15:44:00,"Samsung SDI, donated 300 million won to Sungkyunkwan University",-1,0.0,0.316,0.684,0.5719,1
+2020-07-28 15:02:00,Samsung SDI transferred cathode material manufacturing facility to STM for 31.2 billion won,-1,0.0,0.236,0.764,0.5719,1
+2020-07-28 16:04:00,Samsung SDI's earnings to improve on Corona...,0,0.0,0.326,0.674,0.4404,1
+2020-07-28 14:48:00,Samsung SDI's performance improved amid the “Corona 19” crisis. Expectations for a rebound in the second half↑...,1,0.193,0.146,0.66,-0.25,-1
+2020-07-28 13:22:00,Samsung SDI's 2Q operating profit'fall' by 34%..Demand reduction due to Corona 19...,0,0.0,0.0,1.0,0.0,0
+2020-07-28 15:44:00,"Samsung SDI, donated 300 million won to Sungkyunkwan University",-1,0.0,0.316,0.684,0.5719,1
+2020-07-28 15:02:00,Samsung SDI transferred cathode material manufacturing facility to STM for 31.2 billion won,-1,0.0,0.236,0.764,0.5719,1
+2020-07-28 14:23:00,"Samsung SDI, 2Q operating profit of 103.8 billion... 34% year-on-year↓",-1,0.0,0.244,0.756,0.4404,1
+2020-07-28 13:44:00,"[Disclosure] Samsung SDI, 2nd and 4th quarter operating profit of 103.8 billion... 34% compared to the previous year↓",-1,0.0,0.146,0.854,0.4404,1
+2020-07-28 13:34:00,"Samsung SDI, 2Q operating profit of 103.8 billion... 34% compared to the previous year↓",-1,0.0,0.182,0.818,0.4404,1
+2020-07-28 13:29:00,"Samsung SDI, 2Q consolidated operating profit of 103.8 billion won... 34% compared to the previous year↓",-1,0.0,0.162,0.838,0.4404,1
+2020-07-28 13:29:00,"Samsung SDI, 2Q consolidated operating profit of 103.8 billion won... 34% compared to the previous year↓",-1,0.0,0.162,0.838,0.4404,1
+2020-07-28 13:09:00,"Samsung SDI, 2Q operating profit of 103.8 billion... 34% from the previous year↓",-1,0.0,0.195,0.805,0.4404,1
+2020-07-28 14:15:00,“Creating an ESS-friendly environment.. Expected to improve profitability”-Samsung SDI Concall,0,0.0,0.244,0.756,0.4404,1
+2020-07-28 14:14:00,"Samsung SDI ""Contribution to sales of electric vehicle prototype batteries will also increase""",0,0.0,0.161,0.839,0.3182,1
+2020-07-28 14:13:00,“The demand for EV circular batteries is greatly increasing..Conversations with various customers”-Samsung SDI ...,1,0.103,0.0,0.897,-0.128,-1
+2020-07-28 14:07:00,"“All-solid battery, mass production technology in progress”-Samsung SDI Concall",1,0.0,0.0,1.0,0.0,0
+2020-07-28 13:58:00,"Samsung SDI ""All solid battery, mass production technology under development""",0,0.0,0.151,0.849,0.1531,1
+2020-07-28 14:01:00,"Samsung SDI ""TWS coin cell battery starts supplying in the second half""",0,0.0,0.0,1.0,0.0,0
+2020-07-28 13:52:00,“TWS coin cell batteries start supplying in the second half”-Samsung SDI Concall,0,0.0,0.0,1.0,0.0,0
+2020-07-28 13:56:00,“European EV subsidy increase.. price competitiveness↑”-Samsung SDI Concall,0,0.0,0.0,1.0,0.0,0
+2020-07-28 13:52:00,“TWS coin cell batteries start supplying in the second half”-Samsung SDI Concall,0,0.0,0.0,1.0,0.0,0
+2020-07-28 13:40:00,"Samsung SDI, 2Q operating profit 34%↓… Decreased demand in the aftermath of Corona 19",-1,0.091,0.177,0.732,0.34,1
+2020-07-28 13:39:00,"Samsung SDI, 2Q report card exceeding expectations… ""I look forward to more in the second half"" (complementary)",0,0.0,0.0,1.0,0.0,0
+2020-07-28 13:26:00,"Samsung SDI, 2Q operating profit of 103.8 billion won... 34% compared to the same period last year↓",-1,0.0,0.153,0.847,0.4404,1
+2020-07-28 13:58:00,"Samsung SDI ""All solid battery, mass production technology under development""",0,0.0,0.151,0.849,0.1531,1
+2020-07-28 13:56:00,“European EV subsidy increase.. price competitiveness↑”-Samsung SDI Concall,0,0.0,0.0,1.0,0.0,0
+2020-07-28 13:52:00,"Samsung SDI, operating profit of 103.8 billion won in the second quarter.. 34% year-on-year ↓",-1,0.0,0.355,0.645,0.765,1
+2020-07-28 13:40:00,"Samsung SDI, 2Q operating profit 34%↓… Decreased demand in the aftermath of Corona 19",-1,0.091,0.177,0.732,0.34,1
+2020-07-28 13:39:00,"Samsung SDI, 2Q report card exceeding expectations… ""I look forward to more in the second half"" (complementary)",0,0.0,0.0,1.0,0.0,0
+2020-07-28 13:26:00,"Samsung SDI, 2Q operating profit of 103.8 billion won... 34% compared to the same period last year↓",-1,0.0,0.153,0.847,0.4404,1
+2020-07-28 13:52:00,"Samsung SDI, operating profit of 103.8 billion won in the second quarter.. 34% year-on-year ↓",-1,0.0,0.355,0.645,0.765,1
+2020-07-28 13:50:00,"Samsung SDI, 2Q operating profit of 103.8 billion won due to coronavirus.. 34%↓",-1,0.0,0.375,0.625,0.765,1
+2020-07-28 13:49:00,“Electric vehicle market normalizes rapidly.. Maintains sales growth”-Samsung SDI Concall,0,0.0,0.0,1.0,0.0,0
+2020-07-28 13:49:00,“Electric vehicle market normalizes rapidly.. Maintains sales growth”-Samsung SDI Concall,0,0.0,0.0,1.0,0.0,0
+2020-07-28 13:46:00,“OLED materials improve both sales and profitability on an annual basis”-Samsung SDI Concall,0,0.0,0.312,0.688,0.6124,1
+2020-07-28 13:44:00,"[Disclosure] Samsung SDI, 2nd and 4th quarter operating profit of 103.8 billion... 34% compared to the previous year↓",-1,0.0,0.146,0.854,0.4404,1
+2020-07-28 13:34:00,"Samsung SDI, 2Q operating profit of 103.8 billion... 34% compared to the previous year↓",-1,0.0,0.182,0.818,0.4404,1
+2020-07-28 13:29:00,"Samsung SDI, 2Q operating profit of 103.8 billion won... 34% compared to the previous year↓",-1,0.0,0.172,0.828,0.4404,1
+2020-07-28 13:29:00,"Samsung SDI, 2Q operating profit of 103.8 billion won... 34% compared to the previous year↓",-1,0.0,0.172,0.828,0.4404,1
+2020-07-28 13:09:00,"Samsung SDI, 2Q operating profit of 103.8 billion... 34% from the previous year↓",-1,0.0,0.195,0.805,0.4404,1
+2020-07-28 13:44:00,"[Disclosure] Samsung SDI, 2nd and 4th quarter operating profit of 103.8 billion... 34% compared to the previous year↓",-1,0.0,0.146,0.854,0.4404,1
+2020-07-28 13:40:00,"Samsung SDI, 2Q operating profit 34%↓… Decreased demand in the aftermath of Corona 19",-1,0.091,0.177,0.732,0.34,1
+2020-07-28 13:39:00,"Samsung SDI, 2Q report card exceeding expectations… ""I look forward to more in the second half"" (complementary)",0,0.0,0.0,1.0,0.0,0
+2020-07-28 13:26:00,"Samsung SDI, 2Q operating profit of 103.8 billion won... 34% compared to the same period last year↓",-1,0.0,0.153,0.847,0.4404,1
+2020-07-28 13:34:00,"Samsung SDI, 2Q operating profit of 103.8 billion... 34% compared to the previous year↓",-1,0.0,0.182,0.818,0.4404,1
+2020-07-28 13:29:00,"Samsung SDI, 2Q consolidated operating profit of 103.8 billion won... 34% compared to the previous year↓",-1,0.0,0.162,0.838,0.4404,1
+2020-07-28 13:29:00,"Samsung SDI, 2Q consolidated operating profit of 103.8 billion won... 34% compared to the previous year↓",-1,0.0,0.162,0.838,0.4404,1
+2020-07-28 13:09:00,"Samsung SDI, 2Q operating profit of 103.8 billion... 34% from the previous year↓",-1,0.0,0.195,0.805,0.4404,1
+2020-07-28 13:22:00,Samsung SDI's 2Q operating profit'fall' 34%..Demand decline due to Corona 19,0,0.0,0.0,1.0,0.0,0
+2020-07-28 13:17:00,"Samsung SDI, 2Q operating profit of 103.8 billion won... 34.0% over the previous year↓",-1,0.0,0.182,0.818,0.4404,1
+2020-07-28 13:08:00,Samsung SDI's second quarter sales of 2.558.6 billion won.. 6.4% ↑,-1,0.0,0.0,1.0,0.0,0
+2020-07-27 17:19:00,Samsung SDI to increase semiconductor core materials by investing 40 billion won in Gumi plant,-1,0.0,0.316,0.684,0.7184,1
+2020-07-23 18:31:00,"Samsung SDI preparing for the flowering of electric vehicles... ""Dream battery, commercially available after 2027...",1,0.0,0.125,0.875,0.25,1
+2020-07-23 17:17:00,"Samsung SDI ""All-solid-state battery commercialized in 2027""",0,0.0,0.0,1.0,0.0,0
+2020-07-21 07:31:00,Samsung SDI to succeed in the structural surplus of mid- and large-sized batteries in the 3rd quarter-Kiwoom,1,0.0,0.167,0.833,0.4939,1
+2020-07-16 11:16:00,[Super high number of stocks now] Focusing attention on battery... Samsung SDI'lion' course...,0,0.0,0.098,0.902,0.0772,0
+2020-07-15 14:30:00,"Samsung SDI, net purchase of 164,176 individual shares on the last 5 days ... 390,000 shares",0,0.0,0.253,0.747,0.5267,1
+2020-07-27 17:19:00,Samsung SDI to increase semiconductor core materials by investing 40 billion won in Gumi plant,-1,0.0,0.316,0.684,0.7184,1
+2020-07-23 18:31:00,"Samsung SDI preparing for the flowering of electric vehicles... ""Dream battery, commercially available after 2027...",1,0.0,0.125,0.875,0.25,1
+2020-07-23 17:17:00,"Samsung SDI ""All-solid-state battery commercialized in 2027""",0,0.0,0.0,1.0,0.0,0
+2020-07-21 07:31:00,Samsung SDI to succeed in the structural surplus of mid- and large-sized batteries in the 3rd quarter-Kiwoom,1,0.0,0.167,0.833,0.4939,1
+2020-07-16 11:16:00,[Super high number of stocks now] Focusing attention on battery... Samsung SDI'lion' course...,0,0.0,0.098,0.902,0.0772,0
+2020-07-15 14:30:00,"Samsung SDI, net purchase of 164,176 individual shares on the last 5 days ... 390,000 shares",0,0.0,0.253,0.747,0.5267,1
+2020-07-14 16:43:00,Samsung SDI's 50th anniversary'Dream Walking' campaign showed 1.75 million steps'The King of Walking',0,0.0,0.0,1.0,0.0,0
+2020-07-14 14:38:00,-10kg while serving… Samsung SDI'Dream Walking' No. 1,1,0.268,0.0,0.732,-0.296,-1
+2020-07-14 12:30:00,"Samsung SDI, net purchase of 599,12 individual shares on the last 5 days...39 million shares...",-1,0.0,0.145,0.855,0.296,1
+2020-07-13 10:31:00,"Samsung SDI, net selling 10,9455 individual shares on the last 5 days... 380,000 stock prices...",0,0.0,0.145,0.855,0.296,1
+2020-07-12 17:31:00,Samsung SDI's unexpected propaganda… Increased target price for securities companies,0,0.0,0.35,0.65,0.5106,1
+2020-07-12 15:27:00,Celltrion·Samsung SDI·LG Chemical·NCSoft… 'BBIG7' jump and run every day,0,0.0,0.0,1.0,0.0,0
+2020-07-12 17:31:00,Samsung SDI's unexpected propaganda… Increased target price for securities companies,0,0.0,0.35,0.65,0.5106,1
+2020-07-12 15:27:00,Celltrion·Samsung SDI·LG Chemical·NCSoft… 'BBIG7' jump and run every day,0,0.0,0.0,1.0,0.0,0
+2020-07-09 10:07:00,"Samsung SDI's Newtro sentiment “Topgolsd” exceeded 20,000 YouTube times",0,0.0,0.0,1.0,0.0,0
+2020-07-09 09:32:00,"""Samsung had a human printer""... Samsung SDI's'TopgolsD' video popularity",1,0.0,0.307,0.693,0.4767,1
+2020-07-09 08:48:00,Samsung SDI expects to increase sales of medium and large batteries and small batteries in the second half of this year-Korea investment increase...,0,0.0,0.095,0.905,0.3182,1
+2020-07-07 13:35:00,"[fnRASSI] Samsung SDI, 52 weeks report...2.06% ↑",0,0.0,0.0,1.0,0.0,0
+2020-07-07 09:19:00,[fnRASSI] Samsung SDI reports 52 weeks...3.61% ↑,0,0.0,0.0,1.0,0.0,0
+2020-07-07 11:28:00,[Features] Tesla stock price rises...Samsung SDI·LG Chemicals report,0,0.0,0.0,1.0,0.0,0
+2020-07-07 09:31:00,LG Chem·Samsung SDI Reports Side by Side to Tesla 13%'Surge',0,0.0,0.0,1.0,0.0,0
+2020-07-07 09:09:00,"52 weeks report of'Samsung SDI' is updated, Limitless-DB Financial Investment,...",0,0.0,0.0,1.0,0.0,0
+2020-07-07 07:59:00,"Samsung SDI, sluggish in 1H and improvement in 2H Target price↑-IBK Investment",-1,0.172,0.191,0.637,0.0772,0
+2020-07-07 07:54:00,"[Hot-Line] ""Samsung SDI, 2Q results should be better than expected""... neck...",1,0.0,0.225,0.775,0.4404,1
+2020-07-06 13:33:00,"Samsung SDI, this hour's stock price +1.44%.... Institutions on the last 5 days 191,000...",0,0.0,0.0,1.0,0.0,0
+2020-07-07 07:59:00,"Samsung SDI, sluggish in 1H and improvement in 2H Target price↑-IBK Investment",-1,0.172,0.191,0.637,0.0772,0
+2020-07-07 07:54:00,"[Hot-Line] ""Samsung SDI, 2Q results should be better than expected""... neck...",1,0.0,0.225,0.775,0.4404,1
+2020-07-06 13:33:00,"Samsung SDI, this hour's stock price +1.44%.... Institutions on the last 5 days 191,000...",0,0.0,0.0,1.0,0.0,0
+2020-07-06 11:15:00,"Kakao surpasses 300,000 won for the first time in history... 7th in market cap, beating Samsung SDI",1,0.138,0.171,0.691,0.1779,1
+2020-07-06 10:59:00,"Kakao ranks 7th in market cap, beating Samsung SDI... Over 300,000 won during the week",0,0.152,0.188,0.66,0.1779,1
+2020-07-06 10:35:00,Untact to rewrite market cap ranking… Kakao ranked 7th over Samsung SDI,0,0.0,0.0,1.0,0.0,0
+2020-07-06 09:48:00,"[Features] Kakao, surpassing Samsung SDI for the first 300,000 won, ranked 7th in the market cap...",1,0.0,0.198,0.802,0.5719,1
+2020-07-03 17:04:00,'The era of engines' is dying... LG Chem and Samsung SDI are on the rise,0,0.0,0.0,1.0,0.0,0
+2020-07-03 08:40:00,"“Electrophoresis is strong in Europe”...Samsung SDI, target price of 380,000 → 450,000 won",1,0.0,0.412,0.588,0.7906,1
+2020-07-02 18:37:00,"On the 02nd, Samsung SDI (+0.27%), SK Hynix (-1...",0,0.0,0.0,1.0,0.0,0
+2020-07-02 12:49:00,Electric vehicle battery loss and ESS recovery... 'Samsung SDI' covered with flower roads,-1,0.161,0.0,0.839,-0.3182,-1
+2020-07-02 07:55:00,Samsung SDI enters a full-fledged profit growth section-instead,0,0.0,0.524,0.476,0.6705,1
+2020-07-01 18:36:00,"On the 01st, SK Telecom (+5.21%) and Samsung SDI (+1.9...",0,0.0,0.0,1.0,0.0,0
+2020-07-01 17:48:00,"Samsung SDI ""Continues the myth with the battery super gap""",0,0.0,0.302,0.698,0.5994,1
+2020-07-01 17:41:00,"Owner's family's big investment results...Samsung SDI, a global battery powerhouse",0,0.0,0.0,1.0,0.0,0
+2020-07-01 17:20:00,"50 years of investment over 3 generations... Samsung SDI, leading the'technology desired by the times'",0,0.0,0.139,0.861,0.2732,1
+2020-07-01 14:41:00,"50 years of founding Samsung SDI ""lead the market with technology""..Supporting Jaeyong Lee",0,0.0,0.0,1.0,0.0,0
+2020-07-01 11:41:00,Owner's bold investment in barren soil Samsung SDI's world myth,0,0.0,0.224,0.776,0.3818,1
+2020-07-01 11:22:00,"""The general manager 50 years ago?"" Samsung SDI... Challenge and...",0,0.0,0.126,0.874,0.0772,0
+2020-07-01 10:53:00,[Samsung SDI Half a Century] Owner's bold investment in barren soil... World mythology...,0,0.0,0.191,0.809,0.3818,1
+2020-07-02 12:49:00,Electric vehicle battery loss and ESS recovery... 'Samsung SDI' covered with flower roads,-1,0.161,0.0,0.839,-0.3182,-1
+2020-07-02 07:55:00,Samsung SDI enters a full-fledged profit growth section-instead,0,0.0,0.524,0.476,0.6705,1
+2020-07-01 18:36:00,"On the 01st, SK Telecom (+5.21%) and Samsung SDI (+1.9...",0,0.0,0.0,1.0,0.0,0
+2020-07-01 17:48:00,"Samsung SDI ""Continues the myth with the battery super gap""",0,0.0,0.302,0.698,0.5994,1
+2020-07-01 17:41:00,"Owner's family's big investment results...Samsung SDI, a global battery powerhouse",0,0.0,0.0,1.0,0.0,0
+2020-07-01 17:20:00,"50 years of investment over 3 generations... Samsung SDI, leading the'technology desired by the times'",0,0.0,0.139,0.861,0.2732,1
+2020-07-01 14:41:00,"50 years of founding Samsung SDI ""lead the market with technology""..Supporting Jaeyong Lee",0,0.0,0.0,1.0,0.0,0
+2020-07-01 11:41:00,Owner's bold investment in barren soil Samsung SDI's world myth,0,0.0,0.224,0.776,0.3818,1
+2020-07-01 11:22:00,"""The general manager 50 years ago?"" Samsung SDI... Challenge and...",0,0.0,0.126,0.874,0.0772,0
+2020-07-01 10:53:00,[Samsung SDI Half a Century] Owner's bold investment in barren soil... World mythology...,0,0.0,0.191,0.809,0.3818,1
+2020-07-01 11:47:00,"50-dol Samsung SDI, 100-year corporate challenge with'super gap'",0,0.0,0.157,0.843,0.0772,0
+2020-07-01 11:15:00,"Samsung SDI's 50th anniversary ""will be a super-differential technology-oriented company""",-1,0.0,0.0,1.0,0.0,0
+2020-07-01 09:42:00,[Samsung SDI Half a Century] Samsung SDI in 50 Years “New 5...,0,0.0,0.0,1.0,0.0,0
+2020-07-01 09:11:00,"Young-Hyun Jeon, President of Samsung SDI ""Let's make a new 50 years centering on super-differential technology""",-1,0.0,0.0,1.0,0.0,0
+2020-07-01 09:00:00,"'50th anniversary' Samsung SDI ""Let's open a new 50 years with super-gap technology""",0,0.0,0.0,1.0,0.0,0
+2020-07-01 11:09:00,[Super high number of stocks now] Samsung SDI ‘lion’...Studio Dragon’s ‘nak’,-1,0.0,0.115,0.885,0.0772,0
+2020-06-29 16:49:00,"Samsung SDI's target of 500,000 won appears... Still cheap?",-1,0.0,0.316,0.684,0.5719,1
+2020-06-29 15:36:00,"Samsung SDI's target price of 500,000 won first appeared... ""It's still cheap""",-1,0.0,0.252,0.748,0.5719,1
+2020-06-29 16:07:00,"Samsung SDI's 50th Anniversary ""Quickly""",0,0.0,0.0,1.0,0.0,0
+2020-06-27 08:01:00,[SK Telecom Weekly Recommendation] “Gyeonggi Defense & Communication Stock” SK Telecom·Samsung SDI,0,0.0,0.13,0.87,0.128,1
+2020-07-01 11:15:00,"Samsung SDI's 50th anniversary ""will be a super-differential technology-oriented company""",-1,0.0,0.0,1.0,0.0,0
+2020-07-01 09:42:00,[Samsung SDI Half a Century] Samsung SDI in 50 Years “New 5...,0,0.0,0.0,1.0,0.0,0
+2020-07-01 09:11:00,"Young-Hyun Jeon, President of Samsung SDI ""Let's make a new 50 years centering on super-differential technology""",-1,0.0,0.0,1.0,0.0,0
+2020-07-01 09:00:00,"'50th anniversary' Samsung SDI ""Let's open a new 50 years with super-gap technology""",0,0.0,0.0,1.0,0.0,0
+2020-07-01 11:09:00,[Super high number of stocks now] Samsung SDI ‘lion’...Studio Dragon’s ‘nak’,-1,0.0,0.115,0.885,0.0772,0
+2020-07-01 10:53:00,[Samsung SDI Half a Century] Owner's bold investment in barren soil... World mythology,0,0.0,0.191,0.809,0.3818,1
+2020-06-29 16:49:00,"Samsung SDI's target of 500,000 won appears... Still cheap?",-1,0.0,0.316,0.684,0.5719,1
+2020-06-29 15:36:00,"Samsung SDI's target price of 500,000 won first appeared... ""It's still cheap""",-1,0.0,0.252,0.748,0.5719,1
+2020-06-29 16:07:00,"Samsung SDI's 50th Anniversary ""Quickly""",0,0.0,0.0,1.0,0.0,0
+2020-06-27 08:01:00,[SK Telecom Weekly Recommendation] “Gyeonggi Defense & Communication Stock” SK Telecom·Samsung SDI,0,0.0,0.13,0.87,0.128,1
+2020-06-23 17:37:00,"Samsung SDI, training for employees and job seekers of business partners Talent development 10,000 people",0,0.0,0.167,0.833,0.4215,1
+2020-06-22 19:13:00,Samsung SDI's share price is “high” due to the expansion of the electric power market,0,0.0,0.136,0.864,0.296,1
+2020-06-21 10:47:00,"[Recommended week for this week] ""Electric vehicle transformation period is coming""...Samsung SDI·LG Chemical'steam'",0,0.0,0.0,1.0,0.0,0
+2020-06-21 09:47:00,"[Market Point]'Samsung SDI', No. 1 in foreign net purchases during the week of KOSPI",0,0.155,0.0,0.845,-0.296,-1
+2020-06-23 17:37:00,"Samsung SDI, training for employees and job seekers of business partners Talent development 10,000 people",0,0.0,0.167,0.833,0.4215,1
+2020-06-22 19:13:00,Samsung SDI's share price is “high” due to the expansion of the electric power market,0,0.0,0.136,0.864,0.296,1
+2020-06-21 10:47:00,"[Recommended week for this week] ""Electric vehicle transformation period is coming""...Samsung SDI·LG Chemical'steam'",0,0.0,0.0,1.0,0.0,0
+2020-06-21 09:47:00,"[Market Point]'Samsung SDI', No. 1 in foreign net purchases during the week of KOSPI",0,0.155,0.0,0.845,-0.296,-1
+2020-06-20 08:02:00,"[SK's weekly recommendation] “Technology and bio stocks are the trend” Samsung SDI, Celltrion Healthcare",0,0.0,0.0,1.0,0.0,0
+2020-06-19 14:32:00,"Samsung SDI's net purchase of 3,3823 shares of foreigners on the 5th of the past...",0,0.0,0.136,0.864,0.296,1
+2020-06-19 09:16:00,"Samsung SDI, 2Q mid-large-sized rechargeable battery sector continues to grow-Hana",0,0.0,0.0,1.0,0.0,0
+2020-06-18 18:37:00,"On the 18th, KODEX 200 Futures Inverse 2X (+0.76%) at an institutional exchange,...",0,0.0,0.0,1.0,0.0,0
+2020-06-18 18:09:00,Samsung Electronics·Samsung SDI hired high school graduates... Next month's online written test,0,0.0,0.0,1.0,0.0,0
+2020-06-17 18:36:00,"On the 17th, Samsung Electronics (+0.19%), Samsung SDI (+2.2...",0,0.0,0.0,1.0,0.0,0
+2020-06-17 14:31:00,"Samsung SDI, net selling of 108,067 shares in institutions on the last 5th...380,000 shares...",0,0.0,0.145,0.855,0.296,1
+2020-06-16 16:26:00,SK Inno leads Samsung SDI for the first time in monthly battery share,0,0.0,0.155,0.845,0.296,1
+2020-06-16 09:51:00,SK Inno surpasses Samsung SDI for the first time in battery market share in April,1,0.0,0.136,0.864,0.296,1
+2020-06-16 08:57:00,"LG Chem and Samsung SDI, an outsider who sold 470 billion won in the plunge, bought it.",-1,0.0,0.188,0.812,0.5719,1
+2020-06-15 13:32:00,"Samsung SDI shares 375,000 won... -1.19% compared to the previous day",0,0.0,0.18,0.82,0.296,1
+2020-06-15 06:31:00,[Recommended week for this week] Expected improvement in EV battery performance ... Samsung SDI and LG...,0,0.0,0.167,0.833,0.4588,1
+2020-06-13 08:02:00,"[Weekly recommended stock of Hana Geumtu]'Expectation for turnaround and increase in sales'… Samsung SDI, Daesang, Seegene",0,0.0,0.227,0.773,0.4767,1
+2020-06-12 12:32:00,"Samsung SDI, top search rankings... Share price -1.68%",0,0.0,0.4,0.6,0.4588,1
+2020-06-11 11:14:00,[fnRASSI] Samsung SDI reports 52 weeks...,0,0.0,0.0,1.0,0.0,0
+2020-06-11 10:54:00,"The 52-week report of'Samsung SDI' is updated, let's prepare before it's too late! -NH Investment Certificate...",-1,0.0,0.22,0.78,0.6399,1
+2020-06-09 18:37:00,"On the 09th, Samsung Electronics (+1.09%), Samsung SDI (+2.1...",0,0.0,0.0,1.0,0.0,0
+2020-06-09 09:35:00,"Samsung SDI,'Let's get ready before it's too late!' Share price 388,000 won (3.33%...",-1,0.0,0.465,0.535,0.8268,1
+2020-06-08 09:11:00,Focus on next-generation secondary batteries in the second half of the year… Samsung SDI·Cheonbo Recommendation-Shinyoung,0,0.0,0.0,1.0,0.0,0
+2020-06-08 08:44:00,Samsung SDI to generate profit from 2H11 for electric vehicle batteries...Target price↑,0,0.0,0.209,0.791,0.4404,1
+2020-06-08 08:13:00,"[Hot-Line] ""Samsung SDI, electric vehicle battery performance growth acceleration section...",0,0.0,0.224,0.776,0.3818,1
+2020-06-08 08:07:00,Samsung SDI to generate profits for electric vehicle batteries in 2H -NH,0,0.0,0.406,0.594,0.7804,1
+2020-06-08 07:55:00,Samsung SDI to generate profits for electric vehicle batteries in the second half'target price ↑'-NH investment...,0,0.0,0.162,0.838,0.4404,1
+2020-06-08 07:46:00,Samsung SDI's electric vehicle battery sector turns to profit from next year... Target price↑-NH,0,0.0,0.182,0.818,0.4404,1
+2020-06-04 10:35:00,"Samsung SDI,'Let's get on an electric vehicle' stock price of 372,500 won (1.78%)",0,0.0,0.236,0.764,0.5719,1
+2020-06-04 09:33:00,"[Strong topic] Secondary battery-battery production theme, LG Chem +3.12%, ...",1,0.0,0.0,1.0,0.0,0
+2020-06-03 09:36:00,Samsung SDI's share price this time -1.22%...'Let's get on an electric car',0,0.0,0.167,0.833,0.296,1
+2020-06-02 08:45:00,"Samsung SDI, electric vehicle and ESS growth now begin... Target is 23% ↑",0,0.0,0.191,0.809,0.3818,1
+2020-06-02 08:13:00,"Samsung SDI, full-fledged growth in the second half... Target price 23%↑-Mirae Asset Daewoo",0,0.0,0.317,0.683,0.6249,1
+2020-06-02 08:39:00,"""Samsung SDI, rechargeable battery division expected black war in the third quarter.. Target price ↑"" Shinhan Financial Investment...",-1,0.187,0.0,0.813,-0.5994,-1
+2020-06-02 08:34:00,"Samsung SDI, the highest sales growth rate among affiliates… Target Price↑-Shinhan",1,0.0,0.206,0.794,0.3818,1
+2020-05-29 13:07:00,"Samsung SDI, share price of 360,000 won... 0.28% compared to the previous day",0,0.0,0.155,0.845,0.296,1
+2020-06-03 09:36:00,Samsung SDI's share price this time -1.22%...'Let's get on an electric car',0,0.0,0.167,0.833,0.296,1
+2020-06-02 08:45:00,"Samsung SDI, electric vehicle and ESS growth now begin... Target is 23% ↑",0,0.0,0.191,0.809,0.3818,1
+2020-06-02 08:13:00,"Samsung SDI, full-fledged growth in the second half... Target price 23%↑-Mirae Asset Daewoo",0,0.0,0.317,0.683,0.6249,1
+2020-06-02 08:39:00,"""Samsung SDI, rechargeable battery division expected black war in the third quarter.. Target price ↑"" Shinhan Financial Investment...",-1,0.187,0.0,0.813,-0.5994,-1
+2020-06-02 08:34:00,"Samsung SDI, the highest sales growth rate among affiliates… Target Price↑-Shinhan",1,0.0,0.206,0.794,0.3818,1
+2020-05-29 13:07:00,"Samsung SDI, share price of 360,000 won... 0.28% compared to the previous day",0,0.0,0.155,0.845,0.296,1
+2020-05-28 13:09:00,"Samsung SDI's share price of 36, 1500 won (-0.96%) Bulletin'Busy'",0,0.0,0.424,0.576,0.7096,1
+2020-05-27 18:37:00,"On the 27th, Samsung SDI (-5.93%), NAVER (-4....",0,0.0,0.0,1.0,0.0,0
+2020-05-27 13:05:00,"Samsung SDI,'Keep Calm and Carry'BATTERY' O...",0,0.0,0.315,0.685,0.3182,1
+2020-05-26 17:40:00,Green New Deal'Hunfeng' Samsung SDI's best breakthrough,1,0.0,0.412,0.588,0.6369,1
+2020-05-26 15:09:00,"[Features] Samsung SDI, surged 11% in the prospect of expanding secondary battery demand",0,0.102,0.15,0.748,0.1779,1
+2020-05-26 13:31:00,"[fnRASSI] Samsung SDI (006400), 52 weeks report renewed...8....",0,0.0,0.0,1.0,0.0,0
+2020-05-26 09:14:00,"[fnRASSI] Samsung SDI (006400), 52 weeks report...4.74...",0,0.0,0.0,1.0,0.0,0
+2020-05-26 15:09:00,"[Features] Samsung SDI, surged 11% in the prospect of expanding secondary battery demand",0,0.102,0.15,0.748,0.1779,1
+2020-05-26 13:31:00,"[fnRASSI] Samsung SDI (006400), 52 weeks report renewed...8....",0,0.0,0.0,1.0,0.0,0
+2020-05-26 09:14:00,"[fnRASSI] Samsung SDI (006400), 52 weeks report...4.74...",0,0.0,0.0,1.0,0.0,0
+2020-05-26 13:07:00,"Samsung SDI, active community... Share price 5.6%.",0,0.0,0.495,0.505,0.5994,1
+2020-05-26 10:52:00,[Featured stock] Rechargeable battery large-cap LG Chem·Samsung SDI continued strong,1,0.0,0.268,0.732,0.5106,1
+2020-05-26 09:27:00,Samsung SDI's rechargeable battery theme rose 3.06% ↑,0,0.0,0.0,1.0,0.0,0
+2020-05-26 09:19:00,Secondary battery's'new reporter' march... Samsung SDI 5%↑,0,0.0,0.0,1.0,0.0,0
+2020-05-26 09:08:00,"'Samsung SDI' increased by more than 5%, rising due to the regular alignment of the short and mid-term",0,0.0,0.11,0.89,0.2732,1
+2020-05-26 09:06:00,"52-week report of'Samsung SDI' is renewed, mass net purchase of institutions the previous day",0,0.0,0.0,1.0,0.0,0
+2020-05-25 18:37:00,"On the 25th, KODEX leverage (+2.53%) at institutional exchanges, Samsung SDI...",0,0.0,0.0,1.0,0.0,0
+2020-05-25 17:10:00,Samsung SDI's'Zen 5'aims at the top 3 batteries,0,0.0,0.231,0.769,0.2023,1
+2020-05-25 17:10:00,Samsung SDI's'Zen 5'aims at the top 3 batteries,0,0.0,0.231,0.769,0.2023,1
+2020-05-25 16:07:00,Unstoppable Kakao '8th in market cap'... grabs LG's life and pursues Samsung SDI,0,0.13,0.0,0.87,-0.2023,-1
+2020-05-25 14:34:00,Samsung SDI's second revival period for rechargeable batteries,0,0.0,0.0,1.0,0.0,0
+2020-05-25 12:01:00,"'Eco-RoBM' rises by more than 10%, possibility of collaboration between Samsung SDI and Hyundai Motor Group...",0,0.0,0.0,1.0,0.0,0
+2020-05-25 09:06:00,"52 weeks report of'Eco-RoBM' is reported by Kyungshin, collaboration between Samsung SDI and Hyundai Motor Group...",0,0.0,0.0,1.0,0.0,0
+2020-05-25 10:35:00,"Samsung SDI, top search ranking... Share price 0.3%",0,0.0,0.4,0.6,0.4588,1
+2020-05-24 10:41:00,Samsung SDI-Nursing Academy's'World of Couples' Shines Amid Corona 19,0,0.0,0.0,1.0,0.0,0
+2020-05-22 10:35:00,"Ecopro BM,'Expectation for growth due to the possibility of cooperation between Samsung SDI and Hyundai Motor Group...",0,0.0,0.14,0.86,0.3818,1
+2020-05-22 09:35:00,"Samsung SDI, stock price of 337,000 won... 0.6% of the previous day",0,0.0,0.0,1.0,0.0,0
+2020-05-21 13:10:00,"Samsung SDI's share price of 3,366,500 won... 1.66% compared to the previous day",0,0.0,0.155,0.845,0.296,1
+2020-05-20 13:10:00,"Samsung SDI, stock price of 325,000 won... 2.36% compared to the previous day",0,0.0,0.0,1.0,0.0,0
+2020-05-20 13:10:00,"Samsung SDI, stock price of 325,000 won... 2.36% compared to the previous day",0,0.0,0.0,1.0,0.0,0
+2020-05-19 10:40:00,"Samsung SDI, focus on individual investors... Share price 0.8%...",0,0.0,0.216,0.784,0.296,1
+2020-05-18 11:07:00,"'Samsung SDI' rises more than 5%, 1Q20 Review: EV growth continues...",0,0.0,0.206,0.794,0.3818,1
+2020-05-18 07:09:00,"[Kim Dae-sung's stock analysis] Samsung SDI, slumps after surge in EV battery expectations,...",0,0.0,0.0,1.0,0.0,0
+2020-05-17 20:57:00,"Who will be the winner of the electric vehicle battery?... “LG Chemical·CATL·Samsung SDI, three years later...",1,0.0,0.202,0.798,0.5859,1
+2020-05-14 11:27:00,Samsung SDI dispatches manpower to battery factory in China next month,0,0.0,0.0,1.0,0.0,0
+2020-05-14 11:25:00,Samsung SDI-Hyundai Motor alliance to run globally with the key to “future Korea”,0,0.0,0.0,1.0,0.0,0
+2020-05-14 10:19:00,"“Samsung SDI, solid electric vehicle battery growth... Investment opinion ‘Buy’”",0,0.0,0.151,0.849,0.1531,1
+2020-05-13 18:37:00,"On the 13th, Samsung SDI (+8.98%), KODEX leverage...",0,0.0,0.0,1.0,0.0,0
+2020-05-13 17:25:00,“Is Samsung SDI stealing electric vehicles?” LG Chem and SK Ino'Tension',0,0.27,0.0,0.73,-0.5719,-1
+2020-05-13 15:21:00,"[Features] Samsung SDI, Lee Jae-yong and Jeong Eui-seon, 8...",0,0.0,0.0,1.0,0.0,0
+2020-05-13 14:25:00,[Features] Lee Jae-yong and Jeong Eui-seon meet with Samsung SDI and Iljin Materials to rise,0,0.0,0.0,1.0,0.0,0
+2020-05-13 14:09:00,"[Features] Dongkuk R&S, Samsung and Hyundai Motors' EV battery alliance officially formulated....",0,0.0,0.0,1.0,0.0,0
+2020-05-13 13:53:00,"[Features] Samsung SDI, strong in discussions on batteries for Hyundai and Samsung electric vehicles",1,0.0,0.202,0.798,0.5106,1
+2020-05-13 11:04:00,"'Samsung SDI' increased by more than 5%, mass net purchase by foreigners the previous day",0,0.0,0.13,0.87,0.2732,1
+2020-05-13 01:14:00,Jaeyong Lee resumes on-site management... Finding Samsung SDI and checking'future food',0,0.0,0.0,1.0,0.0,0
+2020-05-11 18:36:00,"On the 11th, Samsung SDI (+0.53%), LG H&H (+1...",0,0.0,0.0,1.0,0.0,0
+2020-05-07 17:38:00,"[MK Laciero] Samsung SDI, pouring positive evaluation on battery business improvement",0,0.0,0.423,0.577,0.765,1
+2020-05-06 08:29:00,Samsung SDI expects electric vehicle growth... Target price↑-Kyobo,0,0.0,0.0,1.0,0.0,0
+2020-05-06 07:38:00,"[Click e-stock] ""Samsung SDI, stock price increase in the second half of the year…target price ↑""",0,0.0,0.133,0.867,0.3182,1
+2020-05-05 07:30:00,Samsung SDI's earnings improved to bottom in 1Q,0,0.0,0.307,0.693,0.4767,1
+2020-05-04 08:48:00,Samsung SDI's performance is good thanks to medium and large batteries and electronic materials Target price↑-raising,1,0.0,0.293,0.707,0.7003,1
+2020-05-05 07:30:00,Samsung SDI's earnings improved to bottom in 1Q,0,0.0,0.307,0.693,0.4767,1
+2020-05-04 08:48:00,Samsung SDI's performance is good thanks to medium and large batteries and electronic materials Target price↑-raising,1,0.0,0.293,0.707,0.7003,1
+2020-05-04 08:47:00,"""Samsung SDI, next year's earnings will improve sharply""...Target price ↑",0,0.0,0.266,0.734,0.4404,1
+2020-05-04 08:18:00,"[Hot-Line] ""Samsung SDI, changes in electric vehicles and renewable energy with Corona 19...",0,0.0,0.149,0.851,0.2732,1
+2020-05-04 07:42:00,"Samsung SDI, automotive battery turnaround is important -Shinyoung Securities",0,0.0,0.364,0.636,0.4588,1
+2020-05-03 12:01:00,Samsung SDI's short-term correction from lower earnings expectations is a buying opportunity,0,0.157,0.2,0.643,0.1531,1
+2020-05-01 06:01:00,"“Samsung SDI, Borit Pass until the second quarter.. Profit improvement in the second half” IBK Investment & Securities",0,0.0,0.367,0.633,0.7964,1
+2020-04-29 15:41:00,"Samsung SDI hit by corona hit, 1Q operating profit declined 54.6%",0,0.0,0.225,0.775,0.4404,1
+2020-04-29 14:49:00,Samsung SDI's 1Q operating profit exceeded market expectations with KRW 54 billion,-1,0.0,0.209,0.791,0.4404,1
+2020-04-29 14:30:00,Samsung SDI's 1Q results improved.. 2Q'old battery' and'ESS' solid (...,0,0.0,0.151,0.849,0.1531,1
+2020-04-29 13:46:00,"Sluggish battery demand, Samsung SDI 1Q operating profit declined 54.6%",-1,0.298,0.206,0.496,-0.0772,0
+2020-04-29 13:20:00,"Samsung SDI, operating profit of 54 billion won in the first quarter... 168.21% compared to the previous quarter...",-1,0.0,0.292,0.708,0.765,1
+2020-04-29 13:14:00,Samsung SDI surpasses expectations for'Corona 19' in the first quarter of this year,1,0.0,0.0,1.0,0.0,0
+2020-04-29 13:12:00,"Samsung SDI, operating profit of 54 billion won in the first quarter... 54% compared to the previous year↓",-1,0.0,0.292,0.708,0.765,1
+2020-04-29 14:25:00,"Samsung SDI, operating profit of 54 billion won in the first quarter... 54.6% year-on-year↓",-1,0.0,0.355,0.645,0.765,1
+2020-04-29 14:25:00,"Samsung SDI, operating profit of 54 billion won in the first quarter... 54.6% year-on-year↓",-1,0.0,0.355,0.645,0.765,1
+2020-04-29 14:00:00,"""The impact of'Corona 19' in the ESS business is insignificant.. In the first half of strengthening domestic safety ...",1,0.0,0.261,0.739,0.7184,1
+2020-04-29 14:25:00,"Samsung SDI, operating profit of 54 billion won in the first quarter... 54.6% year-on-year↓",-1,0.0,0.355,0.645,0.765,1
+2020-04-29 14:25:00,"Samsung SDI, operating profit of 54 billion won in the first quarter... 54.6% year-on-year↓",-1,0.0,0.355,0.645,0.765,1
+2020-04-29 14:00:00,"""The impact of'Corona 19' in the ESS business is insignificant.. In the first half of strengthening domestic safety ...",1,0.0,0.261,0.739,0.7184,1
+2020-04-29 13:58:00,"[Concall] Samsung SDI ""Sales decline in 2Q... expected to gradually recover from 3Q""",0,0.0,0.0,1.0,0.0,0
+2020-04-29 13:49:00,"[Concall] Samsung SDI ""Small cells will be greatly affected by Corona 19 in the second quarter""",1,0.112,0.0,0.888,-0.2247,-1
+2020-04-29 13:56:00,"""Sustainable growth of the old battery.. Development of the Gen5 battery is being prepared for mass production""-Samsung SDI ...",0,0.0,0.209,0.791,0.5423,1
+2020-04-29 13:54:00,"[Concall] Samsung SDI ""Corona 19 facility investment scale elasticity response...Hungarian plant plan...",0,0.0,0.0,1.0,0.0,0
+2020-04-29 13:45:00,"""Sales decline in 2Q, recovery in 3Q... as planned for battery expansion in Hungary"" -...",0,0.0,0.0,1.0,0.0,0
+2020-04-29 13:46:00,"Sluggish battery demand, Samsung SDI 1Q operating profit declined 54.6%",-1,0.298,0.206,0.496,-0.0772,0
+2020-04-29 13:20:00,"Samsung SDI, operating profit of 54 billion won in the first quarter... 168.21% compared to the previous quarter...",-1,0.0,0.292,0.708,0.765,1
+2020-04-29 13:14:00,Samsung SDI surpasses expectations for'Corona 19' in the first quarter of this year,1,0.0,0.0,1.0,0.0,0
+2020-04-29 13:12:00,"Samsung SDI, operating profit of 54 billion won in the first quarter... 54% compared to the previous year↓",-1,0.0,0.292,0.708,0.765,1
+2020-04-29 13:01:00,"Samsung SDI, sales of 2,397.5 billion won in the first quarter of this year... 4.06% ↑",-1,0.0,0.209,0.791,0.5719,1
+2020-04-29 13:00:00,"Samsung SDI, operating at 54 billion won in the first quarter of this year...54.57% year-on-year↓",-1,0.0,0.209,0.791,0.5719,1
+2020-04-28 08:58:00,"The winner of the secondary battery... LG Chem, Samsung SDI'completely defeated' profitability and financial stability",1,0.148,0.281,0.571,0.4215,1
+2020-04-26 15:42:00,"""Let's see'Mr. Trot' and learn""... 5 secrets of success analyzed by Samsung SDI",1,0.0,0.252,0.748,0.5719,1
+2020-04-26 15:34:00,Success DNA that Samsung SDI employees learned from Mr. Trot,1,0.0,0.291,0.709,0.5719,1
+2020-04-26 12:48:00,"Samsung SDI ""Let's learn successful DNA from'Mr. Trot'""",1,0.0,0.352,0.648,0.5859,1
+2020-04-26 09:16:00,5 secrets of the success of “Mr. Trot” that Samsung SDI paid attention to,1,0.0,0.236,0.764,0.5719,1
+2020-04-29 13:14:00,Samsung SDI surpasses expectations for'Corona 19' in the first quarter of this year,1,0.0,0.0,1.0,0.0,0
+2020-04-29 13:00:00,"Samsung SDI, operating at 54 billion won in the first quarter of this year...54.57% year-on-year↓",-1,0.0,0.209,0.791,0.5719,1
+2020-04-26 12:48:00,"Samsung SDI ""Let's learn successful DNA from'Mr. Trot'""",1,0.0,0.352,0.648,0.5859,1
+2020-04-26 09:16:00,5 secrets of the success of “Mr. Trot” that Samsung SDI paid attention to,1,0.0,0.236,0.764,0.5719,1
+2020-04-26 12:01:00,Patent Attorney Kim Tae-seon from Samsung SDI hired as a “patent dispute” solution,0,0.0,0.173,0.827,0.3182,1
+2020-04-24 11:18:00,[Exclusive] Samsung SDI dispatches 140 technicians to Hungary to charter,0,0.0,0.0,1.0,0.0,0
+2020-04-21 11:24:00,"Hungary, Samsung SDI factory designated as special economic zone",0,0.0,0.252,0.748,0.4019,1
+2020-04-21 08:37:00,Samsung SDI lowers the level of performance with Corona 19... Target Price↓-Shinhan,0,0.12,0.0,0.88,-0.128,-1
+2020-04-20 08:34:00,"Samsung SDI, limited concerns about the growth of the electric vehicle market",-1,0.131,0.179,0.69,0.1779,1
+2020-04-20 08:34:00,"Samsung SDI, limited concerns about the growth of the electric vehicle market",-1,0.131,0.179,0.69,0.1779,1
+2020-04-17 11:22:00,[Features] Secondary battery industry recovery prospects… LG Chem·Samsung SDI'Surge',0,0.0,0.0,1.0,0.0,0
+2020-04-17 09:10:00,"'Samsung SDI' rises by more than 5%, 1Q20 Preview: In this case, buyout...",0,0.0,0.0,1.0,0.0,0
+2020-04-16 10:35:00,"'Samsung SDI' rises by more than 5%, 1Q20 Preview: In this case, buyout...",0,0.0,0.0,1.0,0.0,0
+2020-04-14 15:11:00,Samsung SDI to hold a company briefing session (IR) on the 29th,0,0.0,0.0,1.0,0.0,0
+2020-04-14 08:14:00,"[Hot-Line] ""Samsung SDI, the damage caused by Corona 19 is bigger than concern...",-1,0.211,0.0,0.789,-0.4939,-1
+2020-04-12 17:23:00,"CEOs helping flower farmers... Young-Hyun Jeon, President of Samsung SDI joined",0,0.0,0.18,0.82,0.296,1
+2020-04-12 08:01:00,"Young-Hyun Jeon, President of Samsung SDI, participates in relay campaign to help flower farmers",0,0.0,0.172,0.828,0.4019,1
+2020-04-12 07:00:00,Why is the Samsung SDI office so full of floral scent these days?,0,0.0,0.0,1.0,0.0,0
+2020-04-12 16:17:00,"Online and non-face-to-face is the trend... Pay attention to Samsung SDI, NCsoft, Chips & Media",0,0.097,0.0,0.903,-0.1027,-1
+2020-04-10 14:35:00,“Abolition of annual salary system” Established a union under the Korean Trade Union in Samsung SDI,0,0.0,0.0,1.0,0.0,0
+2020-04-09 17:48:00,"Samsung SDI, non-face-to-face online recruitment counseling",0,0.0,0.0,1.0,0.0,0
+2020-04-09 16:04:00,Samsung SDI conducts'LAN Recruiting' in response to Corona,0,0.0,0.0,1.0,0.0,0
+2020-04-09 14:47:00,"Samsung SDI recruitment counseling, Corona 19 damage ""on LAN",0,0.286,0.0,0.714,-0.4939,-1
+2020-04-09 14:22:00,Samsung SDI conducts'LAN Recruiting' to prevent coronavirus,0,0.0,0.155,0.845,0.0258,0
+2020-04-08 11:24:00,Ants turn to “Samsung SDI·LG Chemical”,0,0.0,0.0,1.0,0.0,0
+2020-04-08 10:11:00,"[Recently, ants] Samsung Electronics' ants, net purchase'Samsung SDI' in April...",0,0.0,0.0,1.0,0.0,0
+2020-04-08 09:30:00,"“Samsung SDI, solid electric vehicle battery growth potential even with Corona 19”",0,0.0,0.296,0.704,0.4939,1
+2020-04-08 08:54:00,"[Hot-Line] ""Samsung SDI, electric vehicle battery despite the spread of Corona 19 ...",0,0.0,0.0,1.0,0.0,0
+2020-04-09 14:47:00,"Samsung SDI recruitment counseling, Corona 19 damage ""on LAN",0,0.286,0.0,0.714,-0.4939,-1
+2020-04-09 14:22:00,Samsung SDI conducts'LAN Recruiting' to prevent coronavirus,0,0.0,0.155,0.845,0.0258,0
+2020-04-08 09:30:00,"“Samsung SDI, solid electric vehicle battery growth potential even with Corona 19”",0,0.0,0.296,0.704,0.4939,1
+2020-04-01 08:19:00,"[Click e-stock] ""Samsung SDI, 1Q results will be expected""",0,0.0,0.0,1.0,0.0,0
+2020-02-12 18:37:00,"On the 12th, Samsung Electronics (+1%), Samsung SDI (-1.46%)...",0,0.0,0.0,1.0,0.0,0
+2020-02-12 08:41:00,“Samsung SDI's performance is expected to improve… Target ↑”,0,0.0,0.0,1.0,0.0,0
+2020-02-11 13:50:00,"[Features] Samsung SDI·Eco-Ro BM, reported 52 weeks side by side to establish a joint venture...",0,0.0,0.0,1.0,0.0,0
+2020-02-10 19:26:00,Samsung SDI and Ecopro BM established a joint venture for next-generation battery materials (total),0,0.0,0.0,1.0,0.0,0
+2020-02-10 18:00:00,"Samsung SDI, a joint venture with mid-sized companies for secondary battery materials",0,0.0,0.0,1.0,0.0,0
+2020-02-10 07:43:00,"Ecopro BM, imminent to establish joint venture with Samsung SDI-KTB",0,0.0,0.0,1.0,0.0,0
+2020-02-08 10:58:00,"""Samsung SDI, expected to increase operating profit by 80% this year.. Target price↑"" DB Financial Investment",0,0.0,0.271,0.729,0.6369,1
+2020-02-07 09:21:00,"[Features] Ecopro BM, second day strong on news of investment attraction from Samsung SDI",1,0.0,0.344,0.656,0.743,1
+2020-02-10 07:43:00,"Ecopro BM, imminent to establish joint venture with Samsung SDI-KTB",0,0.0,0.0,1.0,0.0,0
+2020-02-08 10:58:00,"""Samsung SDI, expected to increase operating profit by 80% this year.. Target price↑"" DB Financial Investment",0,0.0,0.271,0.729,0.6369,1
+2020-02-07 15:08:00,[Features] Ecoro BM reported on Samsung SDI investment attraction news,0,0.0,0.25,0.75,0.4588,1
+2020-02-07 09:09:00,"52 weeks report of'Samsung SDI' is Kyungshin, 2019.3Q, sales of 2,568 tens...",0,0.0,0.0,1.0,0.0,0
+2020-02-06 16:23:00,LG Chem·Samsung SDI strongly opposes ESS fire cause,1,0.229,0.2,0.571,-0.0772,0
+2020-02-06 15:02:00,"'ESS fire' LG Chem·Samsung SDI, self-safety enhancement measures... Total power to restore trust",0,0.134,0.307,0.559,0.4767,1
+2020-02-06 15:01:00,"Samsung SDI ""No causal relationship with its own battery and ESS fire""",0,0.315,0.0,0.685,-0.5574,-1
+2020-02-06 09:53:00,"LG Chem·Samsung SDI, downtrend… Waiting for the result of ESS fire accident",0,0.355,0.0,0.645,-0.6705,-1
+2020-02-05 10:32:00,[Features] Intraday report of Samsung SDI on Tesla's 30% surge,0,0.0,0.0,1.0,0.0,0
+2020-02-05 09:06:00,"52-week report of'Samsung SDI' renewed, mass net purchase of foreigners the previous day",0,0.0,0.0,1.0,0.0,0
+2020-02-04 09:42:00,[Features] LG Chem and Samsung SDI 5%'Strengthening' in Tesla High Altitude March,1,0.0,0.0,1.0,0.0,0
+2020-02-04 09:37:00,Samsung SDI and LG Chemicals strengthened in “Tesla 20% soaring”,1,0.0,0.237,0.763,0.4215,1
+2020-02-03 15:24:00,"LG Chem·SK Innovation·Samsung SDI, three companies running electric vehicle batteries… large ...",0,0.0,0.0,1.0,0.0,0
+2020-02-02 16:03:00,"Stock market hit by'Wuhan' Attention to high-performing NC, Celltrion, and Samsung SDI",0,0.0,0.0,1.0,0.0,0
+2020-02-02 10:23:00,"Samsung SDI, growth prospects from 2H… ""Car battery optimistic""",0,0.0,0.542,0.458,0.7269,1
+2020-01-31 18:37:00,"On the 31st, Samsung SDI (-3.83%), Hyundai Motor (-1.96%...",0,0.0,0.0,1.0,0.0,0
+2020-01-31 08:57:00,"""Samsung SDI, enters the main track of the electric vehicle battery business ... Target price ↑""",0,0.0,0.0,1.0,0.0,0
+2020-01-31 07:45:00,"""Keep holding when Samsung SDI stocks go down""-Investment in Korea",0,0.0,0.0,1.0,0.0,0
+2020-01-30 14:47:00,"Samsung SDI, which surpassed 10 yen in sales, decreased profits due to'safety costs' (total)",1,0.0,0.182,0.818,0.4404,1
+2020-01-30 13:56:00,Samsung SDI achieves 10 trillion in annual sales for the first time... Operating profit ↓ due to one-off costs,-1,0.0,0.146,0.854,0.4404,1
+2020-01-30 13:41:00,Reflecting ESS safety cost... Samsung SDI 4Q operating profit decreased 92% (complementary),0,0.247,0.292,0.461,-0.0343,0
+2020-01-30 15:50:00,"Samsung SDI's sales of 10 trillion won ""Go forward with EV batteries this year""",-1,0.0,0.222,0.778,0.5719,1
+2020-01-30 15:03:00,"[Samsung SDI Concall] ""Polarization film, more than half of Chinese customers""",0,0.0,0.0,1.0,0.0,0
+2020-01-30 15:02:00,"[Samsung SDI Concall] ""Wireless earphone battery expected to grow by 26% annually...Major customers...",0,0.0,0.0,1.0,0.0,0
+2020-01-30 15:02:00,"[Samsung SDI Concall] ""Wireless earphone battery expected to grow by 26% annually...Major customers...",0,0.0,0.0,1.0,0.0,0
+2020-01-30 14:51:00,Samsung SDI “This year's EV battery-oriented growth… ESS safety measures close in June...,-1,0.0,0.189,0.811,0.4215,1
+2020-01-30 13:41:00,Reflecting ESS safety cost... Samsung SDI 4Q operating profit decreased 92% (complementary),0,0.247,0.292,0.461,-0.0343,0
+2020-01-30 14:41:00,"Samsung SDI, operating profit of 21 billion won in the fourth quarter of last year… 91.9% compared to the same period last year...",-1,0.0,0.239,0.761,0.765,1
+2020-01-30 13:40:00,Samsung SDI achieved 10 trillion won in annual sales last year... Medium and large battery sales growth,-1,0.0,0.296,0.704,0.743,1
+2020-01-30 13:36:00,"Samsung SDI, cash dividend of 1,000 won per share",0,0.0,0.457,0.543,0.7096,1
+2020-01-30 13:11:00,"Samsung SDI decides cash dividend of 1,000 won for common stock and 1050 for kind",0,0.0,0.353,0.647,0.7964,1
+2020-01-30 13:34:00,"Samsung SDI, operating profit of 201 billion won in the fourth quarter of last year… 92% decrease from the previous year",-1,0.0,0.258,0.742,0.765,1
+2020-01-30 13:56:00,Samsung SDI achieves 10 trillion in annual sales for the first time... Operating profit ↓ due to one-off costs,-1,0.0,0.146,0.854,0.4404,1
+2020-01-30 13:40:00,Samsung SDI achieved 10 trillion won in annual sales last year... Medium and large battery sales growth,-1,0.0,0.296,0.704,0.743,1
+2020-01-30 13:36:00,"Samsung SDI, cash dividend of 1,000 won per share",0,0.0,0.457,0.543,0.7096,1
+2020-01-30 13:11:00,"Samsung SDI decides cash dividend of 1,000 won for common stock and 1050 for kind",0,0.0,0.353,0.647,0.7964,1
+2020-01-30 13:34:00,"Samsung SDI, operating profit of 201 billion won in the fourth quarter of last year… 92% decrease from the previous year",-1,0.0,0.258,0.742,0.765,1
+2020-01-30 13:27:00,"Samsung SDI, last year's operating profit of 4621 billion won... 35.36% decrease from the previous year",-1,0.0,0.162,0.838,0.4404,1
+2020-01-30 13:00:00,"Samsung SDI, last year's operating profit of 4621 billion... 35.36% compared to the previous year↓",-1,0.0,0.172,0.828,0.4404,1
+2020-01-30 13:00:00,"Samsung SDI, last year's operating profit of 4621 billion... 35.36% compared to the previous year↓",-1,0.0,0.172,0.828,0.4404,1
+2020-01-30 12:57:00,"Samsung SDI, last year's operating profit of 4622 billion won... 35.36% compared to the previous year↓",-1,0.0,0.162,0.838,0.4404,1
+2020-01-30 12:54:00,"[Provisional Performance] Samsung SDI, operating profit sharply declined in 4Q last year of 201 billion won...",-1,0.222,0.133,0.644,-0.4466,-1
+2020-01-30 12:54:00,"[Provisional Performance] Samsung SDI, operating profit sharply declined in 4Q last year of 201 billion won...",-1,0.222,0.133,0.644,-0.4466,-1
+2020-01-30 11:16:00,Samsung SDI and Samsung Fire & Marine Insurance contract for 15 billion won liability insurance,-1,0.222,0.196,0.582,0.128,1
+2020-01-30 09:07:00,"52 weeks report of'Samsung SDI' is Kyungshin, 2019.3Q, sales of 2,568 tens...",0,0.0,0.0,1.0,0.0,0
+2020-01-28 09:07:00,Samsung SDI to increase operating profit by 80% this year,0,0.0,0.394,0.606,0.6369,1
+2020-01-25 08:11:00,"Samsung SDI led by electric cars... ""This year's operating profit doubles,'leaky'""",0,0.0,0.225,0.775,0.4404,1
+2020-01-23 12:30:00,"52 weeks report of'Samsung SDI' renewed, foreigners net purchase for 4 consecutive days (21.4 million...",-1,0.0,0.0,1.0,0.0,0
+2020-01-22 11:03:00,[Features] Samsung SDI breaks record of historical reports,-1,0.0,0.0,1.0,0.0,0
+2020-01-22 09:06:00,"52-week report of'Samsung SDI' renewed, mass net purchase of foreigners the previous day",0,0.0,0.0,1.0,0.0,0
+2020-01-21 17:06:00,"'Let your mouth get caught in your ears' with wireless earphone... LG Chem·Samsung SDI, micro-batter...",0,0.0,0.0,1.0,0.0,0
+2020-01-21 11:29:00,"Samsung SDI, promoted to 4 executives, and performed 18 executives",-1,0.0,0.259,0.741,0.4215,1
+2020-01-21 10:27:00,"Samsung SDI conducts regular executive greetings... A total of 18 people were promoted, including 4 executive directors",-1,0.0,0.167,0.833,0.4215,1
+2020-01-21 10:05:00,"Samsung SDI, executives' greetings in 2020... 18 people promoted, including 4 executive directors",-1,0.0,0.359,0.641,0.6808,1
+2020-01-20 17:35:00,Secondary battery running… Samsung SDI's record high price breakthrough,0,0.0,0.0,1.0,0.0,0
+2020-01-20 08:11:00,Samsung SDI contributes to expanding battery performance for electric vehicles... Target price↑-NH,0,0.0,0.0,1.0,0.0,0
+2020-01-19 09:49:00,"[Market Point]'Samsung SDI', No. 1 in personal net selling during the week of KOSPI",0,0.155,0.0,0.845,-0.296,-1
+2020-01-16 17:43:00,"[Bull&Bear] Tesla's date, Samsung SDI's'leap'",0,0.0,0.0,1.0,0.0,0
+2020-01-14 17:57:00,'Electric car' Tesla blast... Samsung SDI's highest price'Chiri',1,0.0,0.0,1.0,0.0,0
+2020-01-14 10:37:00,[Features] Expectation of recovery in the electric car market...,0,0.0,0.0,1.0,0.0,0
+2020-01-14 09:06:00,"[Features] Samsung SDI, a record high price in anticipation for rechargeable batteries",0,0.0,0.123,0.877,0.1027,1
+2020-01-14 17:57:00,'Electric car' Tesla blast... Samsung SDI's highest price'Chiri',1,0.0,0.0,1.0,0.0,0
+2020-01-14 10:37:00,[Features] Expectation of recovery in the electric car market...,0,0.0,0.0,1.0,0.0,0
+2020-01-14 09:06:00,"[Features] Samsung SDI, a record high price in anticipation for rechargeable batteries",0,0.0,0.123,0.877,0.1027,1
+2020-01-14 09:15:00,"'Samsung SDI' increased by more than 5%, net buying for 3 consecutive days by institutions (28.7 million shares)",-1,0.0,0.116,0.884,0.2732,1
+2020-01-14 08:19:00,"Samsung SDI, electric vehicle market ahead of recovery in the second half of this year-Hana",0,0.0,0.0,1.0,0.0,0
+2020-01-13 10:07:00,52-week report of'Samsung SDI' is on the rise due to the regular alignment of the short- and medium-term Lee Pyeong-seon,0,0.0,0.0,1.0,0.0,0
+2020-01-10 18:37:00,"On the 10th, KODEX 200 (+0.82%), Samsung SDI (...",0,0.0,0.0,1.0,0.0,0
+2020-01-10 14:27:00,"[Features] Samsung SDI, 7% of foreign buyers ↑",0,0.0,0.0,1.0,0.0,0
+2020-01-10 10:02:00,"'Samsung SDI' increased by more than 5%, 2019.3Q, sales of 2,568 billion (...",-1,0.0,0.149,0.851,0.2732,1
+2020-01-07 08:23:00,Samsung SDI's profits surge due to full-fledged EV sales-Yujin,0,0.0,0.266,0.734,0.4404,1
+2020-01-03 08:52:00,"""Samsung SDI, operating profit will increase by 80% compared to last year""",0,0.0,0.342,0.658,0.6369,1
+2020-01-10 10:02:00,"'Samsung SDI' increased by more than 5%, 2019.3Q, sales of 2,568 billion (...",-1,0.0,0.149,0.851,0.2732,1
+2020-01-07 08:23:00,Samsung SDI's profits surge due to full-fledged EV sales-Yujin,0,0.0,0.266,0.734,0.4404,1
+2020-01-03 08:52:00,"""Samsung SDI, operating profit will increase by 80% compared to last year""",0,0.0,0.342,0.658,0.6369,1
+2020-01-03 08:21:00,[Click e-Item] Samsung SDI's expected operating profit of 800 billion won... 79% compared to the previous year,-1,0.0,0.153,0.847,0.4404,1
+2020-01-03 07:51:00,Samsung SDI undervalued despite lowering earnings estimates-Samsung Securities,0,0.0,0.396,0.604,0.4479,1
+2020-01-03 07:23:00,"""Samsung SDI, this year's earnings forecast of 21%↓…maintains the target price""-Samsung",0,0.0,0.0,1.0,0.0,0
+2020-01-02 17:27:00,Samsung SDI's 50th anniversary...,0,0.0,0.0,1.0,0.0,0
+2020-01-02 11:07:00,"[New Year's Address] Young-Hyun Jeon, President of Samsung SDI “Super gap technology towards a 100-year enterprise ...",0,0.0,0.0,1.0,0.0,0
+2020-01-02 10:50:00,"[New Year's Address] Young-Hyun Jeon, President of Samsung SDI, ""Super gap technology towards a 100-year enterprise ...",0,0.0,0.206,0.794,0.5994,1
+2020-01-02 10:02:00,"[New Year's Address] Young-Hyun Jeon, President of Samsung SDI, “Super gap technology for 100-year companies ...",0,0.0,0.0,1.0,0.0,0
+2020-01-02 10:01:00,"[New Year's Address] Young-Hyun Jeon, President of Samsung SDI, “Expanding the super-differential technology for a 100 year company",-1,0.0,0.0,1.0,0.0,0
+2020-01-02 10:00:00,"[New Year's Address] Young-Hyun Jeon, President of Samsung SDI, ""Let's Secure the Super Gap in 100 Years""",0,0.0,0.296,0.704,0.743,1
+2020-01-02 10:00:00,"[New Year's Address] Young-Hyun Jeon, President of Samsung SDI, ""Let's Secure the Super Gap in 100 Years""",0,0.0,0.296,0.704,0.743,1
+2019-12-30 08:37:00,Samsung SDI's operating profit to grow to double digits next year -Hana,0,0.0,0.209,0.791,0.4404,1
+2019-12-28 07:02:00,"""Samsung SDI, electric car profitability improvement next year...",0,0.0,0.459,0.541,0.6249,1
+2019-12-27 08:00:00,"[Click e-event] ""Samsung SDI, expects to turn profitable with electric vehicle batteries next year""",0,0.0,0.182,0.818,0.4404,1
+2019-12-27 07:50:00,"""Samsung SDI, increase operating profit due to the spread of electric vehicles in 2020""",0,0.0,0.302,0.698,0.6369,1
+2020-01-02 10:02:00,"[New Year's Address] Young-Hyun Jeon, President of Samsung SDI, “Expanding the super-differential technology for 100-year companies",-1,0.0,0.0,1.0,0.0,0
+2020-01-02 10:01:00,"[New Year's Address] Young-Hyun Jeon, President of Samsung SDI, “Expanding the super-differential technology for a 100 year company",-1,0.0,0.0,1.0,0.0,0
+2020-01-02 10:00:00,"[New Year's Address] Young-Hyun Jeon, President of Samsung SDI, ""Let's Secure the Super Gap in 100 Years""",0,0.0,0.296,0.704,0.743,1
+2019-12-30 08:37:00,Samsung SDI's operating profit to grow to double digits next year -Hana,0,0.0,0.209,0.791,0.4404,1
+2019-12-28 07:02:00,"""Samsung SDI, electric car profitability improvement next year...",0,0.0,0.459,0.541,0.6249,1
+2019-12-27 08:35:00,"“Samsung SDI, operating profit in 2020 will increase by 78% compared to the previous year”",0,0.0,0.286,0.714,0.6369,1
+2019-12-27 08:00:00,"[Click e-event] ""Samsung SDI, expects to turn profitable with electric vehicle batteries next year""",0,0.0,0.182,0.818,0.4404,1
+2019-12-27 07:50:00,"""Samsung SDI, increase operating profit due to the spread of electric vehicles in 2020""",0,0.0,0.302,0.698,0.6369,1
+2019-12-18 11:34:00,"Samsung SDI, LG Chem in ESS controversy… ""Short term volatility""",0,0.0,0.0,1.0,0.0,0
+2019-12-18 09:22:00,[Features] LG Chem·Samsung SDI weak… Battery defective ESS fire cause...,-1,0.398,0.0,0.602,-0.6486,-1
+2019-12-18 08:45:00,"""Samsung SDI, 4Q operating profit stock price will be below the forecast""...",0,0.273,0.164,0.564,-0.4466,-1
+2019-12-18 07:46:00,"[Click e-Item] “Samsung SDI, battery business value will be highlighted next year”",0,0.0,0.179,0.821,0.34,1
+2019-12-18 07:39:00,Samsung SDI highlights the value of battery business-Shinyoung Securities,0,0.0,0.397,0.603,0.5574,1
+2019-12-18 07:38:00,"""Samsung SDI, Prospects to Highlight the Value of Battery Business Next Year""-Shinyoung",0,0.0,0.438,0.562,0.7184,1
+2019-12-17 09:09:00,"""Samsung SDI, EV battery sector will survive next year...""",0,0.0,0.0,1.0,0.0,0
+2019-12-17 08:35:00,"[Hot-Line] ""Samsung SDI, should pay attention to the growth of electric vehicle batteries""",0,0.093,0.173,0.733,0.296,1
+2019-12-17 08:03:00,"""Samsung SDI, 4Q earnings forecast to be sluggish…small cell growth slowing""",-1,0.294,0.158,0.548,-0.4995,-1
+2019-12-17 08:54:00,Samsung SDI continues high growth in EV batteries next year-Hyundai Motor Company,0,0.0,0.191,0.809,0.3818,1
+2019-12-14 10:03:00,Minister Sung Yun-mo visits Samsung SDI's electric vehicle battery plant in Hungary,0,0.0,0.0,1.0,0.0,0
+2019-12-12 08:16:00,Wireless earphone growth… Beneficiary of secondary battery companies such as Samsung SDI and ITM Semiconductor ...,0,0.0,0.171,0.829,0.4767,1
+2019-12-18 09:22:00,[Features] LG Chem·Samsung SDI weak… Battery fault ESS fire cause point...,-1,0.362,0.0,0.638,-0.6249,-1
+2019-12-18 08:45:00,"""Samsung SDI, 4Q operating profit stock price will be below the forecast""...",0,0.273,0.164,0.564,-0.4466,-1
+2019-12-18 07:46:00,"[Click e-Item] “Samsung SDI, battery business value will be highlighted next year”",0,0.0,0.179,0.821,0.34,1
+2019-12-18 07:39:00,Samsung SDI highlights the value of battery business-Shinyoung Securities,0,0.0,0.397,0.603,0.5574,1
+2019-12-18 07:38:00,"""Samsung SDI, Prospects to Highlight the Value of Battery Business Next Year""-Shinyoung",0,0.0,0.438,0.562,0.7184,1
+2019-12-17 08:35:00,"[Hot-Line] ""Samsung SDI, should pay attention to the growth of electric vehicle batteries""",0,0.093,0.173,0.733,0.296,1
+2019-12-17 08:03:00,"""Samsung SDI, 4Q earnings forecast to be sluggish…small cell growth slowing""",-1,0.294,0.158,0.548,-0.4995,-1
+2019-12-17 08:54:00,Samsung SDI continues high growth in EV batteries next year-Hyundai Motor Company,0,0.0,0.191,0.809,0.3818,1
+2019-12-14 10:03:00,Minister Sung Yun-mo visits Samsung SDI's electric vehicle battery plant in Hungary,0,0.0,0.0,1.0,0.0,0
+2019-12-12 08:16:00,Wireless earphone growth… Beneficiary of secondary battery companies such as Samsung SDI and ITM Semiconductor ...,0,0.0,0.171,0.829,0.4767,1
+2019-12-09 09:20:00,"“Samsung SDI, ESS·polarizing film·cylindrical battery expectations should be lowered” The goal is ...",0,0.0,0.0,1.0,0.0,0
+2019-12-09 08:28:00,"[Hot-Line] ""Samsung SDI, expects next year's ESS·circular battery·polarization film...",0,0.0,0.0,1.0,0.0,0
+2019-12-09 08:10:00,Samsung SDI should lower ESS expectations for next year... Target price↓-raising,0,0.18,0.0,0.82,-0.296,-1
+2019-12-09 07:40:00,"""Samsung SDI is expected to improve its performance next year, but the target price is ↓""",0,0.0,0.115,0.885,0.2382,1
+2019-12-04 17:59:00,Let's run'electric car'... Samsung SDI runs towards 1 trillion in operating profit,-1,0.0,0.225,0.775,0.4404,1
+2019-12-04 07:59:00,"Samsung SDI, EV battery business external growth... Significant improvement in profits next year-DB",0,0.0,0.435,0.565,0.7717,1
+2019-12-04 07:55:00,"""Samsung SDI, EV batteries are expected to turn profitable in the fourth quarter of next year""",0,0.0,0.162,0.838,0.4404,1
+2019-12-03 08:44:00,Samsung SDI's company-wide profit expected to double next year,0,0.0,0.266,0.734,0.4404,1
+2019-12-03 08:41:00,"""Samsung SDI will benefit from the expansion of new electric vehicles next year...",1,0.0,0.2,0.8,0.4588,1
+2019-12-03 08:26:00,"[Hot-Line] ""Samsung SDI, operating profit to double next year""",0,0.0,0.266,0.734,0.4404,1
+2019-12-03 07:55:00,Samsung SDI expands new electric vehicles… Next year's performance improvement'blue light'-one,0,0.0,0.123,0.877,0.1027,1
+2019-12-12 08:16:00,Wireless earphone growth… Beneficiary of secondary battery companies such as Samsung SDI and ITM Semiconductor ...,0,0.0,0.171,0.829,0.4767,1
+2019-12-09 08:28:00,"[Hot-Line] ""Samsung SDI, expects next year's ESS·circular battery·polarization film...",0,0.0,0.0,1.0,0.0,0
+2019-12-09 08:10:00,Samsung SDI should lower ESS expectations for next year... Target price↓-raising,0,0.18,0.0,0.82,-0.296,-1
+2019-12-09 07:40:00,"""Samsung SDI is expected to improve its performance next year, but the target price is ↓""",0,0.0,0.115,0.885,0.2382,1
+2019-12-04 07:59:00,"Samsung SDI, EV battery business external growth... Significant improvement in profits next year-DB",0,0.0,0.435,0.565,0.7717,1
+2019-12-04 07:55:00,"""Samsung SDI, EV batteries are expected to turn profitable in the fourth quarter of next year""",0,0.0,0.162,0.838,0.4404,1
+2019-12-03 08:44:00,Samsung SDI's company-wide profit expected to double next year,0,0.0,0.266,0.734,0.4404,1
+2019-12-03 08:41:00,"""Samsung SDI will benefit from the expansion of new electric vehicles next year...",1,0.0,0.2,0.8,0.4588,1
+2019-12-03 08:26:00,"[Hot-Line] ""Samsung SDI, operating profit to double next year""",0,0.0,0.266,0.734,0.4404,1
+2019-12-03 07:55:00,Samsung SDI expands new electric vehicles… Next year's performance improvement'blue light'-one,0,0.0,0.123,0.877,0.1027,1
+2019-11-21 16:50:00,Samsung SDI and BMW signed a contract for supplying electric vehicle batteries worth 3.3 trillion won,-1,0.0,0.301,0.699,0.6808,1
+2019-11-21 16:34:00,Samsung SDI to supply 3.8 trillion battery cells to BMW,-1,0.0,0.0,1.0,0.0,0
+2019-11-21 16:06:00,`BMW·Samsung SDI's 10 Years Companion`... Article 3.8 Contract for Supply of Old Battery (Comprehensive),0,0.0,0.0,1.0,0.0,0
+2019-11-21 14:23:00,Samsung SDI and BMW signed a 4 trillion won battery supply contract for 10 years,-1,0.0,0.236,0.764,0.5719,1
+2019-11-21 13:58:00,Samsung SDI signed a contract to supply 5th generation battery cells to BMW 3.8 trillion won,-1,0.0,0.209,0.791,0.5719,1
+2019-11-20 19:17:00,Samsung SDI invested 133.2 billion won for shared growth,-1,0.0,0.592,0.408,0.8271,1
+2019-11-20 17:24:00,"Samsung SDI ""Win-Win with Partners""... I shoot 130 billion",0,0.255,0.0,0.745,-0.34,-1
+2019-11-20 13:46:00,Partnership Committee and Samsung SDI signed an innovation-led wage gap resolution campaign,0,0.0,0.0,1.0,0.0,0
+2019-11-20 10:00:00,"Samsung SDI, operating a win-win program with partners of 133.2 billion",0,0.0,0.0,1.0,0.0,0
+2019-11-20 09:09:00,Samsung SDI invests 133.2 billion won for shared growth with partners,-1,0.0,0.521,0.479,0.8271,1
+2019-11-20 09:02:00,Samsung SDI to support shared growth activities for 3 years worth 133.2 billion won,-1,0.0,0.624,0.376,0.9062,1
+2019-12-03 08:26:00,"[Hot-Line] ""Samsung SDI, operating profit to double next year""",0,0.0,0.266,0.734,0.4404,1
+2019-12-03 07:55:00,Samsung SDI expands new electric vehicles… Next year's performance improvement'blue light'-one,0,0.0,0.123,0.877,0.1027,1
+2019-12-03 07:10:00,"""Samsung SDI, full-fledged ESS sales from 2020... expected to increase performance""",0,0.0,0.187,0.813,0.3182,1
+2019-11-23 06:31:00,[Yang Hee-dong's Time Machine] Samsung SDI's Electric Vehicle Battery'Foresight',0,0.0,0.0,1.0,0.0,0
+2019-11-21 17:36:00,Samsung SDI supplies 3.8 trillion batteries to BMW... Build the second plant in Hungary,-1,0.0,0.0,1.0,0.0,0
+2019-11-21 17:09:00,Samsung SDI·BMW “Electric vehicle alliance goes 10 more years”,0,0.0,0.0,1.0,0.0,0
+2019-11-21 16:34:00,Samsung SDI to supply 3.8 trillion battery cells to BMW,-1,0.0,0.0,1.0,0.0,0
+2019-11-21 16:06:00,`BMW·Samsung SDI's 10 Years Companion`... Article 3.8 Contract for Supply of Old Battery (Comprehensive),0,0.0,0.0,1.0,0.0,0
+2019-11-21 14:23:00,Samsung SDI and BMW signed a 4 trillion won battery supply contract for 10 years,-1,0.0,0.236,0.764,0.5719,1
+2019-11-20 19:17:00,Samsung SDI invested 133.2 billion won for shared growth,-1,0.0,0.592,0.408,0.8271,1
+2019-11-20 17:24:00,"Samsung SDI ""Win-Win with Partners""... I shoot 130 billion",0,0.255,0.0,0.745,-0.34,-1
+2019-11-20 13:46:00,Partnership Committee and Samsung SDI signed an innovation-led wage gap resolution campaign,0,0.0,0.0,1.0,0.0,0
+2019-11-20 09:09:00,Samsung SDI invests 133.2 billion won for shared growth with partners,-1,0.0,0.521,0.479,0.8271,1
+2019-11-20 11:28:00,Samsung SDI's “Shared Growth Day”… Commitment to win-win with partners,1,0.0,0.394,0.606,0.6369,1
+2019-11-20 11:26:00,"Samsung SDI, supported 130 billion won for three years for win-win cooperation",0,0.0,0.375,0.625,0.7184,1
+2019-11-20 09:07:00,"Samsung SDI, Shared Growth Day with Partners… `Innovation-led wage gap resolution agreement`...",0,0.0,0.333,0.667,0.6124,1
+2019-11-20 09:02:00,Samsung SDI to support shared growth activities for 3 years worth 133.2 billion won,-1,0.0,0.624,0.376,0.9062,1
+2019-11-20 08:44:00,Samsung SDI expands support for business partners and strengthens shared growth,1,0.0,0.669,0.331,0.8779,1
+2019-11-20 08:05:00,"Samsung SDI held'Shared Growth Day'… ""Expanding support for partners""",0,0.0,0.431,0.569,0.6486,1
+2019-11-20 08:05:00,"Samsung SDI held'Shared Growth Day'… ""Expanding support for partners""",0,0.0,0.431,0.569,0.6486,1
+2019-11-17 17:59:00,Samsung SDI rebounds in small battery market share... LG Chem fell,1,0.0,0.0,1.0,0.0,0
+2019-11-17 10:52:00,Samsung SDI's small battery'好好' on the rise of Galaxy phones,0,0.0,0.0,1.0,0.0,0

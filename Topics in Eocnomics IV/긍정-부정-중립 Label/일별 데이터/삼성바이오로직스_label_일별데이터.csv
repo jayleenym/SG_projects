@@ -1,0 +1,851 @@
+,Date,EngTitle,posneg,neg,pos,neu,compound,vader_pred,New_date(str),New_Date(dt)
+0,2020-10-31 11:00:00,"[Pharmaceutical Bio Essence] Samsung Biologics, first overseas expansion",-1,0.0,0.0,1.0,0.0,0,2020-10-31,2020-10-31 00:00:00
+1,2020-10-30 11:10:00,"'9% soaring' Samsung Bio, before 700,000 won recovery",0,0.0,0.34600000000000003,0.654,0.5719,1,2020-10-30,2020-10-30 00:00:00
+2,2020-10-29 17:33:00,Samsung Bio opens its first US R&D center... World's No. 1 consignment development,0,0.16699999999999998,0.0,0.833,-0.29600000000000004,-1,2020-10-30,2020-10-30 00:00:00
+3,2020-10-29 10:33:00,Samsung Biologics enters the US... Opening of R&D Center in San Fran (general),0,0.0,0.0,1.0,0.0,0,2020-10-29,2020-10-29 00:00:00
+4,2020-10-29 09:54:00,Samsung Biologics enters the US... Opening of R&D Center in San Fran (complementary),0,0.0,0.0,1.0,0.0,0,2020-10-29,2020-10-29 00:00:00
+5,2020-10-29 17:29:00,"Samsung Biologics, Samsung brand usage fee of 9.8 billion won",-1,0.0,0.29100000000000004,0.7090000000000001,0.5719,1,2020-10-30,2020-10-30 00:00:00
+6,2020-10-29 17:11:00,"Kim Tae-han, CEO of Samsung Biologics “Become a global CDO champion by 2025 ...",0,0.0,0.245,0.755,0.5994,1,2020-10-30,2020-10-30 00:00:00
+7,2020-10-29 15:13:00,Samsung Biologics advances to the U.S. home of biotechnology with the CDO business ahead,0,0.0,0.0,1.0,0.0,0,2020-10-29,2020-10-29 00:00:00
+8,2020-10-29 11:38:00,Samsung Biologics opens US CDO Center “2500 biotech next door”,0,0.0,0.0,1.0,0.0,0,2020-10-29,2020-10-29 00:00:00
+9,2020-10-29 11:06:00,"""Global Champion of 2030"" Samsung Biologics to build a forward base in the US",0,0.0,0.245,0.755,0.5994,1,2020-10-29,2020-10-29 00:00:00
+10,2020-10-29 11:03:00,"Samsung Biologics enters the main bio market in the US... ""No. 1 CDO in 2025...",0,0.0,0.0,1.0,0.0,0,2020-10-29,2020-10-29 00:00:00
+11,2020-10-29 10:37:00,"Kim Tae-han, President of Samsung Bio, ""2030 is a global bio research, development and production...",0,0.0,0.0,1.0,0.0,0,2020-10-29,2020-10-29 00:00:00
+12,2020-10-29 10:22:00,"Kim Tae-han, CEO of Samsung Biologics, “I will become a global CDO champion by 2025...",0,0.0,0.231,0.769,0.5994,1,2020-10-29,2020-10-29 00:00:00
+13,2020-10-29 10:19:00,"Samsung Biologics, full-fledged global expansion...Opens R&D center in the US",0,0.0,0.0,1.0,0.0,0,2020-10-29,2020-10-29 00:00:00
+14,2020-10-29 16:26:00,Samsung Biologics surges in anticipation of Pfizer vaccine 4th in market cap,0,0.0,0.113,0.887,0.1027,1,2020-10-30,2020-10-30 00:00:00
+15,2020-10-29 14:54:00,"Samsung Biologics surges 9% during intraday… 4th place in market cap, beating LG Chem",0,0.188,0.0,0.812,-0.4588,-1,2020-10-29,2020-10-29 00:00:00
+16,2020-10-29 14:39:00,[EDaily N] Samsung Biologics opens R&D center in the US... First overseas expansion,0,0.0,0.0,1.0,0.0,0,2020-10-29,2020-10-29 00:00:00
+17,2020-10-29 14:29:00,"""Pfizer, the corona vaccine is at the end""... Related stocks such as Samsung Biologics surge",0,0.0,0.0,1.0,0.0,0,2020-10-29,2020-10-29 00:00:00
+18,2020-10-29 13:50:00,[Features] Pfizer vaccine-related trend such as Samsung Biologics,0,0.0,0.0,1.0,0.0,0,2020-10-29,2020-10-29 00:00:00
+19,2020-10-28 16:00:00,Samsung Biologics unveils 184.2 billion won contract partner to Eli Lilly,-1,0.0,0.27,0.73,0.5719,1,2020-10-29,2020-10-29 00:00:00
+20,2020-10-28 15:47:00,"Samsung Biologics reveals consignment production contract Eli Lilly & Company, USA",-1,0.0,0.0,1.0,0.0,0,2020-10-28,2020-10-28 00:00:00
+21,2020-10-26 08:56:00,"Samsung Biologics,'Buy' to complete 4th plant expansion and maintenance-Heungkuk Securities",0,0.0,0.196,0.804,0.29600000000000004,1,2020-10-26,2020-10-26 00:00:00
+22,2020-10-25 18:36:00,Samsung Bio opens US R&D center... Scheduled to open in San Francisco on the 29th,0,0.0,0.0,1.0,0.0,0,2020-10-26,2020-10-26 00:00:00
+23,2020-10-24 07:45:00,Samsung Biologics expects full-scale earnings growth from 4Q,0,0.36,0.19399999999999998,0.447,-0.4995,-1,2020-10-24,2020-10-24 00:00:00
+24,2020-10-22 17:17:00,780 billion won Samsung Bio plant 4… Samsung Engineering builds,-1,0.0,0.29100000000000004,0.7090000000000001,0.5719,1,2020-10-23,2020-10-23 00:00:00
+25,2020-10-22 08:48:00,"Samsung Biologics 3Q earnings fall short of market consensus, lower target price",0,0.16699999999999998,0.0,0.833,-0.29600000000000004,-1,2020-10-22,2020-10-22 00:00:00
+26,2020-10-22 07:33:00,Samsung Biologics falls short of 3Q earnings consensus… Target price↓ -KTB,0,0.0,0.0,1.0,0.0,0,2020-10-22,2020-10-22 00:00:00
+27,2020-10-22 08:32:00,"Samsung Bio, 3Q solid operating margin… Decreased performance volatility-Yuan hit",0,0.0,0.151,0.8490000000000001,0.1531,1,2020-10-22,2020-10-22 00:00:00
+28,2020-10-22 08:18:00,"[Click e-Stock] ""Samsung Biologics, unfortunate 3Q… Earnings growth from 4Q""",0,0.449,0.149,0.402,-0.7378,-1,2020-10-22,2020-10-22 00:00:00
+29,2020-10-22 07:59:00,Samsung Biologics expects 4Q earnings to rise-Meritz,0,0.446,0.0,0.5539999999999999,-0.7034,-1,2020-10-22,2020-10-22 00:00:00
+30,2020-10-22 08:09:00,Samsung Biologics falls short of 3Q operating profit forecast... Higher SG&A expenses-Samsung,0,0.0,0.209,0.7909999999999999,0.4404,1,2020-10-22,2020-10-22 00:00:00
+31,2020-10-21 17:53:00,Samsung Engineering received a letter of intent for successful bid for Samsung Biologics Plant 4,1,0.0,0.24100000000000002,0.759,0.5859,1,2020-10-22,2020-10-22 00:00:00
+32,2020-10-21 17:51:00,Samsung Biologics surpassed last year's total sales in the third quarter,1,0.0,0.0,1.0,0.0,0,2020-10-22,2020-10-22 00:00:00
+33,2020-10-21 16:38:00,"Samsung Biologics, accumulated sales of 7895 billion in 3Q… Exceeding last year's overall performance",-1,0.0,0.0,1.0,0.0,0,2020-10-22,2020-10-22 00:00:00
+34,2020-10-21 17:45:00,Samsung Bio's operating profit increased 139% year-on-year,0,0.0,0.5,0.5,0.6124,1,2020-10-22,2020-10-22 00:00:00
+35,2020-10-21 16:46:00,Samsung Biologics surpassed last year's performance in 3 quarters,1,0.0,0.0,1.0,0.0,0,2020-10-22,2020-10-22 00:00:00
+36,2020-10-21 16:08:00,Samsung Bio surpassed last year's sales and operating profit in the third quarter of this year,1,0.0,0.162,0.838,0.4404,1,2020-10-22,2020-10-22 00:00:00
+37,2020-10-21 16:17:00,"Samsung Biologics, 3Q operating profit of 56.5 billion... 139.5% year-on-year↑",-1,0.0,0.244,0.7559999999999999,0.4404,1,2020-10-22,2020-10-22 00:00:00
+38,2020-10-21 15:51:00,"Samsung Biologics, 3Q operating profit of 55.6 billion won...139.46% year-on-year↑",-1,0.0,0.244,0.7559999999999999,0.4404,1,2020-10-21,2020-10-21 00:00:00
+39,2020-10-21 16:05:00,"Samsung Biologics, 3Q operating profit of 56.5 billion won... 139% ↑ compared to the same period last year",-1,0.0,0.153,0.847,0.4404,1,2020-10-22,2020-10-22 00:00:00
+40,2020-10-21 16:03:00,"Samsung Biologics, 3Q operating profit of 56.5 billion won... Compared to the same period last year 139....",-1,0.0,0.153,0.847,0.4404,1,2020-10-22,2020-10-22 00:00:00
+41,2020-10-21 10:08:00,Dinona and Samsung Biologics signed a CDMO for COVID-19 treatment antibody,0,0.0,0.0,1.0,0.0,0,2020-10-21,2020-10-21 00:00:00
+42,2020-10-21 09:47:00,Dinona and Samsung Biologics signed a CDMO for COVID-19 treatment antibody,0,0.0,0.0,1.0,0.0,0,2020-10-21,2020-10-21 00:00:00
+43,2020-10-21 09:17:00,Dinona signs letter of intent with Samsung Biologics to confirm CDMO for COVID-19 antibody,0,0.0,0.0,1.0,0.0,0,2020-10-21,2020-10-21 00:00:00
+44,2020-10-21 08:51:00,Dinona and Samsung Biologics signed a CDMO for COVID-19 treatment antibody,0,0.0,0.0,1.0,0.0,0,2020-10-21,2020-10-21 00:00:00
+45,2020-10-21 08:20:00,"Kumho HT ""Dinona, Samsung Biologics and Corona 19 therapeutic antibody CDM...",0,0.0,0.0,1.0,0.0,0,2020-10-21,2020-10-21 00:00:00
+46,2020-10-21 08:07:00,"Kumho HT-Dinona, Samsung Biologics and Corona 19 therapeutic antibody CDMO...",0,0.0,0.0,1.0,0.0,0,2020-10-21,2020-10-21 00:00:00
+47,2020-10-19 08:53:00,Bio-Eleven and Samsung Biologics signed a CDO contract for immuno-cancer drug,0,0.0,0.0,1.0,0.0,0,2020-10-19,2020-10-19 00:00:00
+48,2020-10-19 08:46:00,"Min&G'BioEleven', Samsung Biologics and immune anticancer drug'BN-101A...",0,0.0,0.268,0.732,0.29600000000000004,1,2020-10-19,2020-10-19 00:00:00
+49,2020-10-19 08:19:00,"[Hot-Line] ""Samsung Biologics continues to grow after bottoming in 3Q results...",0,0.0,0.0,1.0,0.0,0,2020-10-19,2020-10-19 00:00:00
+50,2020-10-19 08:03:00,"Samsung Biologics, no reason for embezzlement of executives... ""Time to Buy""-Korea",-1,0.18,0.0,0.82,-0.29600000000000004,-1,2020-10-19,2020-10-19 00:00:00
+51,2020-10-19 07:59:00,Samsung Biologics' long-term growth blueprint will become clear,0,0.0,0.46399999999999997,0.536,0.6369,1,2020-10-19,2020-10-19 00:00:00
+52,2020-10-19 07:59:00,Samsung Biologics' long-term growth blueprint will become clear,0,0.0,0.46399999999999997,0.536,0.6369,1,2020-10-19,2020-10-19 00:00:00
+53,2020-10-19 07:54:00,Samsung Biologics bottoms out in 3Q earnings… Time to Buy-Invest in Korea,0,0.0,0.0,1.0,0.0,0,2020-10-19,2020-10-19 00:00:00
+54,2020-10-15 18:08:00,"Samsung Biologics, president and executive officer charged with embezzlement of 4.7 billion",-1,0.141,0.0,0.8590000000000001,-0.2023,-1,2020-10-16,2020-10-16 00:00:00
+55,2020-10-15 17:31:00,"[Signal] Samsung Biologics ""confirms the fact of prosecution for embezzlement of current executives""",-1,0.21100000000000002,0.0,0.789,-0.4939,-1,2020-10-16,2020-10-16 00:00:00
+56,2020-10-15 17:31:00,"[Signal] Samsung Biologics ""confirms the fact of prosecution for embezzlement of current executives""",-1,0.21100000000000002,0.0,0.789,-0.4939,-1,2020-10-16,2020-10-16 00:00:00
+57,2020-10-15 17:26:00,Samsung Biologics “confirms the fact of prosecution for embezzlement of current executives”,-1,0.225,0.0,0.775,-0.4939,-1,2020-10-16,2020-10-16 00:00:00
+58,2020-10-15 17:17:00,"Samsung Biologics ""Prosecution of Seoul Central District Prosecutors' Office""",-1,0.28600000000000003,0.0,0.7140000000000001,-0.4939,-1,2020-10-16,2020-10-16 00:00:00
+59,2020-10-07 09:44:00,"Samsung Biologics, on the news of consignment production of 20 billion won",-1,0.0,0.252,0.748,0.5719,1,2020-10-7,2020-10-07 00:00:00
+60,2020-10-07 08:33:00,"Won an order from Samsung Biologics, entered phase 3 clinical trials for COVID-19 antibody treatment",0,0.0,0.222,0.778,0.5719,1,2020-10-7,2020-10-07 00:00:00
+61,2020-10-07 07:59:00,Samsung Bio increases the value of ordered items and strengthens biosimilar competitiveness-Meritz,1,0.0,0.35100000000000003,0.649,0.6597,1,2020-10-7,2020-10-07 00:00:00
+62,2020-10-06 17:38:00,"[Securities Market Disclosure] Hanjin Heavy Industries / Hyundai Mipo Shipbuilding / Samsung Biologics, etc.",0,0.0,0.0,1.0,0.0,0,2020-10-7,2020-10-07 00:00:00
+63,2020-09-28 17:03:00,Samsung Biologics participates in COVID-19 overcoming campaign,0,0.0,0.0,1.0,0.0,0,2020-9-29,2020-09-29 00:00:00
+64,2020-09-27 11:06:00,"[Weekly HOT event] Samsung Bio, business conditions and performance'positive'… Individual net purchase of 95.7 billion won",-1,0.0,0.198,0.802,0.5719,1,2020-9-27,2020-09-27 00:00:00
+65,2020-09-24 15:19:00,"[E-Daily N] Samsung Biologics, consignment development of new drugs for retinal diseases of Kanaf Inc.",0,0.0,0.0,1.0,0.0,0,2020-9-24,2020-09-24 00:00:00
+66,2020-09-24 10:10:00,Samsung Biologics signs a contract for consignment development (CDO) for retinal disease treatment,0,0.0,0.0,1.0,0.0,0,2020-9-24,2020-09-24 00:00:00
+67,2020-09-24 09:56:00,"Samsung Biologics, consigned development of a new drug for retinal diseases of Canaf",0,0.0,0.0,1.0,0.0,0,2020-9-24,2020-09-24 00:00:00
+68,2020-09-24 09:27:00,"Samsung Biologics, consigned development contract for retinal disease treatment with a domestic bio-venture",0,0.0,0.0,1.0,0.0,0,2020-9-24,2020-09-24 00:00:00
+69,2020-09-24 09:25:00,Samsung Bio helps domestic bio-venture retinal disease development,0,0.0,0.271,0.7290000000000001,0.3818,1,2020-9-24,2020-09-24 00:00:00
+70,2020-09-24 09:22:00,Samsung Bio to develop retinal therapy in partnership with bio-venture,0,0.0,0.0,1.0,0.0,0,2020-9-24,2020-09-24 00:00:00
+71,2020-09-24 09:13:00,Samsung Biologics signs a CDO contract with Kanaf for a new retinal disease drug,0,0.0,0.0,1.0,0.0,0,2020-9-24,2020-09-24 00:00:00
+72,2020-09-23 16:11:00,Peptron and Samsung Biologics signed a consignment development contract,0,0.0,0.0,1.0,0.0,0,2020-9-24,2020-09-24 00:00:00
+73,2020-09-23 14:37:00,Peptron commissions Samsung Biologics to develop anti-cancer antibody treatment,-1,0.0,0.0,1.0,0.0,0,2020-9-23,2020-09-23 00:00:00
+74,2020-09-23 14:18:00,Peptron and Samsung Biologics signed a CDO contract for anticancer antibody treatment,0,0.0,0.0,1.0,0.0,0,2020-9-23,2020-09-23 00:00:00
+75,2020-09-23 14:06:00,"Peptron, Samsung Biologics and anti-cancer antibody treatment'PAb001' consigned development ...",0,0.0,0.0,1.0,0.0,0,2020-9-23,2020-09-23 00:00:00
+76,2020-09-23 11:41:00,"Peptron, Samsung Biologics and anti-cancer antibody treatment'PAb001' consigned development ...",0,0.0,0.0,1.0,0.0,0,2020-9-23,2020-09-23 00:00:00
+77,2020-09-23 11:39:00,Peptron and Samsung Biologics signed an antibody treatment consignment development contract,0,0.0,0.0,1.0,0.0,0,2020-9-23,2020-09-23 00:00:00
+78,2020-09-22 17:51:00,Samsung Biologics and AstraZeneca sign a contract for pharmaceutical production,-1,0.0,0.0,1.0,0.0,0,2020-9-23,2020-09-23 00:00:00
+79,2020-09-22 09:42:00,Samsung Biologics is strong on news of 400 billion won CMO contract,0,0.0,0.41200000000000003,0.588,0.7906,1,2020-9-22,2020-09-22 00:00:00
+80,2020-09-22 09:13:00,"[Features] Samsung Bio, strong in signing a contract for consignment production of 380 billion drugs",0,0.0,0.20199999999999999,0.7979999999999999,0.5106,1,2020-9-22,2020-09-22 00:00:00
+81,2020-09-22 09:06:00,"Samsung Biologics, up 3%… Large CMO long-term supply contract",0,0.0,0.0,1.0,0.0,0,2020-9-22,2020-09-22 00:00:00
+82,2020-09-22 09:01:00,Samsung Biologics and AstraZenekawa CMO long-term supply contract,0,0.0,0.0,1.0,0.0,0,2020-9-22,2020-09-22 00:00:00
+83,2020-09-22 08:24:00,Samsung Biologics and AstraZeneca signed a contract for consignment production and supply of pharmaceuticals,-1,0.0,0.0,1.0,0.0,0,2020-9-22,2020-09-22 00:00:00
+84,2020-09-22 08:06:00,[Disclosure] Samsung Biologics and AstraZeneca signed a large-scale consignment production contract,0,0.0,0.0,1.0,0.0,0,2020-9-22,2020-09-22 00:00:00
+85,2020-09-22 08:03:00,[Breaking News] Samsung Bio and AstraZeneca signed a CMO contract worth 385 billion won,-1,0.0,0.337,0.6629999999999999,0.6808,1,2020-9-22,2020-09-22 00:00:00
+86,2020-09-22 17:45:00,Samsung Bio also won consignment production orders... AstraZeneca and 385 billion won,-1,0.0,0.425,0.575,0.8126,1,2020-9-23,2020-09-23 00:00:00
+87,2020-09-22 08:24:00,Samsung Biologics and AstraZeneca signed a contract for consignment production and supply of pharmaceuticals,-1,0.0,0.0,1.0,0.0,0,2020-9-22,2020-09-22 00:00:00
+88,2020-09-22 08:13:00,Samsung Biologics and AstraZeneca signed a contract for consignment production,0,0.0,0.0,1.0,0.0,0,2020-9-22,2020-09-22 00:00:00
+89,2020-09-22 08:12:00,Samsung Bio and AstraZeneca signed a main contract with CMO of 382 billion,-1,0.0,0.0,1.0,0.0,0,2020-9-22,2020-09-22 00:00:00
+90,2020-09-22 08:02:00,Samsung Bio and AstraZeneca deal with biopharmaceuticals worth 382 billion won,-1,0.0,0.384,0.616,0.6808,1,2020-9-22,2020-09-22 00:00:00
+91,2020-09-22 07:53:00,Samsung Biologics and AstraZeneca signed a consignment production contract,0,0.0,0.0,1.0,0.0,0,2020-9-22,2020-09-22 00:00:00
+92,2020-09-22 16:04:00,"Why is Samsung Biologics giving and receiving letters of intent first, not the main contract?",0,0.0,0.146,0.8540000000000001,0.34,1,2020-9-23,2020-09-23 00:00:00
+93,2020-09-22 08:39:00,Samsung Bio and AstraZeneca signed a main contract with CMO of 382 billion,-1,0.0,0.0,1.0,0.0,0,2020-9-22,2020-09-22 00:00:00
+94,2020-09-17 14:44:00,"[EDaily N] Samsung Biologics, consigned development of new anticancer drug candidates, etc.",0,0.0,0.0,1.0,0.0,0,2020-9-17,2020-09-17 00:00:00
+95,2020-09-17 14:34:00,Samsung Biologics to develop anticancer drugs in partnership with bioventures,0,0.0,0.0,1.0,0.0,0,2020-9-17,2020-09-17 00:00:00
+96,2020-09-17 09:36:00,"Samsung Biologics, consigned development of new anticancer drug candidates",0,0.0,0.0,1.0,0.0,0,2020-9-17,2020-09-17 00:00:00
+97,2020-09-17 09:48:00,"Samsung Biologics, consigned development of Panoros anticancer drug candidate",0,0.0,0.0,1.0,0.0,0,2020-9-17,2020-09-17 00:00:00
+98,2020-09-17 09:36:00,"Samsung Biologics, consigned development of new anticancer drug candidates",0,0.0,0.0,1.0,0.0,0,2020-9-17,2020-09-17 00:00:00
+99,2020-09-17 09:28:00,Samsung Biologics signs a contract for consignment development of new anticancer drug candidates,0,0.0,0.0,1.0,0.0,0,2020-9-17,2020-09-17 00:00:00
+100,2020-09-17 09:11:00,"Samsung Biologics, consigned development of Panoros anticancer drug candidate",0,0.0,0.0,1.0,0.0,0,2020-9-17,2020-09-17 00:00:00
+101,2020-09-10 08:21:00,"""Reduce Celltrion"" ""Increase Samsung Bio""... JP Morgan Discrimination Why?",0,0.0,0.408,0.5920000000000001,0.5904,1,2020-9-10,2020-09-10 00:00:00
+102,2020-09-07 09:23:00,"""Corona 19 antibody treatment attention…Celltrion, Samsung Bio, etc.""",0,0.0,0.0,1.0,0.0,0,2020-9-7,2020-09-07 00:00:00
+103,2020-09-05 15:46:00,"What if Samsung Biologics took a fraudulent account? ""What to close the company door""",-1,0.21100000000000002,0.0,0.789,-0.4939,-1,2020-9-5,2020-09-05 00:00:00
+104,2020-09-01 08:44:00,Samsung Biologics consignment production Beer Corona 19 antibody begins phase 2 and 3 clinical trials,0,0.0,0.0,1.0,0.0,0,2020-9-1,2020-09-01 00:00:00
+105,2020-08-25 15:36:00,Pamexin and Samsung Biologics signed PMC-403 consignment development and production contract,0,0.0,0.0,1.0,0.0,0,2020-8-25,2020-08-25 00:00:00
+106,2020-08-25 09:38:00,"Pamexin, Samsung Biologics and'PMC-403' consigned development and production contract",0,0.0,0.0,1.0,0.0,0,2020-8-25,2020-08-25 00:00:00
+107,2020-08-24 15:04:00,'Samsung Biologics' aiming for second place in the KOSPI market cap... Can you get an ankle in 檢?,0,0.0,0.0,1.0,0.0,0,2020-8-24,2020-08-24 00:00:00
+108,2020-08-21 06:54:00,"[Kim Dae-sung's stock analysis] Samsung Bio's market cap of 52,535 billion won... Market Cap 2nd place...",-1,0.0,0.0,1.0,0.0,0,2020-8-21,2020-08-21 00:00:00
+109,2020-08-20 17:40:00,Samsung Biologics surpassed SK Hynix and ranked second in market cap,1,0.0,0.0,1.0,0.0,0,2020-8-21,2020-08-21 00:00:00
+110,2020-08-20 16:29:00,Samsung Biologics surpasses SK Hynix and ranks second in market cap,1,0.0,0.0,1.0,0.0,0,2020-8-21,2020-08-21 00:00:00
+111,2020-08-20 11:21:00,Samsung Biologics advances to second place in the market cap Semiconductor loses and bio rises,-1,0.141,0.0,0.8590000000000001,-0.3182,-1,2020-8-20,2020-08-20 00:00:00
+112,2020-08-20 10:14:00,[Features] Samsung Biologics ranked second in the market cap... SK hynix aside,0,0.0,0.0,1.0,0.0,0,2020-8-20,2020-08-20 00:00:00
+113,2020-08-20 09:58:00,[Features] Samsung Biologics ranks second in market cap over SK Hynix,0,0.0,0.0,1.0,0.0,0,2020-8-20,2020-08-20 00:00:00
+114,2020-08-20 09:55:00,"[itM-characteristic stock] Samsung Bio, ranked second in market cap beyond SK Hynix... The beginning of the year...",0,0.0,0.0,1.0,0.0,0,2020-8-20,2020-08-20 00:00:00
+115,2020-08-20 09:50:00,Samsung Biologics ranks second in intraday market cap... Beat hynix,0,0.0,0.0,1.0,0.0,0,2020-8-20,2020-08-20 00:00:00
+116,2020-08-20 09:36:00,Samsung Biologics ranked 2nd in the intraday market cap… SK hynix aside,0,0.0,0.0,1.0,0.0,0,2020-8-20,2020-08-20 00:00:00
+117,2020-08-20 09:29:00,"[Features] Samsung Biologics, surpassing SK Hynix, ranked 2nd in the market cap",1,0.0,0.0,1.0,0.0,0,2020-8-20,2020-08-20 00:00:00
+118,2020-08-20 09:28:00,"Samsung Biologics, surpassing SK Hynix, rises to second place in market cap",1,0.0,0.0,1.0,0.0,0,2020-8-20,2020-08-20 00:00:00
+119,2020-08-20 09:17:00,[Features] Highly marched Samsung Biologics ranked 2nd in the market cap,0,0.0,0.0,1.0,0.0,0,2020-8-20,2020-08-20 00:00:00
+120,2020-08-20 09:37:00,"KOSPI, decline in personal and foreign purchases… ""Samsung Biologics market cap 2nd place""",0,0.0,0.0,1.0,0.0,0,2020-8-20,2020-08-20 00:00:00
+121,2020-08-19 05:01:00,The logic of ‘inflating corporate value’ that has become overshadowed by the growth of Samsung Bio,-1,0.0,0.14800000000000002,0.852,0.3818,1,2020-8-19,2020-08-19 00:00:00
+122,2020-08-18 08:39:00,Samsung Biologics secures the largest global CMO facility... Target price of 1 million won,-1,0.0,0.353,0.647,0.7184,1,2020-8-18,2020-08-18 00:00:00
+123,2020-08-15 11:31:00,"[Pharmaceutical Bio] Samsung Biologics, the world's largest plant in Songdo 4 ...",-1,0.0,0.0,1.0,0.0,0,2020-8-15,2020-08-15 00:00:00
+124,2020-08-13 09:07:00,"[Attack on industry] Entertainment stock, casino stock, Samsung Biologics",0,0.0,0.259,0.741,0.4215,1,2020-8-13,2020-08-13 00:00:00
+125,2020-08-12 10:50:00,Samsung Biologics'Strengthened' for the Second Day on News of Songdo Plant Expansion,1,0.0,0.0,1.0,0.0,0,2020-8-12,2020-08-12 00:00:00
+126,2020-08-12 08:32:00,"[Hot-Line] ""Samsung Biologics, 4 factories larger than expected""... neck...",0,0.0,0.0,1.0,0.0,0,2020-8-12,2020-08-12 00:00:00
+127,2020-08-12 08:22:00,"Samsung Biologics, 4th factory good news... Target price↑-raising",1,0.0,0.293,0.7070000000000001,0.4404,1,2020-8-12,2020-08-12 00:00:00
+128,2020-08-12 08:17:00,Samsung Biologics New Factory Expectations↑… Target price '1 million won'-KTB,-1,0.0,0.0,1.0,0.0,0,2020-8-12,2020-08-12 00:00:00
+129,2020-08-12 08:00:00,"[Click e-event] ""The 4th factory bigger than expected...Samsung Biologics goes 1 million won...",-1,0.0,0.0,1.0,0.0,0,2020-8-12,2020-08-12 00:00:00
+130,2020-08-12 07:31:00,Samsung Bio shouts'super gap' in Songdo...,0,0.0,0.0,1.0,0.0,0,2020-8-12,2020-08-12 00:00:00
+131,2020-08-11 20:01:00,"[Securities Market Disclosure] Bumyang Kunyoung / CI Tech / Samsung Biologics, etc.",0,0.0,0.0,1.0,0.0,0,2020-8-12,2020-08-12 00:00:00
+132,2020-08-11 18:17:00,"Jae-Yong Lee, Bio is also super gap... To build the world's largest 4 factories in Songdo [Samsung Bio,...",0,0.0,0.196,0.804,0.5994,1,2020-8-12,2020-08-12 00:00:00
+133,2020-08-11 15:44:00,Samsung Bio's future investment... To build Songdo 4 factory with 1.74 trillion won,-1,0.0,0.252,0.748,0.5719,1,2020-8-11,2020-08-11 00:00:00
+134,2020-08-11 17:39:00,"[Securities Market Disclosure] Samsung Biologics / Hanon System / Cosmax, etc.",0,0.0,0.0,1.0,0.0,0,2020-8-12,2020-08-12 00:00:00
+135,2020-08-11 17:32:00,Samsung Bio to build the world's largest factory in Songdo,0,0.0,0.0,1.0,0.0,0,2020-8-12,2020-08-12 00:00:00
+136,2020-08-11 11:33:00,"Establishment of'Super Plant' with an investment of 1.7 trillion won, the big picture of Samsung Biologics",-1,0.0,0.198,0.802,0.5719,1,2020-8-11,2020-08-11 00:00:00
+137,2020-08-11 10:59:00,"Kim Tae-han, president of Samsung Biologics, ""The 4th factory with a scale of 260,000 ℓ...",0,0.0,0.0,1.0,0.0,0,2020-8-11,2020-08-11 00:00:00
+138,2020-08-11 16:16:00,"Korea's ""Samsung Bio strengthens growth potential in its 4th plant""... Target price '1 million won'",1,0.0,0.43700000000000006,0.563,0.8519,1,2020-8-12,2020-08-12 00:00:00
+139,2020-08-11 16:09:00,CMO market expected to grow 13.4% annually... Reasons for expansion of Samsung Bio,0,0.0,0.0,1.0,0.0,0,2020-8-12,2020-08-12 00:00:00
+140,2020-08-11 16:05:00,Samsung Biologics expands its 4th factory in Songdo by 2023...,0,0.0,0.135,0.865,0.1027,1,2020-8-12,2020-08-12 00:00:00
+141,2020-08-11 14:15:00,"[Features] Samsung Bio, on the rise in the establishment of a new plant of KRW 1.74 trillion",-1,0.0,0.0,1.0,0.0,0,2020-8-11,2020-08-11 00:00:00
+142,2020-08-11 10:34:00,Samsung Biologics plans to build 4th factory in Songdo complex,0,0.0,0.0,1.0,0.0,0,2020-8-11,2020-08-11 00:00:00
+143,2020-08-11 09:31:00,Samsung Biologics opens 4th factory in Songdo... Investment of 1.7 trillion won (complementary),-1,0.0,0.23600000000000002,0.764,0.5719,1,2020-8-11,2020-08-11 00:00:00
+144,2020-08-11 09:22:00,"[Disclosure] Samsung Biologics establishes 4th factory in Songdo, Incheon.. invested 1.74 trillion won",-1,0.0,0.23600000000000002,0.764,0.5719,1,2020-8-11,2020-08-11 00:00:00
+145,2020-08-11 09:20:00,"[Features] Samsung Bio, surged on news of new plant 4",0,0.0,0.0,1.0,0.0,0,2020-8-11,2020-08-11 00:00:00
+146,2020-08-11 09:15:00,"Samsung Biologics builds 4th factory in Songdo, spending 1.7 trillion won",-1,0.0,0.27,0.73,0.5719,1,2020-8-11,2020-08-11 00:00:00
+147,2020-08-11 09:14:00,"Samsung Biologics opens 4th factory in Songdo, Incheon... Investment of 1.74 trillion won (complementary...",-1,0.0,0.222,0.778,0.5719,1,2020-8-11,2020-08-11 00:00:00
+148,2020-08-11 09:04:00,[Breaking News] Samsung Biologics opens its 4th factory in Songdo... Input of 1.74 trillion won,-1,0.0,0.209,0.7909999999999999,0.5719,1,2020-8-11,2020-08-11 00:00:00
+149,2020-08-11 09:04:00,[Breaking News] Samsung Biologics opens its 4th factory in Songdo... Input of 1.74 trillion won,-1,0.0,0.209,0.7909999999999999,0.5719,1,2020-8-11,2020-08-11 00:00:00
+150,2020-08-11 08:52:00,"[Breaking News] Samsung Biologics, invested 1.74 trillion won to establish 4th factory",-1,0.0,0.252,0.748,0.5719,1,2020-8-11,2020-08-11 00:00:00
+151,2020-08-11 08:52:00,"[Breaking News] Samsung Biologics, invested 1.74 trillion won to establish 4th factory",-1,0.0,0.252,0.748,0.5719,1,2020-8-11,2020-08-11 00:00:00
+152,2020-08-11 08:51:00,Samsung Biologics invests 1.7 trillion won in new plant 4,-1,0.0,0.316,0.684,0.5719,1,2020-8-11,2020-08-11 00:00:00
+153,2020-08-11 10:41:00,"Samsung Biologics secures the world's largest biopharmaceutical production base... 27,000 people...",-1,0.0,0.187,0.813,0.3182,1,2020-8-11,2020-08-11 00:00:00
+154,2020-08-11 10:37:00,"Samsung Biologics establishes 4th factory in Songdo, Incheon... Investment of KRW 1.74 trillion (total)",-1,0.0,0.0,1.0,0.0,0,2020-8-11,2020-08-11 00:00:00
+155,2020-08-11 10:09:00,"Samsung Bio Plant 4, Sangam Stadium 1.5 times the world's largest...",0,0.0,0.0,1.0,0.0,0,2020-8-11,2020-08-11 00:00:00
+156,2020-08-11 10:06:00,"[Features] ST Cube, Samsung Biologics Songdo 4th Factory established… Consigned development system...",0,0.0,0.0,1.0,0.0,0,2020-8-11,2020-08-11 00:00:00
+157,2020-08-11 10:03:00,Samsung Biologics to expand the 4th factory by investing KRW 1.74 trillion,-1,0.0,0.17300000000000001,0.8270000000000001,0.3182,1,2020-8-11,2020-08-11 00:00:00
+158,2020-08-11 10:20:00,"Samsung Biologics to build 4th factory in Songdo,'Sangam Stadium 1.5 times'",0,0.0,0.0,1.0,0.0,0,2020-8-11,2020-08-11 00:00:00
+159,2020-08-11 10:13:00,"Samsung Biologics, 3% stronger on news of Songdo plant expansion",1,0.0,0.22399999999999998,0.7759999999999999,0.3818,1,2020-8-11,2020-08-11 00:00:00
+160,2020-08-11 10:05:00,Samsung Biologics is strong on news of factory expansion,1,0.0,0.292,0.708,0.5106,1,2020-8-11,2020-08-11 00:00:00
+161,2020-08-11 08:45:00,"[Breaking News] Samsung Biologics will expand its 4th factory in Songdo by 2023...1 trillion 7,...",-1,0.0,0.141,0.8590000000000001,0.3182,1,2020-8-11,2020-08-11 00:00:00
+162,2020-08-11 09:18:00,"[Features] Samsung Biologics, on the rise in the news of new additional factories in Songdo, Incheon",0,0.0,0.0,1.0,0.0,0,2020-8-11,2020-08-11 00:00:00
+163,2020-08-11 09:05:00,"Samsung Biologics, a new factory with a scale of 250,000 liters, investing 1.7 trillion...",-1,0.0,0.0,1.0,0.0,0,2020-8-11,2020-08-11 00:00:00
+164,2020-08-11 08:41:00,[Breaking News] Samsung Bio to invest 1.7 trillion won by 2023 to establish 4th factory,-1,0.0,0.209,0.7909999999999999,0.5719,1,2020-8-11,2020-08-11 00:00:00
+165,2020-08-10 15:51:00,How likely is Samsung Biologics to win an order for biogen dementia treatment?,1,0.0,0.24100000000000002,0.759,0.5859,1,2020-8-10,2020-08-10 00:00:00
+166,2020-08-06 10:05:00,"Samsung Biologics, consignment production of COVID-19 treatment worth 438 billion won",-1,0.0,0.384,0.616,0.6808,1,2020-8-6,2020-08-06 00:00:00
+167,2020-08-05 20:22:00,"Samsung Biologics, GSK and COVID-19 treatment contract production contract",0,0.0,0.0,1.0,0.0,0,2020-8-6,2020-08-06 00:00:00
+168,2020-08-05 19:44:00,Samsung Biologics becomes a production base for'corona treatment',0,0.0,0.0,1.0,0.0,0,2020-8-6,2020-08-06 00:00:00
+169,2020-08-05 19:12:00,"Samsung Biologics, a trustee of 440 billion won worth of corona treatment",-1,0.0,0.48700000000000004,0.513,0.765,1,2020-8-6,2020-08-06 00:00:00
+170,2020-08-05 17:16:00,Samsung Biologics corrects contract partner for pharmaceutical production contract,-1,0.0,0.0,1.0,0.0,0,2020-8-6,2020-08-06 00:00:00
+171,2020-08-05 17:29:00,Samsung Biologics signs a contract for consignment production of drugs worth KRW 439.4 billion,-1,0.0,0.13699999999999998,0.863,0.2263,1,2020-8-6,2020-08-06 00:00:00
+172,2020-08-05 17:24:00,Samsung Bio and global pharmaceutical company GSK contracted production of 400 billion units,-1,0.0,0.0,1.0,0.0,0,2020-8-6,2020-08-06 00:00:00
+173,2020-08-05 17:14:00,"[Disclosure] Samsung Bio, contracted with global pharmaceutical company GSK to produce 400 billion units ...",-1,0.0,0.0,1.0,0.0,0,2020-8-6,2020-08-06 00:00:00
+174,2020-08-05 15:14:00,"[EDaily N] Samsung Bio launches its own cell line,'S Choice' with outstanding productivity...",0,0.0,0.25,0.75,0.6124,1,2020-8-5,2020-08-05 00:00:00
+175,2020-08-05 11:46:00,'One-Stop Service' Samsung Bio wins with self-developed cell line that increases productivity,1,0.0,0.252,0.748,0.5719,1,2020-8-5,2020-08-05 00:00:00
+176,2020-08-05 11:43:00,Samsung Bio succeeds in developing cell line Start super-gap strategy,1,0.0,0.262,0.738,0.4939,1,2020-8-5,2020-08-05 00:00:00
+177,2020-08-05 11:10:00,The first button to develop antibody drugs was filled... Samsung Bio's own cell line development,-1,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+178,2020-08-05 11:05:00,Samsung Bio's own cell line development success “I can save royalty,1,0.0,0.434,0.5660000000000001,0.7845,1,2020-8-5,2020-08-05 00:00:00
+179,2020-08-05 09:48:00,"[Featured stock] `Unveiled its own cell line` Samsung Biologics, rising by 5%",0,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+180,2020-08-05 09:20:00,"Samsung Biologics develops its own'cell line', the first button to develop antibody drugs",0,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+181,2020-08-05 09:04:00,"Samsung Biologics commercializes its own cell line… ""It will increase the success rate of new drugs""",1,0.0,0.3,0.7,0.7184,1,2020-8-5,2020-08-05 00:00:00
+182,2020-08-05 13:56:00,"[Features] Samsung Biologics, increased by 6% during intraday...Return to 3rd place in market cap",0,0.0,0.139,0.861,0.2732,1,2020-8-5,2020-08-05 00:00:00
+183,2020-08-05 09:08:00,"Samsung Biologics, the efficiency of new drug development for its own cell line'S Choice'↑",0,0.0,0.161,0.8390000000000001,0.3612,1,2020-8-5,2020-08-05 00:00:00
+184,2020-08-05 09:02:00,"Samsung Biologics unveils its own cell line,'S Choice'",0,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+185,2020-08-05 09:02:00,"Samsung Biologics unveils its own cell line,'S Choice'",0,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+186,2020-08-05 00:34:00,"[Public announcement of securities] (4th) Samsung Biologics, etc.",0,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+187,2020-08-04 17:44:00,[Securities Market Disclosure] Samsung Biologics,0,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+188,2020-08-04 17:11:00,"Samsung Biologics, consigned production contract with US pharmaceutical company worth 22.5 billion won",-1,0.0,0.337,0.6629999999999999,0.6808,1,2020-8-5,2020-08-05 00:00:00
+189,2020-08-04 16:36:00,Samsung Bio signs a contract for consignment production of 22.5 billion KRW,-1,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+190,2020-08-04 16:35:00,"Samsung Biologics, consignment production of US-based pharmaceutical companies worth 22.5 billion won",-1,0.0,0.359,0.6409999999999999,0.6808,1,2020-8-5,2020-08-05 00:00:00
+191,2020-08-04 16:27:00,"Samsung Bio, US pharmaceutical company consignment production contract of 22.5 billion won",-1,0.0,0.252,0.748,0.5719,1,2020-8-5,2020-08-05 00:00:00
+192,2020-08-04 16:10:00,"Samsung Biologics, consignment production contract of 22.5 billion won with US pharmaceutical companies",-1,0.0,0.23600000000000002,0.764,0.5719,1,2020-8-5,2020-08-05 00:00:00
+193,2020-07-28 16:40:00,Samsung Biologics signs a CMO contract with a US pharmaceutical company worth KRW 179.5 billion,-1,0.0,0.13699999999999998,0.863,0.2263,1,2020-7-29,2020-07-29 00:00:00
+194,2020-07-28 15:54:00,"Samsung Biologics, consignment production contract of 179.5 billion won with US pharmaceutical companies",-1,0.0,0.23600000000000002,0.764,0.5719,1,2020-7-28,2020-07-28 00:00:00
+195,2020-07-28 15:43:00,"Samsung Biologics, signed a consignment production contract worth 179.5 billion won",-1,0.0,0.41200000000000003,0.588,0.6808,1,2020-7-28,2020-07-28 00:00:00
+196,2020-07-28 15:54:00,"Samsung Biologics, consignment production contract of 179.5 billion won with US pharmaceutical companies",-1,0.0,0.23600000000000002,0.764,0.5719,1,2020-7-28,2020-07-28 00:00:00
+197,2020-07-28 15:48:00,Samsung Biologics signs supply contract with US pharmaceutical company worth 1794 billion won,-1,0.0,0.337,0.6629999999999999,0.6808,1,2020-7-28,2020-07-28 00:00:00
+198,2020-07-27 19:33:00,Samsung Biologics increases contract amount to 57.1 billion won in US Cytodyne commissioned production...,-1,0.0,0.222,0.778,0.5719,1,2020-7-28,2020-07-28 00:00:00
+199,2020-07-26 08:42:00,"Korea Investment & Securities “Samsung Biologics target price of 840,000 won”",0,0.0,0.196,0.804,0.29600000000000004,1,2020-7-26,2020-07-26 00:00:00
+200,2020-09-22 09:42:00,Samsung Biologics is strong on news of 400 billion won CMO contract,0,0.0,0.41200000000000003,0.588,0.7906,1,2020-9-22,2020-09-22 00:00:00
+201,2020-09-22 09:13:00,"[Features] Samsung Bio, strong in signing a contract for consignment production of 380 billion drugs",0,0.0,0.20199999999999999,0.7979999999999999,0.5106,1,2020-9-22,2020-09-22 00:00:00
+202,2020-09-22 09:06:00,"Samsung Biologics, up 3%… Large CMO long-term supply contract",0,0.0,0.0,1.0,0.0,0,2020-9-22,2020-09-22 00:00:00
+203,2020-09-22 09:01:00,Samsung Biologics and AstraZenekawa CMO long-term supply contract,0,0.0,0.0,1.0,0.0,0,2020-9-22,2020-09-22 00:00:00
+204,2020-09-22 08:24:00,Samsung Biologics and AstraZeneca signed a contract for consignment production and supply of pharmaceuticals,-1,0.0,0.0,1.0,0.0,0,2020-9-22,2020-09-22 00:00:00
+205,2020-09-22 08:06:00,[Disclosure] Samsung Biologics and AstraZeneca signed a large-scale consignment production contract,0,0.0,0.0,1.0,0.0,0,2020-9-22,2020-09-22 00:00:00
+206,2020-09-22 08:03:00,[Breaking News] Samsung Bio and AstraZeneca signed a CMO contract worth 385 billion won,-1,0.0,0.337,0.6629999999999999,0.6808,1,2020-9-22,2020-09-22 00:00:00
+207,2020-09-22 08:39:00,Samsung Bio and AstraZeneca signed a main contract with CMO of 382 billion,-1,0.0,0.0,1.0,0.0,0,2020-9-22,2020-09-22 00:00:00
+208,2020-09-22 08:24:00,Samsung Biologics and AstraZeneca signed a contract for consignment production and supply of pharmaceuticals,-1,0.0,0.0,1.0,0.0,0,2020-9-22,2020-09-22 00:00:00
+209,2020-09-22 08:13:00,Samsung Biologics and AstraZeneca signed a contract for consignment production,0,0.0,0.0,1.0,0.0,0,2020-9-22,2020-09-22 00:00:00
+210,2020-09-22 08:12:00,Samsung Bio and AstraZeneca signed a main contract with CMO of 382 billion,-1,0.0,0.0,1.0,0.0,0,2020-9-22,2020-09-22 00:00:00
+211,2020-09-22 08:02:00,Samsung Bio and AstraZeneca deal with biopharmaceuticals worth 382 billion won,-1,0.0,0.384,0.616,0.6808,1,2020-9-22,2020-09-22 00:00:00
+212,2020-09-22 07:53:00,Samsung Biologics and AstraZeneca signed a consignment production contract,0,0.0,0.0,1.0,0.0,0,2020-9-22,2020-09-22 00:00:00
+213,2020-09-17 14:44:00,"[EDaily N] Samsung Biologics, consigned development of new anticancer drug candidates, etc.",0,0.0,0.0,1.0,0.0,0,2020-9-17,2020-09-17 00:00:00
+214,2020-09-17 14:34:00,Samsung Biologics to develop anticancer drugs in partnership with bioventures,0,0.0,0.0,1.0,0.0,0,2020-9-17,2020-09-17 00:00:00
+215,2020-09-17 09:36:00,"Samsung Biologics, consigned development of new anticancer drug candidates",0,0.0,0.0,1.0,0.0,0,2020-9-17,2020-09-17 00:00:00
+216,2020-09-17 09:48:00,"Samsung Biologics, consigned development of Panoros anticancer drug candidate",0,0.0,0.0,1.0,0.0,0,2020-9-17,2020-09-17 00:00:00
+217,2020-09-17 09:36:00,"Samsung Biologics, consigned development of new anticancer drug candidates",0,0.0,0.0,1.0,0.0,0,2020-9-17,2020-09-17 00:00:00
+218,2020-09-17 09:28:00,Samsung Biologics signs a contract for consignment development of new anticancer drug candidates,0,0.0,0.0,1.0,0.0,0,2020-9-17,2020-09-17 00:00:00
+219,2020-09-17 09:11:00,"Samsung Biologics, consigned development of Panoros anticancer drug candidate",0,0.0,0.0,1.0,0.0,0,2020-9-17,2020-09-17 00:00:00
+220,2020-09-10 08:21:00,"""Reduce Celltrion"" ""Increase Samsung Bio""... JP Morgan Discrimination Why?",0,0.0,0.408,0.5920000000000001,0.5904,1,2020-9-10,2020-09-10 00:00:00
+221,2020-09-07 09:23:00,"""Corona 19 antibody treatment attention…Celltrion, Samsung Bio, etc.""",0,0.0,0.0,1.0,0.0,0,2020-9-7,2020-09-07 00:00:00
+222,2020-09-05 15:46:00,"What if Samsung Biologics took a fraudulent account? ""What to close the company door""",-1,0.21100000000000002,0.0,0.789,-0.4939,-1,2020-9-5,2020-09-05 00:00:00
+223,2020-09-01 08:44:00,Samsung Biologics consignment production Beer Corona 19 antibody begins phase 2 and 3 clinical trials,0,0.0,0.0,1.0,0.0,0,2020-9-1,2020-09-01 00:00:00
+224,2020-08-25 15:36:00,Pamexin and Samsung Biologics signed PMC-403 consignment development and production contract,0,0.0,0.0,1.0,0.0,0,2020-8-25,2020-08-25 00:00:00
+225,2020-08-25 09:38:00,"Pamexin, Samsung Biologics and'PMC-403' consigned development and production contract",0,0.0,0.0,1.0,0.0,0,2020-8-25,2020-08-25 00:00:00
+226,2020-09-22 08:03:00,[Breaking News] Samsung Bio and AstraZeneca signed a CMO contract worth 385 billion won,-1,0.0,0.337,0.6629999999999999,0.6808,1,2020-9-22,2020-09-22 00:00:00
+227,2020-09-22 08:02:00,Samsung Bio and AstraZeneca deal with biopharmaceuticals worth 382 billion won,-1,0.0,0.384,0.616,0.6808,1,2020-9-22,2020-09-22 00:00:00
+228,2020-09-22 07:53:00,Samsung Biologics and AstraZeneca signed a consignment production contract,0,0.0,0.0,1.0,0.0,0,2020-9-22,2020-09-22 00:00:00
+229,2020-09-17 14:44:00,"[EDaily N] Samsung Biologics, consigned development of new anticancer drug candidates, etc.",0,0.0,0.0,1.0,0.0,0,2020-9-17,2020-09-17 00:00:00
+230,2020-09-17 14:34:00,Samsung Biologics to develop anticancer drugs in partnership with bioventures,0,0.0,0.0,1.0,0.0,0,2020-9-17,2020-09-17 00:00:00
+231,2020-09-17 09:36:00,"Samsung Biologics, consigned development of new anticancer drug candidates",0,0.0,0.0,1.0,0.0,0,2020-9-17,2020-09-17 00:00:00
+232,2020-09-17 09:48:00,"Samsung Biologics, consigned development of Panoros anticancer drug candidate",0,0.0,0.0,1.0,0.0,0,2020-9-17,2020-09-17 00:00:00
+233,2020-09-17 09:36:00,"Samsung Biologics, consigned development of new anticancer drug candidates",0,0.0,0.0,1.0,0.0,0,2020-9-17,2020-09-17 00:00:00
+234,2020-09-17 09:28:00,Samsung Biologics signs a contract for consignment development of new anticancer drug candidates,0,0.0,0.0,1.0,0.0,0,2020-9-17,2020-09-17 00:00:00
+235,2020-09-17 09:11:00,"Samsung Biologics, consigned development of Panoros anticancer drug candidate",0,0.0,0.0,1.0,0.0,0,2020-9-17,2020-09-17 00:00:00
+236,2020-09-10 08:21:00,"""Reduce Celltrion"" ""Increase Samsung Bio""... JP Morgan Discrimination Why?",0,0.0,0.408,0.5920000000000001,0.5904,1,2020-9-10,2020-09-10 00:00:00
+237,2020-09-07 09:23:00,"""Corona 19 antibody treatment attention…Celltrion, Samsung Bio, etc.""",0,0.0,0.0,1.0,0.0,0,2020-9-7,2020-09-07 00:00:00
+238,2020-09-05 15:46:00,"What if Samsung Biologics took a fraudulent account? ""What to close the company door""",-1,0.21100000000000002,0.0,0.789,-0.4939,-1,2020-9-5,2020-09-05 00:00:00
+239,2020-09-01 08:44:00,Samsung Biologics consignment production Beer Corona 19 antibody begins phase 2 and 3 clinical trials,0,0.0,0.0,1.0,0.0,0,2020-9-1,2020-09-01 00:00:00
+240,2020-08-25 15:36:00,Pamexin and Samsung Biologics signed PMC-403 consignment development and production contract,0,0.0,0.0,1.0,0.0,0,2020-8-25,2020-08-25 00:00:00
+241,2020-08-25 09:38:00,"Pamexin, Samsung Biologics and'PMC-403' consigned development and production contract",0,0.0,0.0,1.0,0.0,0,2020-8-25,2020-08-25 00:00:00
+242,2020-08-24 15:04:00,'Samsung Biologics' aiming for second place in the KOSPI market cap... Can you get an ankle in 檢?,0,0.0,0.0,1.0,0.0,0,2020-8-24,2020-08-24 00:00:00
+243,2020-09-10 08:21:00,"""Reduce Celltrion"" ""Increase Samsung Bio""... JP Morgan Discrimination Why?",0,0.0,0.408,0.5920000000000001,0.5904,1,2020-9-10,2020-09-10 00:00:00
+244,2020-09-07 09:23:00,"""Corona 19 antibody treatment attention…Celltrion, Samsung Bio, etc.""",0,0.0,0.0,1.0,0.0,0,2020-9-7,2020-09-07 00:00:00
+245,2020-09-05 15:46:00,"What if Samsung Biologics took a fraudulent account? ""What to close the company door""",-1,0.21100000000000002,0.0,0.789,-0.4939,-1,2020-9-5,2020-09-05 00:00:00
+246,2020-09-01 08:44:00,Samsung Biologics consignment production Beer Corona 19 antibody begins phase 2 and 3 clinical trials,0,0.0,0.0,1.0,0.0,0,2020-9-1,2020-09-01 00:00:00
+247,2020-08-25 15:36:00,Pamexin and Samsung Biologics signed PMC-403 consignment development and production contract,0,0.0,0.0,1.0,0.0,0,2020-8-25,2020-08-25 00:00:00
+248,2020-08-25 09:38:00,"Pamexin, Samsung Biologics and'PMC-403' consigned development and production contract",0,0.0,0.0,1.0,0.0,0,2020-8-25,2020-08-25 00:00:00
+249,2020-08-24 15:04:00,'Samsung Biologics' aiming for second place in the KOSPI market cap... Can you get an ankle in 檢?,0,0.0,0.0,1.0,0.0,0,2020-8-24,2020-08-24 00:00:00
+250,2020-08-21 06:54:00,"[Kim Dae-sung's stock analysis] Samsung Bio's market cap of 52,535 billion won... Market Cap 2nd place...",-1,0.0,0.0,1.0,0.0,0,2020-8-21,2020-08-21 00:00:00
+251,2020-08-20 17:40:00,Samsung Biologics surpassed SK Hynix and ranked second in market cap,1,0.0,0.0,1.0,0.0,0,2020-8-21,2020-08-21 00:00:00
+252,2020-08-20 16:29:00,Samsung Biologics surpasses SK Hynix and ranks second in market cap,1,0.0,0.0,1.0,0.0,0,2020-8-21,2020-08-21 00:00:00
+253,2020-08-20 11:21:00,Samsung Biologics advances to second place in the market cap Semiconductor loses and bio rises,-1,0.141,0.0,0.8590000000000001,-0.3182,-1,2020-8-20,2020-08-20 00:00:00
+254,2020-08-20 10:14:00,[Features] Samsung Biologics ranked second in the market cap... SK hynix aside,0,0.0,0.0,1.0,0.0,0,2020-8-20,2020-08-20 00:00:00
+255,2020-08-20 09:58:00,[Features] Samsung Biologics ranks second in market cap over SK Hynix,0,0.0,0.0,1.0,0.0,0,2020-8-20,2020-08-20 00:00:00
+256,2020-08-20 09:55:00,"[itM-characteristic stock] Samsung Bio, ranked second in market cap beyond SK Hynix... The beginning of the year...",0,0.0,0.0,1.0,0.0,0,2020-8-20,2020-08-20 00:00:00
+257,2020-08-20 09:50:00,Samsung Biologics ranks second in intraday market cap... Beat hynix,0,0.0,0.0,1.0,0.0,0,2020-8-20,2020-08-20 00:00:00
+258,2020-08-20 09:36:00,Samsung Biologics ranked 2nd in the intraday market cap… SK hynix aside,0,0.0,0.0,1.0,0.0,0,2020-8-20,2020-08-20 00:00:00
+259,2020-08-20 09:29:00,"[Features] Samsung Biologics, surpassing SK Hynix, ranked 2nd in the market cap",1,0.0,0.0,1.0,0.0,0,2020-8-20,2020-08-20 00:00:00
+260,2020-08-20 09:28:00,"Samsung Biologics, surpassing SK Hynix, rises to second place in market cap",1,0.0,0.0,1.0,0.0,0,2020-8-20,2020-08-20 00:00:00
+261,2020-08-20 09:17:00,[Features] Highly marched Samsung Biologics ranked 2nd in the market cap,0,0.0,0.0,1.0,0.0,0,2020-8-20,2020-08-20 00:00:00
+262,2020-08-20 09:37:00,"KOSPI, decline in personal and foreign purchases… ""Samsung Biologics market cap 2nd place""",0,0.0,0.0,1.0,0.0,0,2020-8-20,2020-08-20 00:00:00
+263,2020-08-20 11:21:00,Samsung Biologics advances to second place in the market cap Semiconductor loses and bio rises,-1,0.141,0.0,0.8590000000000001,-0.3182,-1,2020-8-20,2020-08-20 00:00:00
+264,2020-08-20 10:14:00,[Features] Samsung Biologics ranked second in the market cap... SK hynix aside,0,0.0,0.0,1.0,0.0,0,2020-8-20,2020-08-20 00:00:00
+265,2020-08-20 09:58:00,[Features] Samsung Biologics ranks second in market cap over SK Hynix,0,0.0,0.0,1.0,0.0,0,2020-8-20,2020-08-20 00:00:00
+266,2020-08-20 09:55:00,"[itM-characteristic stock] Samsung Bio, ranked second in market cap beyond SK Hynix... The beginning of the year...",0,0.0,0.0,1.0,0.0,0,2020-8-20,2020-08-20 00:00:00
+267,2020-08-20 09:50:00,Samsung Biologics ranks second in intraday market cap... Beat hynix,0,0.0,0.0,1.0,0.0,0,2020-8-20,2020-08-20 00:00:00
+268,2020-08-20 09:36:00,Samsung Biologics ranked 2nd in the intraday market cap… SK hynix aside,0,0.0,0.0,1.0,0.0,0,2020-8-20,2020-08-20 00:00:00
+269,2020-08-20 09:29:00,"[Features] Samsung Biologics, surpassing SK Hynix, ranked 2nd in the market cap",1,0.0,0.0,1.0,0.0,0,2020-8-20,2020-08-20 00:00:00
+270,2020-08-20 09:28:00,"Samsung Biologics, surpassing SK Hynix, rises to second place in market cap",1,0.0,0.0,1.0,0.0,0,2020-8-20,2020-08-20 00:00:00
+271,2020-08-20 09:17:00,[Features] Highly marched Samsung Biologics ranked 2nd in the market cap,0,0.0,0.0,1.0,0.0,0,2020-8-20,2020-08-20 00:00:00
+272,2020-08-20 09:37:00,"KOSPI, decline in personal and foreign purchases… ""Samsung Biologics market cap 2nd place""",0,0.0,0.0,1.0,0.0,0,2020-8-20,2020-08-20 00:00:00
+273,2020-08-19 05:01:00,The logic of ‘inflating corporate value’ that has become overshadowed by the growth of Samsung Bio,-1,0.0,0.14800000000000002,0.852,0.3818,1,2020-8-19,2020-08-19 00:00:00
+274,2020-08-18 08:39:00,Samsung Biologics secures the largest global CMO facility... Target price of 1 million won,-1,0.0,0.353,0.647,0.7184,1,2020-8-18,2020-08-18 00:00:00
+275,2020-08-15 11:31:00,"[Pharmaceutical Bio] Samsung Biologics, the world's largest plant in Songdo 4 ...",-1,0.0,0.0,1.0,0.0,0,2020-8-15,2020-08-15 00:00:00
+276,2020-08-13 09:07:00,"[Attack on industry] Entertainment stock, casino stock, Samsung Biologics",0,0.0,0.259,0.741,0.4215,1,2020-8-13,2020-08-13 00:00:00
+277,2020-08-12 10:50:00,Samsung Biologics'Strengthened' for the Second Day on News of Songdo Plant Expansion,1,0.0,0.0,1.0,0.0,0,2020-8-12,2020-08-12 00:00:00
+278,2020-08-12 08:32:00,"[Hot-Line] ""Samsung Biologics, 4 factories larger than expected""... neck...",0,0.0,0.0,1.0,0.0,0,2020-8-12,2020-08-12 00:00:00
+279,2020-08-12 08:22:00,"Samsung Biologics, 4th factory good news... Target price↑-raising",1,0.0,0.293,0.7070000000000001,0.4404,1,2020-8-12,2020-08-12 00:00:00
+280,2020-08-12 08:17:00,Samsung Biologics New Factory Expectations↑… Target price '1 million won'-KTB,-1,0.0,0.0,1.0,0.0,0,2020-8-12,2020-08-12 00:00:00
+281,2020-08-12 08:00:00,"[Click e-event] ""The 4th factory bigger than expected...Samsung Biologics goes 1 million won...",-1,0.0,0.0,1.0,0.0,0,2020-8-12,2020-08-12 00:00:00
+282,2020-08-19 05:01:00,The logic of ‘inflating corporate value’ that has become overshadowed by the growth of Samsung Bio,-1,0.0,0.14800000000000002,0.852,0.3818,1,2020-8-19,2020-08-19 00:00:00
+283,2020-08-18 08:39:00,Samsung Biologics secures the largest global CMO facility... Target price of 1 million won,-1,0.0,0.353,0.647,0.7184,1,2020-8-18,2020-08-18 00:00:00
+284,2020-08-15 11:31:00,"[Pharmaceutical Bio] Samsung Biologics, the world's largest plant in Songdo 4 ...",-1,0.0,0.0,1.0,0.0,0,2020-8-15,2020-08-15 00:00:00
+285,2020-08-13 09:07:00,"[Attack on industry] Entertainment stock, casino stock, Samsung Biologics",0,0.0,0.259,0.741,0.4215,1,2020-8-13,2020-08-13 00:00:00
+286,2020-08-12 10:50:00,Samsung Biologics'Strengthened' for the Second Day on News of Songdo Plant Expansion,1,0.0,0.0,1.0,0.0,0,2020-8-12,2020-08-12 00:00:00
+287,2020-08-12 08:32:00,"[Hot-Line] ""Samsung Biologics, 4 factories larger than expected""... neck...",0,0.0,0.0,1.0,0.0,0,2020-8-12,2020-08-12 00:00:00
+288,2020-08-12 08:22:00,"Samsung Biologics, 4th factory good news... Target price↑-raising",1,0.0,0.293,0.7070000000000001,0.4404,1,2020-8-12,2020-08-12 00:00:00
+289,2020-08-12 08:17:00,Samsung Biologics New Factory Expectations↑… Target price '1 million won'-KTB,-1,0.0,0.0,1.0,0.0,0,2020-8-12,2020-08-12 00:00:00
+290,2020-08-12 08:00:00,"[Click e-event] ""The 4th factory bigger than expected...Samsung Biologics goes 1 million won...",-1,0.0,0.0,1.0,0.0,0,2020-8-12,2020-08-12 00:00:00
+291,2020-08-12 07:31:00,Samsung Bio shouts'super gap' in Songdo...,0,0.0,0.0,1.0,0.0,0,2020-8-12,2020-08-12 00:00:00
+292,2020-08-11 20:01:00,"[Securities Market Disclosure] Bumyang Kunyoung / CI Tech / Samsung Biologics, etc.",0,0.0,0.0,1.0,0.0,0,2020-8-12,2020-08-12 00:00:00
+293,2020-08-11 18:17:00,"Jae-Yong Lee, Bio is also super gap... To build the world's largest 4 factories in Songdo [Samsung Bio,...",0,0.0,0.196,0.804,0.5994,1,2020-8-12,2020-08-12 00:00:00
+294,2020-08-11 15:44:00,Samsung Bio's future investment... To build Songdo 4 factory with 1.74 trillion won,-1,0.0,0.252,0.748,0.5719,1,2020-8-11,2020-08-11 00:00:00
+295,2020-08-12 07:31:00,Samsung Bio shouts'super gap' in Songdo...,0,0.0,0.0,1.0,0.0,0,2020-8-12,2020-08-12 00:00:00
+296,2020-08-11 20:01:00,"[Securities Market Disclosure] Bumyang Kunyoung / CI Tech / Samsung Biologics, etc.",0,0.0,0.0,1.0,0.0,0,2020-8-12,2020-08-12 00:00:00
+297,2020-08-11 18:17:00,"Jae-Yong Lee, Bio is also super gap... To build the world's largest 4 factories in Songdo [Samsung Bio,...",0,0.0,0.196,0.804,0.5994,1,2020-8-12,2020-08-12 00:00:00
+298,2020-08-11 15:44:00,Samsung Bio's future investment... To build Songdo 4 factory with 1.74 trillion won,-1,0.0,0.252,0.748,0.5719,1,2020-8-11,2020-08-11 00:00:00
+299,2020-08-11 17:39:00,"[Securities Market Disclosure] Samsung Biologics / Hanon System / Cosmax, etc.",0,0.0,0.0,1.0,0.0,0,2020-8-12,2020-08-12 00:00:00
+300,2020-08-11 17:32:00,Samsung Bio to build the world's largest factory in Songdo,0,0.0,0.0,1.0,0.0,0,2020-8-12,2020-08-12 00:00:00
+301,2020-08-11 11:33:00,"Establishment of'Super Plant' with an investment of 1.7 trillion won, the big picture of Samsung Biologics",-1,0.0,0.198,0.802,0.5719,1,2020-8-11,2020-08-11 00:00:00
+302,2020-08-11 10:59:00,"Kim Tae-han, president of Samsung Biologics, ""The 4th factory with a scale of 260,000 ℓ...",0,0.0,0.0,1.0,0.0,0,2020-8-11,2020-08-11 00:00:00
+303,2020-08-11 16:16:00,"Korea's ""Samsung Bio strengthens growth potential in its 4th plant""... Target price '1 million won'",1,0.0,0.43700000000000006,0.563,0.8519,1,2020-8-12,2020-08-12 00:00:00
+304,2020-08-11 16:09:00,CMO market expected to grow 13.4% annually... Reasons for expansion of Samsung Bio,0,0.0,0.0,1.0,0.0,0,2020-8-12,2020-08-12 00:00:00
+305,2020-08-11 16:05:00,Samsung Biologics expands its 4th factory in Songdo by 2023...,0,0.0,0.135,0.865,0.1027,1,2020-8-12,2020-08-12 00:00:00
+306,2020-08-11 14:15:00,"[Features] Samsung Bio, on the rise in the establishment of a new plant of KRW 1.74 trillion",-1,0.0,0.0,1.0,0.0,0,2020-8-11,2020-08-11 00:00:00
+307,2020-08-11 10:34:00,Samsung Biologics plans to build 4th factory in Songdo complex,0,0.0,0.0,1.0,0.0,0,2020-8-11,2020-08-11 00:00:00
+308,2020-08-11 09:31:00,Samsung Biologics opens 4th factory in Songdo... Investment of 1.7 trillion won (complementary),-1,0.0,0.23600000000000002,0.764,0.5719,1,2020-8-11,2020-08-11 00:00:00
+309,2020-08-11 09:22:00,"[Disclosure] Samsung Biologics establishes 4th factory in Songdo, Incheon.. invested 1.74 trillion won",-1,0.0,0.23600000000000002,0.764,0.5719,1,2020-8-11,2020-08-11 00:00:00
+310,2020-08-11 09:20:00,"[Features] Samsung Bio, surged on news of new plant 4",0,0.0,0.0,1.0,0.0,0,2020-8-11,2020-08-11 00:00:00
+311,2020-08-11 09:15:00,"Samsung Biologics builds 4th factory in Songdo, spending 1.7 trillion won",-1,0.0,0.27,0.73,0.5719,1,2020-8-11,2020-08-11 00:00:00
+312,2020-08-11 09:14:00,"Samsung Biologics opens 4th factory in Songdo, Incheon... Investment of 1.74 trillion won (complementary...",-1,0.0,0.222,0.778,0.5719,1,2020-8-11,2020-08-11 00:00:00
+313,2020-08-11 09:04:00,[Breaking News] Samsung Biologics opens its 4th factory in Songdo... Input of 1.74 trillion won,-1,0.0,0.209,0.7909999999999999,0.5719,1,2020-8-11,2020-08-11 00:00:00
+314,2020-08-11 09:04:00,[Breaking News] Samsung Biologics opens its 4th factory in Songdo... Input of 1.74 trillion won,-1,0.0,0.209,0.7909999999999999,0.5719,1,2020-8-11,2020-08-11 00:00:00
+315,2020-08-11 08:52:00,"[Breaking News] Samsung Biologics, invested 1.74 trillion won to establish 4th factory",-1,0.0,0.252,0.748,0.5719,1,2020-8-11,2020-08-11 00:00:00
+316,2020-08-11 08:52:00,"[Breaking News] Samsung Biologics, invested 1.74 trillion won to establish 4th factory",-1,0.0,0.252,0.748,0.5719,1,2020-8-11,2020-08-11 00:00:00
+317,2020-08-11 08:51:00,Samsung Biologics invests 1.7 trillion won in new plant 4,-1,0.0,0.316,0.684,0.5719,1,2020-8-11,2020-08-11 00:00:00
+318,2020-08-11 10:41:00,"Samsung Biologics secures the world's largest biopharmaceutical production base... 27,000 people...",-1,0.0,0.187,0.813,0.3182,1,2020-8-11,2020-08-11 00:00:00
+319,2020-08-11 10:37:00,"Samsung Biologics establishes 4th factory in Songdo, Incheon... Investment of KRW 1.74 trillion (total)",-1,0.0,0.0,1.0,0.0,0,2020-8-11,2020-08-11 00:00:00
+320,2020-08-11 10:09:00,"Samsung Bio Plant 4, Sangam Stadium 1.5 times the world's largest...",0,0.0,0.0,1.0,0.0,0,2020-8-11,2020-08-11 00:00:00
+321,2020-08-11 10:06:00,"[Features] ST Cube, Samsung Biologics Songdo 4th Factory established… Consigned development system...",0,0.0,0.0,1.0,0.0,0,2020-8-11,2020-08-11 00:00:00
+322,2020-08-11 10:03:00,Samsung Biologics to expand the 4th factory by investing KRW 1.74 trillion,-1,0.0,0.17300000000000001,0.8270000000000001,0.3182,1,2020-8-11,2020-08-11 00:00:00
+323,2020-08-11 10:20:00,"Samsung Biologics to build 4th factory in Songdo,'Sangam Stadium 1.5 times'",0,0.0,0.0,1.0,0.0,0,2020-8-11,2020-08-11 00:00:00
+324,2020-08-11 11:33:00,"Establishment of'Super Plant' with an investment of 1.7 trillion won, the big picture of Samsung Biologics",-1,0.0,0.198,0.802,0.5719,1,2020-8-11,2020-08-11 00:00:00
+325,2020-08-11 10:59:00,"Kim Tae-han, president of Samsung Biologics, ""The 4th factory with a scale of 260,000 ℓ...",0,0.0,0.0,1.0,0.0,0,2020-8-11,2020-08-11 00:00:00
+326,2020-08-11 10:41:00,"Samsung Biologics secures the world's largest biopharmaceutical production base... 27,000 people...",-1,0.0,0.187,0.813,0.3182,1,2020-8-11,2020-08-11 00:00:00
+327,2020-08-11 10:37:00,"Samsung Biologics establishes 4th factory in Songdo, Incheon... Investment of KRW 1.74 trillion (total)",-1,0.0,0.0,1.0,0.0,0,2020-8-11,2020-08-11 00:00:00
+328,2020-08-11 10:09:00,"Samsung Bio Plant 4, Sangam Stadium 1.5 times the world's largest...",0,0.0,0.0,1.0,0.0,0,2020-8-11,2020-08-11 00:00:00
+329,2020-08-11 10:06:00,"[Features] ST Cube, Samsung Biologics Songdo 4th Factory established… Consigned development system...",0,0.0,0.0,1.0,0.0,0,2020-8-11,2020-08-11 00:00:00
+330,2020-08-11 10:03:00,Samsung Biologics to expand the 4th factory by investing KRW 1.74 trillion,-1,0.0,0.17300000000000001,0.8270000000000001,0.3182,1,2020-8-11,2020-08-11 00:00:00
+331,2020-08-11 10:34:00,Samsung Biologics plans to build 4th factory in Songdo complex,0,0.0,0.0,1.0,0.0,0,2020-8-11,2020-08-11 00:00:00
+332,2020-08-11 09:31:00,Samsung Biologics opens 4th factory in Songdo... Investment of 1.7 trillion won (complementary),-1,0.0,0.23600000000000002,0.764,0.5719,1,2020-8-11,2020-08-11 00:00:00
+333,2020-08-11 09:22:00,"[Disclosure] Samsung Biologics establishes 4th factory in Songdo, Incheon.. invested 1.74 trillion won",-1,0.0,0.23600000000000002,0.764,0.5719,1,2020-8-11,2020-08-11 00:00:00
+334,2020-08-11 09:20:00,"[Features] Samsung Bio, surged on news of new plant 4",0,0.0,0.0,1.0,0.0,0,2020-8-11,2020-08-11 00:00:00
+335,2020-08-11 09:15:00,"Samsung Biologics builds 4th factory in Songdo, spending 1.7 trillion won",-1,0.0,0.27,0.73,0.5719,1,2020-8-11,2020-08-11 00:00:00
+336,2020-08-11 09:14:00,"Samsung Biologics opens 4th factory in Songdo, Incheon... Investment of 1.74 trillion won (complementary...",-1,0.0,0.222,0.778,0.5719,1,2020-8-11,2020-08-11 00:00:00
+337,2020-08-11 09:04:00,[Breaking News] Samsung Biologics opens its 4th factory in Songdo... Input of 1.74 trillion won,-1,0.0,0.209,0.7909999999999999,0.5719,1,2020-8-11,2020-08-11 00:00:00
+338,2020-08-11 09:04:00,[Breaking News] Samsung Biologics opens its 4th factory in Songdo... Input of 1.74 trillion won,-1,0.0,0.209,0.7909999999999999,0.5719,1,2020-8-11,2020-08-11 00:00:00
+339,2020-08-11 08:52:00,"[Breaking News] Samsung Biologics, invested 1.74 trillion won to establish 4th factory",-1,0.0,0.252,0.748,0.5719,1,2020-8-11,2020-08-11 00:00:00
+340,2020-08-11 08:52:00,"[Breaking News] Samsung Biologics, invested 1.74 trillion won to establish 4th factory",-1,0.0,0.252,0.748,0.5719,1,2020-8-11,2020-08-11 00:00:00
+341,2020-08-11 08:51:00,Samsung Biologics invests 1.7 trillion won in new plant 4,-1,0.0,0.316,0.684,0.5719,1,2020-8-11,2020-08-11 00:00:00
+342,2020-08-11 10:20:00,"Samsung Biologics to build 4th factory in Songdo,'Sangam Stadium 1.5 times'",0,0.0,0.0,1.0,0.0,0,2020-8-11,2020-08-11 00:00:00
+343,2020-08-11 10:13:00,"Samsung Biologics, 3% stronger on news of Songdo plant expansion",1,0.0,0.22399999999999998,0.7759999999999999,0.3818,1,2020-8-11,2020-08-11 00:00:00
+344,2020-08-11 10:05:00,Samsung Biologics is strong on news of factory expansion,1,0.0,0.292,0.708,0.5106,1,2020-8-11,2020-08-11 00:00:00
+345,2020-08-11 08:45:00,"[Breaking News] Samsung Biologics will expand its 4th factory in Songdo by 2023...1 trillion 7,...",-1,0.0,0.141,0.8590000000000001,0.3182,1,2020-8-11,2020-08-11 00:00:00
+346,2020-08-11 09:18:00,"[Features] Samsung Biologics, on the rise in the news of new additional factories in Songdo, Incheon",0,0.0,0.0,1.0,0.0,0,2020-8-11,2020-08-11 00:00:00
+347,2020-08-11 09:05:00,"Samsung Biologics, a new factory with a scale of 250,000 liters, investing 1.7 trillion...",-1,0.0,0.0,1.0,0.0,0,2020-8-11,2020-08-11 00:00:00
+348,2020-08-11 08:41:00,[Breaking News] Samsung Bio to invest 1.7 trillion won by 2023 to establish 4th factory,-1,0.0,0.209,0.7909999999999999,0.5719,1,2020-8-11,2020-08-11 00:00:00
+349,2020-08-10 15:51:00,How likely is Samsung Biologics to win an order for biogen dementia treatment?,1,0.0,0.24100000000000002,0.759,0.5859,1,2020-8-10,2020-08-10 00:00:00
+350,2020-08-06 10:05:00,"Samsung Biologics, consignment production of COVID-19 treatment worth 438 billion won",-1,0.0,0.384,0.616,0.6808,1,2020-8-6,2020-08-06 00:00:00
+351,2020-08-05 20:22:00,"Samsung Biologics, GSK and COVID-19 treatment contract production contract",0,0.0,0.0,1.0,0.0,0,2020-8-6,2020-08-06 00:00:00
+352,2020-08-05 19:44:00,Samsung Biologics becomes a production base for'corona treatment',0,0.0,0.0,1.0,0.0,0,2020-8-6,2020-08-06 00:00:00
+353,2020-08-05 19:12:00,"Samsung Biologics, a trustee of 440 billion won worth of corona treatment",-1,0.0,0.48700000000000004,0.513,0.765,1,2020-8-6,2020-08-06 00:00:00
+354,2020-08-05 17:16:00,Samsung Biologics corrects contract partner for pharmaceutical production contract,-1,0.0,0.0,1.0,0.0,0,2020-8-6,2020-08-06 00:00:00
+355,2020-08-11 10:03:00,Samsung Biologics to expand the 4th factory by investing KRW 1.74 trillion,-1,0.0,0.17300000000000001,0.8270000000000001,0.3182,1,2020-8-11,2020-08-11 00:00:00
+356,2020-08-11 09:31:00,Samsung Biologics opens 4th factory in Songdo... Investment of 1.7 trillion won (complementary),-1,0.0,0.23600000000000002,0.764,0.5719,1,2020-8-11,2020-08-11 00:00:00
+357,2020-08-11 09:22:00,"[Disclosure] Samsung Biologics establishes 4th factory in Songdo, Incheon.. invested 1.74 trillion won",-1,0.0,0.23600000000000002,0.764,0.5719,1,2020-8-11,2020-08-11 00:00:00
+358,2020-08-11 09:20:00,"[Features] Samsung Bio, surged on news of new plant 4",0,0.0,0.0,1.0,0.0,0,2020-8-11,2020-08-11 00:00:00
+359,2020-08-11 09:15:00,"Samsung Biologics builds 4th factory in Songdo, spending 1.7 trillion won",-1,0.0,0.27,0.73,0.5719,1,2020-8-11,2020-08-11 00:00:00
+360,2020-08-11 09:14:00,"Samsung Biologics opens 4th factory in Songdo, Incheon... Investment of 1.74 trillion won (complementary...",-1,0.0,0.222,0.778,0.5719,1,2020-8-11,2020-08-11 00:00:00
+361,2020-08-11 09:04:00,[Breaking News] Samsung Biologics opens its 4th factory in Songdo... Input of 1.74 trillion won,-1,0.0,0.209,0.7909999999999999,0.5719,1,2020-8-11,2020-08-11 00:00:00
+362,2020-08-11 09:04:00,[Breaking News] Samsung Biologics opens its 4th factory in Songdo... Input of 1.74 trillion won,-1,0.0,0.209,0.7909999999999999,0.5719,1,2020-8-11,2020-08-11 00:00:00
+363,2020-08-11 08:52:00,"[Breaking News] Samsung Biologics, invested 1.74 trillion won to establish 4th factory",-1,0.0,0.252,0.748,0.5719,1,2020-8-11,2020-08-11 00:00:00
+364,2020-08-11 08:52:00,"[Breaking News] Samsung Biologics, invested 1.74 trillion won to establish 4th factory",-1,0.0,0.252,0.748,0.5719,1,2020-8-11,2020-08-11 00:00:00
+365,2020-08-11 08:51:00,Samsung Biologics invests 1.7 trillion won in new plant 4,-1,0.0,0.316,0.684,0.5719,1,2020-8-11,2020-08-11 00:00:00
+366,2020-08-11 09:18:00,"[Features] Samsung Biologics, on the rise in the news of new additional factories in Songdo, Incheon",0,0.0,0.0,1.0,0.0,0,2020-8-11,2020-08-11 00:00:00
+367,2020-08-11 09:05:00,"Samsung Biologics, a new factory with a scale of 250,000 liters, investing 1.7 trillion...",-1,0.0,0.0,1.0,0.0,0,2020-8-11,2020-08-11 00:00:00
+368,2020-08-11 08:41:00,[Breaking News] Samsung Bio to invest 1.7 trillion won by 2023 to establish 4th factory,-1,0.0,0.209,0.7909999999999999,0.5719,1,2020-8-11,2020-08-11 00:00:00
+369,2020-08-11 08:45:00,"[Breaking News] Samsung Biologics will expand its 4th factory in Songdo by 2023...1 trillion 7,4...",-1,0.0,0.141,0.8590000000000001,0.3182,1,2020-8-11,2020-08-11 00:00:00
+370,2020-08-10 15:51:00,How likely is Samsung Biologics to win an order for biogen dementia treatment?,1,0.0,0.24100000000000002,0.759,0.5859,1,2020-8-10,2020-08-10 00:00:00
+371,2020-08-06 10:05:00,"Samsung Biologics, consignment production of COVID-19 treatment worth 438 billion won",-1,0.0,0.384,0.616,0.6808,1,2020-8-6,2020-08-06 00:00:00
+372,2020-08-05 20:22:00,"Samsung Biologics, GSK and COVID-19 treatment contract production contract",0,0.0,0.0,1.0,0.0,0,2020-8-6,2020-08-06 00:00:00
+373,2020-08-05 19:44:00,Samsung Biologics becomes a production base for'corona treatment',0,0.0,0.0,1.0,0.0,0,2020-8-6,2020-08-06 00:00:00
+374,2020-08-05 19:12:00,"Samsung Biologics, a trustee of 440 billion won worth of corona treatment",-1,0.0,0.48700000000000004,0.513,0.765,1,2020-8-6,2020-08-06 00:00:00
+375,2020-08-05 17:16:00,Samsung Biologics corrects contract partner for pharmaceutical production contract,-1,0.0,0.0,1.0,0.0,0,2020-8-6,2020-08-06 00:00:00
+376,2020-08-05 17:29:00,Samsung Biologics signs a contract for consignment production of drugs worth KRW 439.4 billion,-1,0.0,0.13699999999999998,0.863,0.2263,1,2020-8-6,2020-08-06 00:00:00
+377,2020-08-05 17:24:00,Samsung Bio and global pharmaceutical company GSK contracted production of 400 billion units,-1,0.0,0.0,1.0,0.0,0,2020-8-6,2020-08-06 00:00:00
+378,2020-08-05 17:14:00,"[Disclosure] Samsung Bio, contracted with global pharmaceutical company GSK to produce 400 billion units ...",-1,0.0,0.0,1.0,0.0,0,2020-8-6,2020-08-06 00:00:00
+379,2020-08-05 15:14:00,"[EDaily N] Samsung Bio launches its own cell line,'S Choice' with outstanding productivity...",0,0.0,0.25,0.75,0.6124,1,2020-8-5,2020-08-05 00:00:00
+380,2020-08-05 11:46:00,'One-Stop Service' Samsung Bio wins with self-developed cell line that increases productivity,1,0.0,0.252,0.748,0.5719,1,2020-8-5,2020-08-05 00:00:00
+381,2020-08-05 11:43:00,Samsung Bio succeeds in developing cell line Start super-gap strategy,1,0.0,0.262,0.738,0.4939,1,2020-8-5,2020-08-05 00:00:00
+382,2020-08-05 11:10:00,The first button to develop antibody drugs was filled... Samsung Bio's own cell line development,-1,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+383,2020-08-05 11:05:00,Samsung Bio's own cell line development success “I can save royalty,1,0.0,0.434,0.5660000000000001,0.7845,1,2020-8-5,2020-08-05 00:00:00
+384,2020-08-05 09:48:00,"[Featured stock] `Unveiled its own cell line` Samsung Biologics, rising by 5%",0,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+385,2020-08-05 09:20:00,"Samsung Biologics develops its own'cell line', the first button to develop antibody drugs",0,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+386,2020-08-05 09:04:00,"Samsung Biologics commercializes its own cell line… ""It will increase the success rate of new drugs""",1,0.0,0.3,0.7,0.7184,1,2020-8-5,2020-08-05 00:00:00
+387,2020-08-11 08:52:00,"[Breaking News] Samsung Biologics, invested 1.74 trillion won to establish 4th factory",-1,0.0,0.252,0.748,0.5719,1,2020-8-11,2020-08-11 00:00:00
+388,2020-08-11 08:52:00,"[Breaking News] Samsung Biologics, invested 1.74 trillion won to establish 4th factory",-1,0.0,0.252,0.748,0.5719,1,2020-8-11,2020-08-11 00:00:00
+389,2020-08-11 08:51:00,Samsung Biologics invests 1.7 trillion won in new plant 4,-1,0.0,0.316,0.684,0.5719,1,2020-8-11,2020-08-11 00:00:00
+390,2020-08-11 08:45:00,"[Breaking News] Samsung Biologics will expand its 4th factory in Songdo by 2023...1 trillion 7,4...",-1,0.0,0.141,0.8590000000000001,0.3182,1,2020-8-11,2020-08-11 00:00:00
+391,2020-08-11 08:41:00,[Breaking News] Samsung Bio to invest 1.7 trillion won by 2023 to establish 4th factory,-1,0.0,0.209,0.7909999999999999,0.5719,1,2020-8-11,2020-08-11 00:00:00
+392,2020-08-10 15:51:00,How likely is Samsung Biologics to win an order for biogen dementia treatment?,1,0.0,0.24100000000000002,0.759,0.5859,1,2020-8-10,2020-08-10 00:00:00
+393,2020-08-06 10:05:00,"Samsung Biologics, consignment production of COVID-19 treatment worth 438 billion won",-1,0.0,0.384,0.616,0.6808,1,2020-8-6,2020-08-06 00:00:00
+394,2020-08-05 20:22:00,"Samsung Biologics, GSK and COVID-19 treatment contract production contract",0,0.0,0.0,1.0,0.0,0,2020-8-6,2020-08-06 00:00:00
+395,2020-08-05 19:44:00,Samsung Biologics becomes a production base for'corona treatment',0,0.0,0.0,1.0,0.0,0,2020-8-6,2020-08-06 00:00:00
+396,2020-08-05 19:12:00,"Samsung Biologics, a trustee of 440 billion won worth of corona treatment",-1,0.0,0.48700000000000004,0.513,0.765,1,2020-8-6,2020-08-06 00:00:00
+397,2020-08-05 17:16:00,Samsung Biologics corrects contract partner for pharmaceutical production contract,-1,0.0,0.0,1.0,0.0,0,2020-8-6,2020-08-06 00:00:00
+398,2020-08-05 17:29:00,Samsung Biologics signs a contract for consignment production of drugs worth KRW 439.4 billion,-1,0.0,0.13699999999999998,0.863,0.2263,1,2020-8-6,2020-08-06 00:00:00
+399,2020-08-05 17:24:00,Samsung Bio and global pharmaceutical company GSK contracted production of 400 billion units,-1,0.0,0.0,1.0,0.0,0,2020-8-6,2020-08-06 00:00:00
+400,2020-08-05 17:14:00,"[Disclosure] Samsung Bio, contracted with global pharmaceutical company GSK to produce 400 billion units ...",-1,0.0,0.0,1.0,0.0,0,2020-8-6,2020-08-06 00:00:00
+401,2020-08-05 15:14:00,"[EDaily N] Samsung Bio launches its own cell line,'S Choice' with outstanding productivity...",0,0.0,0.25,0.75,0.6124,1,2020-8-5,2020-08-05 00:00:00
+402,2020-08-05 11:46:00,'One-Stop Service' Samsung Bio wins with self-developed cell line that increases productivity,1,0.0,0.252,0.748,0.5719,1,2020-8-5,2020-08-05 00:00:00
+403,2020-08-05 11:43:00,Samsung Bio succeeds in developing cell line Start super-gap strategy,1,0.0,0.262,0.738,0.4939,1,2020-8-5,2020-08-05 00:00:00
+404,2020-08-05 11:10:00,The first button to develop antibody drugs was filled... Samsung Bio's own cell line development,-1,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+405,2020-08-05 11:05:00,Samsung Bio's own cell line development success “I can save royalty,1,0.0,0.434,0.5660000000000001,0.7845,1,2020-8-5,2020-08-05 00:00:00
+406,2020-08-05 09:48:00,"[Featured stock] `Unveiled its own cell line` Samsung Biologics, rising by 5%",0,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+407,2020-08-05 09:20:00,"Samsung Biologics develops its own'cell line', the first button to develop antibody drugs",0,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+408,2020-08-05 09:04:00,"Samsung Biologics commercializes its own cell line… ""It will increase the success rate of new drugs""",1,0.0,0.3,0.7,0.7184,1,2020-8-5,2020-08-05 00:00:00
+409,2020-08-05 13:56:00,"[Features] Samsung Biologics, increased by 6% during intraday...Return to 3rd place in market cap",0,0.0,0.139,0.861,0.2732,1,2020-8-5,2020-08-05 00:00:00
+410,2020-08-05 09:08:00,"Samsung Biologics, the efficiency of new drug development for its own cell line'S Choice'↑",0,0.0,0.161,0.8390000000000001,0.3612,1,2020-8-5,2020-08-05 00:00:00
+411,2020-08-05 09:02:00,"Samsung Biologics unveils its own cell line,'S Choice'",0,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+412,2020-08-05 09:02:00,"Samsung Biologics unveils its own cell line,'S Choice'",0,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+413,2020-08-05 17:29:00,Samsung Biologics signs a contract for consignment production of drugs worth KRW 439.4 billion,-1,0.0,0.13699999999999998,0.863,0.2263,1,2020-8-6,2020-08-06 00:00:00
+414,2020-08-05 17:24:00,Samsung Bio and global pharmaceutical company GSK contracted production of 400 billion units,-1,0.0,0.0,1.0,0.0,0,2020-8-6,2020-08-06 00:00:00
+415,2020-08-05 17:14:00,"[Disclosure] Samsung Bio, contracted with global pharmaceutical company GSK to produce 400 billion units ...",-1,0.0,0.0,1.0,0.0,0,2020-8-6,2020-08-06 00:00:00
+416,2020-08-05 17:16:00,Samsung Biologics corrects contract partner for pharmaceutical production contract,-1,0.0,0.0,1.0,0.0,0,2020-8-6,2020-08-06 00:00:00
+417,2020-08-05 15:14:00,"[EDaily N] Samsung Bio launches its own cell line,'S Choice' with outstanding productivity...",0,0.0,0.25,0.75,0.6124,1,2020-8-5,2020-08-05 00:00:00
+418,2020-08-05 11:46:00,'One-Stop Service' Samsung Bio wins with self-developed cell line that increases productivity,1,0.0,0.252,0.748,0.5719,1,2020-8-5,2020-08-05 00:00:00
+419,2020-08-05 11:43:00,Samsung Bio succeeds in developing cell line Start super-gap strategy,1,0.0,0.262,0.738,0.4939,1,2020-8-5,2020-08-05 00:00:00
+420,2020-08-05 11:10:00,The first button to develop antibody drugs was filled... Samsung Bio's own cell line development,-1,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+421,2020-08-05 11:05:00,Samsung Bio's own cell line development success “I can save royalty,1,0.0,0.434,0.5660000000000001,0.7845,1,2020-8-5,2020-08-05 00:00:00
+422,2020-08-05 09:48:00,"[Featured stock] `Unveiled its own cell line` Samsung Biologics, rising by 5%",0,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+423,2020-08-05 09:20:00,"Samsung Biologics develops its own'cell line', the first button to develop antibody drugs",0,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+424,2020-08-05 09:04:00,"Samsung Biologics commercializes its own cell line… ""It will increase the success rate of new drugs""",1,0.0,0.3,0.7,0.7184,1,2020-8-5,2020-08-05 00:00:00
+425,2020-08-05 13:56:00,"[Features] Samsung Biologics, increased by 6% during intraday...Return to 3rd place in market cap",0,0.0,0.139,0.861,0.2732,1,2020-8-5,2020-08-05 00:00:00
+426,2020-08-05 09:08:00,"Samsung Biologics, the efficiency of new drug development for its own cell line'S Choice'↑",0,0.0,0.161,0.8390000000000001,0.3612,1,2020-8-5,2020-08-05 00:00:00
+427,2020-08-05 09:02:00,"Samsung Biologics unveils its own cell line,'S Choice'",0,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+428,2020-08-05 09:02:00,"Samsung Biologics unveils its own cell line,'S Choice'",0,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+429,2020-08-05 00:34:00,"[Public announcement of securities] (4th) Samsung Biologics, etc.",0,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+430,2020-08-04 17:44:00,[Securities Market Disclosure] Samsung Biologics,0,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+431,2020-08-04 17:11:00,"Samsung Biologics, consigned production contract with US pharmaceutical company worth 22.5 billion won",-1,0.0,0.337,0.6629999999999999,0.6808,1,2020-8-5,2020-08-05 00:00:00
+432,2020-08-04 16:36:00,Samsung Bio signs a contract for consignment production of 22.5 billion KRW,-1,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+433,2020-08-04 16:35:00,"Samsung Biologics, consignment production of US-based pharmaceutical companies worth 22.5 billion won",-1,0.0,0.359,0.6409999999999999,0.6808,1,2020-8-5,2020-08-05 00:00:00
+434,2020-08-04 16:27:00,"Samsung Bio, US pharmaceutical company consignment production contract of 22.5 billion won",-1,0.0,0.252,0.748,0.5719,1,2020-8-5,2020-08-05 00:00:00
+435,2020-08-04 16:10:00,"Samsung Biologics, consignment production contract of 22.5 billion won with US pharmaceutical companies",-1,0.0,0.23600000000000002,0.764,0.5719,1,2020-8-5,2020-08-05 00:00:00
+436,2020-07-28 16:40:00,Samsung Biologics signs a CMO contract with a US pharmaceutical company worth KRW 179.5 billion,-1,0.0,0.13699999999999998,0.863,0.2263,1,2020-7-29,2020-07-29 00:00:00
+437,2020-07-28 15:54:00,"Samsung Biologics, consignment production contract of 179.5 billion won with US pharmaceutical companies",-1,0.0,0.23600000000000002,0.764,0.5719,1,2020-7-28,2020-07-28 00:00:00
+438,2020-07-28 15:43:00,"Samsung Biologics, signed a consignment production contract worth 179.5 billion won",-1,0.0,0.41200000000000003,0.588,0.6808,1,2020-7-28,2020-07-28 00:00:00
+439,2020-07-28 15:54:00,"Samsung Biologics, consignment production contract of 179.5 billion won with US pharmaceutical companies",-1,0.0,0.23600000000000002,0.764,0.5719,1,2020-7-28,2020-07-28 00:00:00
+440,2020-07-28 15:48:00,Samsung Biologics signs supply contract with US pharmaceutical company worth 1794 billion won,-1,0.0,0.337,0.6629999999999999,0.6808,1,2020-7-28,2020-07-28 00:00:00
+441,2020-08-05 09:48:00,"[Featured stock] `Unveiled its own cell line` Samsung Biologics, rising by 5%",0,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+442,2020-08-05 09:20:00,"Samsung Biologics develops its own'cell line', the first button to develop antibody drugs",0,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+443,2020-08-05 09:04:00,"Samsung Biologics commercializes its own cell line… ""It will increase the success rate of new drugs""",1,0.0,0.3,0.7,0.7184,1,2020-8-5,2020-08-05 00:00:00
+444,2020-08-05 09:08:00,"Samsung Biologics, the efficiency of new drug development for its own cell line'S Choice'↑",0,0.0,0.161,0.8390000000000001,0.3612,1,2020-8-5,2020-08-05 00:00:00
+445,2020-08-05 09:02:00,"Samsung Biologics unveils its own cell line,'S Choice'",0,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+446,2020-08-05 09:02:00,"Samsung Biologics unveils its own cell line,'S Choice'",0,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+447,2020-08-05 00:34:00,"[Public announcement of securities] (4th) Samsung Biologics, etc.",0,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+448,2020-08-04 17:44:00,[Securities Market Disclosure] Samsung Biologics,0,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+449,2020-08-04 17:11:00,"Samsung Biologics, consigned production contract with US pharmaceutical company worth 22.5 billion won",-1,0.0,0.337,0.6629999999999999,0.6808,1,2020-8-5,2020-08-05 00:00:00
+450,2020-08-04 16:36:00,Samsung Bio signs a contract for consignment production of 22.5 billion KRW,-1,0.0,0.0,1.0,0.0,0,2020-8-5,2020-08-05 00:00:00
+451,2020-08-04 16:35:00,"Samsung Biologics, consignment production of US-based pharmaceutical companies worth 22.5 billion won",-1,0.0,0.359,0.6409999999999999,0.6808,1,2020-8-5,2020-08-05 00:00:00
+452,2020-08-04 16:27:00,"Samsung Bio, US pharmaceutical company consignment production contract of 22.5 billion won",-1,0.0,0.252,0.748,0.5719,1,2020-8-5,2020-08-05 00:00:00
+453,2020-08-04 16:10:00,"Samsung Biologics, consignment production contract of 22.5 billion won with US pharmaceutical companies",-1,0.0,0.23600000000000002,0.764,0.5719,1,2020-8-5,2020-08-05 00:00:00
+454,2020-07-28 16:40:00,Samsung Biologics signs a CMO contract with a US pharmaceutical company worth KRW 179.5 billion,-1,0.0,0.13699999999999998,0.863,0.2263,1,2020-7-29,2020-07-29 00:00:00
+455,2020-07-28 15:54:00,"[Disclosure] Samsung Biologics, signed a supply contract worth 1794 billion won with US pharmaceutical companies",-1,0.0,0.318,0.682,0.6808,1,2020-7-28,2020-07-28 00:00:00
+456,2020-07-28 15:48:00,Samsung Biologics signs supply contract with US pharmaceutical company worth 1794 billion won,-1,0.0,0.337,0.6629999999999999,0.6808,1,2020-7-28,2020-07-28 00:00:00
+457,2020-07-28 15:54:00,"[Disclosure] Samsung Biologics, signed a supply contract worth 1794 billion won with US pharmaceutical companies",-1,0.0,0.318,0.682,0.6808,1,2020-7-28,2020-07-28 00:00:00
+458,2020-07-28 15:43:00,"Samsung Biologics, signed a consignment production contract worth 179.5 billion won",-1,0.0,0.41200000000000003,0.588,0.6808,1,2020-7-28,2020-07-28 00:00:00
+459,2020-07-27 19:33:00,Samsung Biologics increases contract amount to 57.1 billion won in US Cytodyne commissioned production...,-1,0.0,0.222,0.778,0.5719,1,2020-7-28,2020-07-28 00:00:00
+460,2020-07-26 08:42:00,"Korea Investment & Securities “Samsung Biologics target price of 840,000 won”",0,0.0,0.196,0.804,0.29600000000000004,1,2020-7-26,2020-07-26 00:00:00
+461,2020-07-25 08:02:00,[SK證 Weekly Recommendation Stock]'Samsung Biologics' turns a surprise surplus in the second quarter,0,0.0,0.16,0.84,0.2732,1,2020-7-25,2020-07-25 00:00:00
+462,2020-08-04 16:35:00,"Samsung Biologics, consignment production of US-based pharmaceutical companies worth 22.5 billion won",-1,0.0,0.359,0.6409999999999999,0.6808,1,2020-8-5,2020-08-05 00:00:00
+463,2020-08-04 16:27:00,"Samsung Bio, US pharmaceutical company consignment production contract of 22.5 billion won",-1,0.0,0.252,0.748,0.5719,1,2020-8-5,2020-08-05 00:00:00
+464,2020-08-04 16:10:00,"Samsung Biologics, consignment production contract of 22.5 billion won with US pharmaceutical companies",-1,0.0,0.23600000000000002,0.764,0.5719,1,2020-8-5,2020-08-05 00:00:00
+465,2020-07-28 16:40:00,Samsung Biologics signs a CMO contract with a US pharmaceutical company worth KRW 179.5 billion,-1,0.0,0.13699999999999998,0.863,0.2263,1,2020-7-29,2020-07-29 00:00:00
+466,2020-07-28 15:54:00,"[Disclosure] Samsung Biologics, signed a supply contract worth 1794 billion won with US pharmaceutical companies",-1,0.0,0.318,0.682,0.6808,1,2020-7-28,2020-07-28 00:00:00
+467,2020-07-28 15:48:00,Samsung Biologics signs supply contract with US pharmaceutical company worth 1794 billion won,-1,0.0,0.337,0.6629999999999999,0.6808,1,2020-7-28,2020-07-28 00:00:00
+468,2020-07-28 15:54:00,"[Disclosure] Samsung Biologics, signed a supply contract worth 1794 billion won with US pharmaceutical companies",-1,0.0,0.318,0.682,0.6808,1,2020-7-28,2020-07-28 00:00:00
+469,2020-07-28 15:43:00,"Samsung Biologics, signed a consignment production contract worth 179.5 billion won",-1,0.0,0.41200000000000003,0.588,0.6808,1,2020-7-28,2020-07-28 00:00:00
+470,2020-07-27 19:33:00,Samsung Biologics increases contract amount to 57.1 billion won in US Cytodyne commissioned production...,-1,0.0,0.222,0.778,0.5719,1,2020-7-28,2020-07-28 00:00:00
+471,2020-07-26 08:42:00,"Korea Investment & Securities “Samsung Biologics target price of 840,000 won”",0,0.0,0.196,0.804,0.29600000000000004,1,2020-7-26,2020-07-26 00:00:00
+472,2020-07-25 08:02:00,[SK證 Weekly Recommendation Stock]'Samsung Biologics' turns a surprise surplus in the second quarter,0,0.0,0.16,0.84,0.2732,1,2020-7-25,2020-07-25 00:00:00
+473,2020-07-22 11:21:00,"[Photo] Samsung Biologics, #Thanks to participating in the challenge",0,0.0,0.14,0.86,0.0772,0,2020-7-22,2020-07-22 00:00:00
+474,2020-07-22 09:53:00,Samsung Biologics' 2nd Quarter's Sales'Pumped' by Maximizing Plant Operation Efficiency,0,0.0,0.217,0.7829999999999999,0.3612,1,2020-7-22,2020-07-22 00:00:00
+475,2020-07-22 08:51:00,"Samsung Biologics, expected to achieve good performance in the second quarter and expand plant 4...",1,0.0,0.28600000000000003,0.7140000000000001,0.6369,1,2020-7-22,2020-07-22 00:00:00
+476,2020-07-22 07:52:00,Samsung Biologics outperforms concessions in the second quarter.. Target price↑,1,0.0,0.0,1.0,0.0,0,2020-7-22,2020-07-22 00:00:00
+477,2020-07-22 07:41:00,"Samsung Biologics, expected to expand factory 4 in the second half of this year-Korea Investment & Securities",0,0.0,0.257,0.743,0.5423,1,2020-7-22,2020-07-22 00:00:00
+478,2020-07-25 08:02:00,[SK證 Weekly Recommendation Stock]'Samsung Biologics' turns a surprise surplus in the second quarter,0,0.0,0.16,0.84,0.2732,1,2020-7-25,2020-07-25 00:00:00
+479,2020-07-22 11:21:00,"[Photo] Samsung Biologics, #Thanks to participating in the challenge",0,0.0,0.14,0.86,0.0772,0,2020-7-22,2020-07-22 00:00:00
+480,2020-07-22 09:53:00,Samsung Biologics' 2nd Quarter's Sales'Pumped' by Maximizing Plant Operation Efficiency,0,0.0,0.217,0.7829999999999999,0.3612,1,2020-7-22,2020-07-22 00:00:00
+481,2020-07-22 08:51:00,"Samsung Biologics, expected to achieve good performance in the second quarter and expand plant 4...",1,0.0,0.28600000000000003,0.7140000000000001,0.6369,1,2020-7-22,2020-07-22 00:00:00
+482,2020-07-22 07:52:00,Samsung Biologics outperforms concessions in the second quarter.. Target price↑,1,0.0,0.0,1.0,0.0,0,2020-7-22,2020-07-22 00:00:00
+483,2020-07-22 07:41:00,"Samsung Biologics, expected to expand factory 4 in the second half of this year-Korea Investment & Securities",0,0.0,0.257,0.743,0.5423,1,2020-7-22,2020-07-22 00:00:00
+484,2020-07-22 08:28:00,"[Hot-Line] ""Samsung Biologics pays attention to the increase in average selling price""... ...",0,0.0,0.161,0.8390000000000001,0.3182,1,2020-7-22,2020-07-22 00:00:00
+485,2020-07-22 08:05:00,"Samsung Biologics, target price 104%↑ for “surprising results”-SK",0,0.0,0.0,1.0,0.0,0,2020-7-22,2020-07-22 00:00:00
+486,2020-07-22 08:04:00,"Samsung Biologics, 2Q results exceeding expectations... Target price↑-raising",0,0.0,0.0,1.0,0.0,0,2020-7-22,2020-07-22 00:00:00
+487,2020-07-22 08:03:00,"[Click e-sector] ""Samsung Bio, 2nd quarter good performance…3rd quarter also expected""",1,0.0,0.225,0.775,0.4404,1,2020-7-22,2020-07-22 00:00:00
+488,2020-07-22 07:55:00,Samsung Biologics expects high earnings growth-KTB,0,0.0,0.0,1.0,0.0,0,2020-7-22,2020-07-22 00:00:00
+489,2020-07-22 07:42:00,Samsung Biologics expects high earnings growth... Target price of '95 million won'-KTB Securities,-1,0.0,0.155,0.845,0.29600000000000004,1,2020-7-22,2020-07-22 00:00:00
+490,2020-07-21 17:18:00,"Samsung Biologics, 2Q operating profit of 81.1 billion won... 29....",-1,0.0,0.244,0.7559999999999999,0.4404,1,2020-7-22,2020-07-22 00:00:00
+491,2020-07-21 17:07:00,Samsung Bio achieved 307.7 billion won in sales and 81.1 billion won in operating profit in the second quarter of this year,-1,0.0,0.35200000000000004,0.648,0.8834,1,2020-7-22,2020-07-22 00:00:00
+492,2020-07-21 16:03:00,[Breaking News] Samsung Biologics 2nd and 4th quarter sales of 307.7 billion won 294%↑,-1,0.0,0.222,0.778,0.5719,1,2020-7-22,2020-07-22 00:00:00
+493,2020-07-21 17:03:00,Samsung Biologics to quadruple sales in the second quarter,0,0.0,0.0,1.0,0.0,0,2020-7-22,2020-07-22 00:00:00
+494,2020-07-21 16:48:00,"'Surprising performance' Samsung Biologics, overestimating controversy'breaking through the front'",-1,0.0,0.20800000000000002,0.792,0.2732,1,2020-7-22,2020-07-22 00:00:00
+495,2020-07-21 16:29:00,"Samsung Biologics, 2Q sales of 307.7 billion, operating profit of 81.1 billion...",-1,0.0,0.209,0.7909999999999999,0.4404,1,2020-7-22,2020-07-22 00:00:00
+496,2020-07-21 16:06:00,"Samsung Bio's ‘surprising results’ ···Sales of 307.7 billion won, 294% ↑",-1,0.0,0.29100000000000004,0.7090000000000001,0.5719,1,2020-7-22,2020-07-22 00:00:00
+497,2020-07-22 07:42:00,Samsung Biologics expects high earnings growth... Target price of '95 million won'-KTB Securities,-1,0.0,0.155,0.845,0.29600000000000004,1,2020-7-22,2020-07-22 00:00:00
+498,2020-07-22 07:41:00,"Samsung Biologics, expected to expand factory 4 in the second half of this year-Korea Investment & Securities",0,0.0,0.257,0.743,0.5423,1,2020-7-22,2020-07-22 00:00:00
+499,2020-07-21 17:18:00,"Samsung Biologics, 2Q operating profit of 81.1 billion won... 29....",-1,0.0,0.244,0.7559999999999999,0.4404,1,2020-7-22,2020-07-22 00:00:00
+500,2020-07-21 17:07:00,Samsung Bio achieved 307.7 billion won in sales and 81.1 billion won in operating profit in the second quarter of this year,-1,0.0,0.35200000000000004,0.648,0.8834,1,2020-7-22,2020-07-22 00:00:00
+501,2020-07-21 16:03:00,[Breaking News] Samsung Biologics 2nd and 4th quarter sales of 307.7 billion won 294%↑,-1,0.0,0.222,0.778,0.5719,1,2020-7-22,2020-07-22 00:00:00
+502,2020-07-21 17:03:00,Samsung Biologics to quadruple sales in the second quarter,0,0.0,0.0,1.0,0.0,0,2020-7-22,2020-07-22 00:00:00
+503,2020-07-21 16:48:00,"'Surprising performance' Samsung Biologics, overestimating controversy'breaking through the front'",-1,0.0,0.20800000000000002,0.792,0.2732,1,2020-7-22,2020-07-22 00:00:00
+504,2020-07-21 16:29:00,"Samsung Biologics, 2Q sales of 307.7 billion, operating profit of 81.1 billion...",-1,0.0,0.209,0.7909999999999999,0.4404,1,2020-7-22,2020-07-22 00:00:00
+505,2020-07-21 16:06:00,"Samsung Bio's ‘surprising results’ ···Sales of 307.7 billion won, 294% ↑",-1,0.0,0.29100000000000004,0.7090000000000001,0.5719,1,2020-7-22,2020-07-22 00:00:00
+506,2020-07-21 16:27:00,"Samsung Biologics, 2Q operating profit of 81.1 billion won... turned to black",-1,0.0,0.209,0.7909999999999999,0.4404,1,2020-7-22,2020-07-22 00:00:00
+507,2020-07-21 16:09:00,Samsung Biologics' operating profit turned to black in the second quarter of KRW 81.1 billion'earning surprise...,-1,0.0,0.162,0.838,0.4404,1,2020-7-22,2020-07-22 00:00:00
+508,2020-07-21 16:26:00,"Samsung Biologics, 2Q operating profit of 81.1 billion won",-1,0.0,0.485,0.515,0.765,1,2020-7-22,2020-07-22 00:00:00
+509,2020-07-21 16:10:00,"Samsung Biologics, 2Q operating profit of 81.1 billion won, sales surge 294%",-1,0.0,0.39799999999999996,0.602,0.765,1,2020-7-22,2020-07-22 00:00:00
+510,2020-07-20 17:50:00,[Securities Market Disclosure] Samsung Biologics / Zico,0,0.0,0.0,1.0,0.0,0,2020-7-21,2020-07-21 00:00:00
+511,2020-07-20 17:23:00,"Samsung Biologics signed a contract for 19.3 billion won in production with Lundbeck, Denmark",-1,0.0,0.23600000000000002,0.764,0.5719,1,2020-7-21,2020-07-21 00:00:00
+512,2020-07-20 17:07:00,"Samsung Biologics, consigned production contract of 19.3 billion won with Danish pharmaceutical company",-1,0.0,0.23600000000000002,0.764,0.5719,1,2020-7-21,2020-07-21 00:00:00
+513,2020-07-20 17:09:00,"Samsung Biologics, contracted 19.2 billion won contract production",-1,0.0,0.34600000000000003,0.654,0.5719,1,2020-7-21,2020-07-21 00:00:00
+514,2020-07-20 17:00:00,"Samsung Biologics, contracted 19.3 billion won pharmaceutical production contract",-1,0.0,0.316,0.684,0.5719,1,2020-7-21,2020-07-21 00:00:00
+515,2020-07-21 16:09:00,Samsung Biologics'earning surprise' turned into a surplus of 81.1 billion won,-1,0.0,0.42,0.58,0.7003,1,2020-7-22,2020-07-22 00:00:00
+516,2020-07-21 16:06:00,"Samsung Bio's ‘surprising results’ ···Sales of 307.7 billion won, 294% ↑",-1,0.0,0.29100000000000004,0.7090000000000001,0.5719,1,2020-7-22,2020-07-22 00:00:00
+517,2020-07-21 16:03:00,[Breaking News] Samsung Biologics 2nd and 4th quarter sales of 307.7 billion won 294%↑,-1,0.0,0.222,0.778,0.5719,1,2020-7-22,2020-07-22 00:00:00
+518,2020-07-20 17:50:00,[Securities Market Disclosure] Samsung Biologics / Zico,0,0.0,0.0,1.0,0.0,0,2020-7-21,2020-07-21 00:00:00
+519,2020-07-20 17:23:00,"Samsung Biologics signed a contract for 19.3 billion won in production with Lundbeck, Denmark",-1,0.0,0.23600000000000002,0.764,0.5719,1,2020-7-21,2020-07-21 00:00:00
+520,2020-07-20 17:07:00,"Samsung Biologics, consigned production contract of 19.3 billion won with Danish pharmaceutical company",-1,0.0,0.23600000000000002,0.764,0.5719,1,2020-7-21,2020-07-21 00:00:00
+521,2020-07-20 17:09:00,"Samsung Biologics, contracted 19.2 billion won contract production",-1,0.0,0.34600000000000003,0.654,0.5719,1,2020-7-21,2020-07-21 00:00:00
+522,2020-07-20 17:00:00,"Samsung Biologics, contracted 19.3 billion won pharmaceutical production contract",-1,0.0,0.316,0.684,0.5719,1,2020-7-21,2020-07-21 00:00:00
+523,2020-07-20 05:44:00,Samsung Biologics' 2 controversies... I put it to sleep with performance,0,0.0,0.0,1.0,0.0,0,2020-7-20,2020-07-20 00:00:00
+524,2020-07-19 15:48:00,Samsung Biologics expands finished production (DP) facilities,0,0.0,0.18899999999999997,0.8109999999999999,0.1027,1,2020-7-19,2020-07-19 00:00:00
+525,2020-07-19 10:39:00,Samsung Biologics wins preemptive investment...,1,0.0,0.48100000000000004,0.519,0.5719,1,2020-7-19,2020-07-19 00:00:00
+526,2020-07-18 09:33:00,Samsung Biologics expands production facilities at Songdo Plant 2,0,0.0,0.16699999999999998,0.833,0.1027,1,2020-7-18,2020-07-18 00:00:00
+527,2020-07-19 10:39:00,Samsung Biologics wins preemptive investment...,1,0.0,0.48100000000000004,0.519,0.5719,1,2020-7-19,2020-07-19 00:00:00
+528,2020-07-18 09:33:00,Samsung Biologics expands production facilities at Songdo Plant 2,0,0.0,0.16699999999999998,0.833,0.1027,1,2020-7-18,2020-07-18 00:00:00
+529,2020-07-17 20:33:00,Expanded finished production (DP) facilities such as Samsung Biologics and freeze dryers... 28 billion won...,-1,0.0,0.079,0.9209999999999999,0.0516,0,2020-7-18,2020-07-18 00:00:00
+530,2020-07-15 15:29:00,"Samsung Biologics, consigned development of 5 immuno-cancer drugs of Immunsia",0,0.0,0.0,1.0,0.0,0,2020-7-15,2020-07-15 00:00:00
+531,2020-07-15 15:26:00,Samsung Biologics signed a contract for consignment development (CDO) of immune anticancer drugs with Immunsia,0,0.0,0.145,0.855,0.29600000000000004,1,2020-7-15,2020-07-15 00:00:00
+532,2020-07-15 11:24:00,Samsung Bio wins 5 additional CDO orders for Immunsia,1,0.0,0.34600000000000003,0.654,0.5719,1,2020-7-15,2020-07-15 00:00:00
+533,2020-07-15 14:31:00,"Samsung Biologics sells 87,310 foreign shares in net sales on the last 5 days ... Share price ...",0,0.0,0.22699999999999998,0.773,0.5267,1,2020-7-15,2020-07-15 00:00:00
+534,2020-07-15 14:28:00,Samsung Biologics and Immunsia signed a CDO contract for 5 immuno-cancer drugs,0,0.0,0.0,1.0,0.0,0,2020-7-15,2020-07-15 00:00:00
+535,2020-07-15 14:08:00,Samsung Biologics adds 5 CDOs for Immuncia's immune anticancer drug candidates...,0,0.0,0.196,0.804,0.29600000000000004,1,2020-7-15,2020-07-15 00:00:00
+536,2020-07-15 11:13:00,Samsung Biologics and Immunsia signed a contract for development of five immune anticancer drugs,0,0.0,0.155,0.845,0.29600000000000004,1,2020-7-15,2020-07-15 00:00:00
+537,2020-07-15 08:33:00,"[Hot-Line] ""Samsung Biologics, can diversify global pharmaceutical companies...",-1,0.0,0.0,1.0,0.0,0,2020-7-15,2020-07-15 00:00:00
+538,2020-07-15 08:09:00,Samsung Biologics' target is far higher for Corona 19,0,0.0,0.0,1.0,0.0,0,2020-7-15,2020-07-15 00:00:00
+539,2020-07-14 10:31:00,"Samsung Biologics, top search ranking... Share price 0.96%",0,0.0,0.4,0.6,0.4588,1,2020-7-14,2020-07-14 00:00:00
+540,2020-07-14 09:53:00,[Features] Samsung Biologics turns upward in three days… Recaptured 3rd place in market cap,0,0.0,0.0,1.0,0.0,0,2020-7-14,2020-07-14 00:00:00
+541,2020-07-13 17:20:00,Celltrion·Samsung Bio boost the localization of biopharmaceutical'medium',0,0.0,0.31,0.69,0.4019,1,2020-7-14,2020-07-14 00:00:00
+542,2020-07-15 08:33:00,"[Hot-Line] ""Samsung Biologics, can diversify global pharmaceutical companies...",-1,0.0,0.0,1.0,0.0,0,2020-7-15,2020-07-15 00:00:00
+543,2020-07-15 08:09:00,Samsung Biologics' target is far higher for Corona 19,0,0.0,0.0,1.0,0.0,0,2020-7-15,2020-07-15 00:00:00
+544,2020-07-14 10:31:00,"Samsung Biologics, top search ranking... Share price 0.96%",0,0.0,0.4,0.6,0.4588,1,2020-7-14,2020-07-14 00:00:00
+545,2020-07-14 09:53:00,[Features] Samsung Biologics turns upward in three days… Recaptured 3rd place in market cap,0,0.0,0.0,1.0,0.0,0,2020-7-14,2020-07-14 00:00:00
+546,2020-07-13 17:20:00,Celltrion·Samsung Bio boost the localization of biopharmaceutical'medium',0,0.0,0.31,0.69,0.4019,1,2020-7-14,2020-07-14 00:00:00
+547,2020-07-13 09:33:00,Samsung Biologics challenges the fast-growing'immune cancer drug' market,0,0.376,0.111,0.513,-0.6249,-1,2020-7-13,2020-07-13 00:00:00
+548,2020-07-12 13:05:00,Additional consignment development contract with Samsung Biologics and ST Cube,0,0.0,0.0,1.0,0.0,0,2020-7-12,2020-07-12 00:00:00
+549,2020-07-12 09:58:00,"Samsung Bio, CDO contract with ST Cube... 55 cumulative orders in 2 years",0,0.0,0.0,1.0,0.0,0,2020-7-12,2020-07-12 00:00:00
+550,2020-07-12 09:52:00,Samsung Biologics signs CDO contract for 2 types of immune checkpoint suppression candidates for ST Cube,0,0.0,0.136,0.8640000000000001,0.29600000000000004,1,2020-7-12,2020-07-12 00:00:00
+551,2020-07-12 09:14:00,Samsung Biologics and ST Cube signed a consignment development contract,0,0.0,0.0,1.0,0.0,0,2020-7-12,2020-07-12 00:00:00
+552,2020-07-12 08:55:00,Additional CDO contract with Samsung Biologics and ST Cube,0,0.0,0.0,1.0,0.0,0,2020-7-12,2020-07-12 00:00:00
+553,2020-07-12 09:30:00,"Samsung Bio, ST Cube anticancer substance consigned",0,0.0,0.0,1.0,0.0,0,2020-7-12,2020-07-12 00:00:00
+554,2020-07-10 14:03:00,"Naver running... Third place in market cap, beating Samsung Biologics",0,0.25,0.0,0.75,-0.4588,-1,2020-7-10,2020-07-10 00:00:00
+555,2020-07-09 05:01:00,"[Blue Ocean CDMO] Operating profit of 90 billion Samsung Bio, the reason why it ranked third in market cap ②",-1,0.0,0.139,0.861,0.4404,1,2020-7-9,2020-07-09 00:00:00
+556,2020-07-08 13:54:00,"'3rd place in market cap' Samsung Biologics Securities Co., Ltd.'s analysis report is 0 cases",0,0.0,0.145,0.855,0.29600000000000004,1,2020-7-8,2020-07-08 00:00:00
+557,2020-07-12 09:14:00,Samsung Biologics and ST Cube signed a consignment development contract,0,0.0,0.0,1.0,0.0,0,2020-7-12,2020-07-12 00:00:00
+558,2020-07-12 08:55:00,Additional CDO contract with Samsung Biologics and ST Cube,0,0.0,0.0,1.0,0.0,0,2020-7-12,2020-07-12 00:00:00
+559,2020-07-10 14:03:00,"Naver running... Third place in market cap, beating Samsung Biologics",0,0.25,0.0,0.75,-0.4588,-1,2020-7-10,2020-07-10 00:00:00
+560,2020-07-09 05:01:00,"[Blue Ocean CDMO] Operating profit of 90 billion Samsung Bio, the reason why it ranked third in market cap ②",-1,0.0,0.139,0.861,0.4404,1,2020-7-9,2020-07-09 00:00:00
+561,2020-07-08 13:54:00,"'3rd place in market cap' Samsung Biologics Securities Co., Ltd.'s analysis report is 0 cases",0,0.0,0.145,0.855,0.29600000000000004,1,2020-7-8,2020-07-08 00:00:00
+562,2020-07-08 13:31:00,"Samsung Biologics sells 38,412 foreign shares net... Share price -2.8%",0,0.0,0.355,0.645,0.5267,1,2020-7-8,2020-07-08 00:00:00
+563,2020-07-06 16:32:00,Samsung Biologics corrects single sales and supply contract,0,0.0,0.0,1.0,0.0,0,2020-7-7,2020-07-07 00:00:00
+564,2020-07-03 06:02:00,Why did Samsung Bio's stock fall for a week?,0,0.0,0.0,1.0,0.0,0,2020-7-3,2020-07-03 00:00:00
+565,2020-07-02 12:31:00,"Samsung Biologics, net purchase of 18,507 foreign shares... Share price 4.79%",0,0.0,0.18,0.82,0.29600000000000004,1,2020-7-2,2020-07-02 00:00:00
+566,2020-07-02 09:21:00,"'Samsung Biologics' rises by more than 5%, rising due to the regular alignment of the short and mid-term",0,0.0,0.0,1.0,0.0,0,2020-7-2,2020-07-02 00:00:00
+567,2020-07-02 01:31:00,Samsung Bio was the most popular listed company in the first half,1,0.0,0.21899999999999997,0.7809999999999999,0.4754,1,2020-7-2,2020-07-02 00:00:00
+568,2020-07-02 01:31:00,Samsung Bio was the most popular listed company in the first half,1,0.0,0.21899999999999997,0.7809999999999999,0.4754,1,2020-7-2,2020-07-02 00:00:00
+569,2020-06-24 14:05:00,Samsung Bio already won orders of 1.7 trillion won... 5 times more than last year,-1,0.0,0.222,0.778,0.5719,1,2020-6-24,2020-06-24 00:00:00
+570,2020-06-24 12:05:00,"Samsung Biologics,'Order Home Run'... Won 1.7 trillion won orders in the first half",-1,0.0,0.402,0.598,0.8126,1,2020-6-24,2020-06-24 00:00:00
+571,2020-06-24 10:45:00,Samsung Bio wins contract for 380 billion won,0,0.0,0.552,0.44799999999999995,0.8126,1,2020-6-24,2020-06-24 00:00:00
+572,2020-06-24 10:42:00,"Samsung Biologics, contract to produce 380 billion won medicine 1 trillion won in the first half only...",-1,0.0,0.34600000000000003,0.654,0.8126,1,2020-6-24,2020-06-24 00:00:00
+573,2020-06-24 09:28:00,"[Features] Samsung Biologics, strong on drug production contract news",1,0.0,0.292,0.708,0.5106,1,2020-6-24,2020-06-24 00:00:00
+574,2020-06-24 08:46:00,Samsung Biologics contracts with European pharmaceutical companies to produce 381 billion won pharmaceutical products,-1,0.0,0.222,0.778,0.5719,1,2020-6-24,2020-06-24 00:00:00
+575,2020-06-24 07:56:00,Samsung Biologics signs a consignment production contract worth 38 billion won with European pharmaceutical companies,-1,0.0,0.318,0.682,0.6808,1,2020-6-24,2020-06-24 00:00:00
+576,2020-06-22 09:30:00,"Samsung Biologics, top search ranking... Share price -0.37%",0,0.0,0.4,0.6,0.4588,1,2020-6-22,2020-06-22 00:00:00
+577,2020-06-19 12:33:00,"Samsung Biologics, top search ranking... Share price -1.85%",0,0.0,0.4,0.6,0.4588,1,2020-6-19,2020-06-19 00:00:00
+578,2020-06-24 09:28:00,"[Features] Samsung Biologics, strong on drug production contract news",1,0.0,0.292,0.708,0.5106,1,2020-6-24,2020-06-24 00:00:00
+579,2020-06-24 08:46:00,Samsung Biologics contracts with European pharmaceutical companies to produce 381 billion won pharmaceutical products,-1,0.0,0.222,0.778,0.5719,1,2020-6-24,2020-06-24 00:00:00
+580,2020-06-24 08:45:00,"Samsung Biologics ""Contracted production of 382 billion won with European pharmaceutical companies""",-1,0.0,0.252,0.748,0.5719,1,2020-6-24,2020-06-24 00:00:00
+581,2020-06-24 08:06:00,Samsung Biologics contracts with European pharmaceutical companies to produce 381 billion won worth of drugs ...,-1,0.0,0.28600000000000003,0.7140000000000001,0.6808,1,2020-6-24,2020-06-24 00:00:00
+582,2020-06-24 07:56:00,Samsung Biologics signs a consignment production contract worth 38 billion won with European pharmaceutical companies,-1,0.0,0.318,0.682,0.6808,1,2020-6-24,2020-06-24 00:00:00
+583,2020-06-23 14:34:00,"'SK' increased by more than 5%, learning effect after Samsung Bio was listed. SK Buy...",0,0.0,0.13,0.87,0.2732,1,2020-6-23,2020-06-23 00:00:00
+584,2020-06-23 10:31:00,[itM] Amazon is the 1st place in the Corona 19 surge... Samsung Bio in Korea,0,0.0,0.10800000000000001,0.892,0.1779,1,2020-6-23,2020-06-23 00:00:00
+585,2020-06-19 12:33:00,"Samsung Biologics, top search ranking... Share price -1.85%",0,0.0,0.4,0.6,0.4588,1,2020-6-19,2020-06-19 00:00:00
+586,2020-06-18 13:33:00,"Samsung Biologics sells 3,000 foreign shares net... Share price -1.33%",0,0.0,0.355,0.645,0.5267,1,2020-6-18,2020-06-18 00:00:00
+587,2020-06-17 12:32:00,"Samsung Biologics, top search ranking... Share price -0.73%",0,0.0,0.4,0.6,0.4588,1,2020-6-17,2020-06-17 00:00:00
+588,2020-06-17 07:03:00,"[Kim Dae-sung's Stock Analysis] Advances Samsung Bio, stock price rises on the 6th trading day... Most of the year...",0,0.0,0.0,1.0,0.0,0,2020-6-17,2020-06-17 00:00:00
+589,2020-06-16 15:34:00,"52-week report of'SK' is Gyeongshin, learning effect after listing on Samsung Bio. SK...",0,0.0,0.0,1.0,0.0,0,2020-6-16,2020-06-16 00:00:00
+590,2020-06-16 09:06:00,"'SK' increased by more than 5%, learning effect after Samsung Bio was listed. SK bar...",0,0.0,0.13,0.87,0.2732,1,2020-6-16,2020-06-16 00:00:00
+591,2020-06-18 13:33:00,"Samsung Biologics sells 3,000 foreign shares net... Share price -1.33%",0,0.0,0.355,0.645,0.5267,1,2020-6-18,2020-06-18 00:00:00
+592,2020-06-16 15:34:00,"52-week report of'SK' is Gyeongshin, learning effect after listing on Samsung Bio. SK...",0,0.0,0.0,1.0,0.0,0,2020-6-16,2020-06-16 00:00:00
+593,2020-06-16 09:06:00,"'SK' increased by more than 5%, learning effect after Samsung Bio was listed. SK bar...",0,0.0,0.13,0.87,0.2732,1,2020-6-16,2020-06-16 00:00:00
+594,2020-06-16 11:50:00,'Samsung Bio' that jumped 30% this month alone... It's still far from breathing,-1,0.0,0.0,1.0,0.0,0,2020-6-16,2020-06-16 00:00:00
+595,2020-06-16 08:36:00,"[Pharmaceutical Industry Big Bang] Celltrion, Samsung Biologics, two-headed domestic pharmaceuticals ④",-1,0.0,0.0,1.0,0.0,0,2020-6-16,2020-06-16 00:00:00
+596,2020-06-15 18:37:00,"On the 15th, Samsung Electronics (-4.59%), Samsung Biologics (+...",0,0.0,0.0,1.0,0.0,0,2020-6-16,2020-06-16 00:00:00
+597,2020-06-15 14:33:00,"Samsung Biologics, top search ranking... Share price 0.12%",0,0.0,0.4,0.6,0.4588,1,2020-6-15,2020-06-15 00:00:00
+598,2020-06-15 11:32:00,"Samsung Biologics, active community... Share price 6.09%",0,0.0,0.495,0.505,0.5994,1,2020-6-15,2020-06-15 00:00:00
+599,2020-06-15 10:34:00,[fnRASSI] Samsung Biologics reports 52 weeks...5.59% ↑,0,0.0,0.0,1.0,0.0,0,2020-6-15,2020-06-15 00:00:00
+600,2020-06-15 11:32:00,"Samsung Biologics, active community... Share price 6.09%",0,0.0,0.495,0.505,0.5994,1,2020-6-15,2020-06-15 00:00:00
+601,2020-06-15 10:34:00,[fnRASSI] Samsung Biologics reports 52 weeks...5.59% ↑,0,0.0,0.0,1.0,0.0,0,2020-6-15,2020-06-15 00:00:00
+602,2020-06-15 09:37:00,[Features] Samsung Biologics' market price breaks,-1,0.0,0.0,1.0,0.0,0,2020-6-15,2020-06-15 00:00:00
+603,2020-06-15 09:34:00,"Samsung Biologics, the highest price ever... 5 consecutive trading days",0,0.0,0.0,1.0,0.0,0,2020-6-15,2020-06-15 00:00:00
+604,2020-06-15 09:25:00,"[Features] Samsung Biologics, another record high price",0,0.0,0.0,1.0,0.0,0,2020-6-15,2020-06-15 00:00:00
+605,2020-06-15 09:09:00,"'Samsung Biologics' increased by more than 5%, mass net purchase by foreigners the day before",0,0.0,0.13,0.87,0.2732,1,2020-6-15,2020-06-15 00:00:00
+606,2020-04-20 16:28:00,"Samsung Biologics, operating profit of 66.2 billion won in 1Q...",-1,0.0,0.452,0.5479999999999999,0.765,1,2020-4-21,2020-04-21 00:00:00
+607,2020-04-21 12:03:00,"Samsung Bio, sales of 207.2 billion won, operating profit of 66.2 billion won in the first quarter of this year... First quarter vs...",-1,0.0,0.34,0.66,0.8834,1,2020-4-21,2020-04-21 00:00:00
+608,2020-04-21 08:19:00,Samsung Biologics expects to win new orders related to COVID-19 treatment... Target price↑-NH,1,0.0,0.24100000000000002,0.759,0.5859,1,2020-4-21,2020-04-21 00:00:00
+609,2020-04-21 08:08:00,"[Click e-Event] ""Samsung Biologics, clinical benefit for COVID-19 treatment...",1,0.0,0.273,0.727,0.4588,1,2020-4-21,2020-04-21 00:00:00
+610,2020-04-21 07:40:00,"Samsung Biologics, 30% operating margin in the first quarter... 'Earning Surprise'-Investment in Korea...",0,0.0,0.0,1.0,0.0,0,2020-4-21,2020-04-21 00:00:00
+611,2020-04-21 01:05:00,Samsung Bio's first quarter operating profit of 62.5 billion won'surprising performance',-1,0.0,0.225,0.775,0.4404,1,2020-4-21,2020-04-21 00:00:00
+612,2020-04-20 17:35:00,[Zoomin Lee Jong-mok] Samsung Bio 1st Quarter Earnings Surprise,0,0.0,0.20800000000000002,0.792,0.2732,1,2020-4-21,2020-04-21 00:00:00
+613,2020-04-20 16:32:00,Samsung Biologics'saving' amid corona crisis... 1Q operating profit of 66.2 billion won,-1,0.0,0.39799999999999996,0.602,0.765,1,2020-4-21,2020-04-21 00:00:00
+614,2020-04-20 16:28:00,"Samsung Biologics, operating profit of 66.2 billion won in 1Q...",-1,0.0,0.452,0.5479999999999999,0.765,1,2020-4-21,2020-04-21 00:00:00
+615,2020-04-20 16:28:00,"Samsung Biologics, operating profit of 66.2 billion won in 1Q...",-1,0.0,0.452,0.5479999999999999,0.765,1,2020-4-21,2020-04-21 00:00:00
+616,2020-04-20 17:35:00,[Zoomin Lee Jong-mok] Samsung Bio 1st Quarter Earnings Surprise,0,0.0,0.20800000000000002,0.792,0.2732,1,2020-4-21,2020-04-21 00:00:00
+617,2020-04-20 16:28:00,"Samsung Biologics, operating profit of 66.2 billion won in 1Q...",-1,0.0,0.452,0.5479999999999999,0.765,1,2020-4-21,2020-04-21 00:00:00
+618,2020-04-20 16:37:00,"Samsung Biologics, sales of 207.2 billion won in the first quarter, net profit of 39.1 billion won...",-1,0.0,0.306,0.6940000000000001,0.765,1,2020-4-21,2020-04-21 00:00:00
+619,2020-04-13 11:31:00,Samsung Biologics stock price surge... Samsung C&T is also excited,0,0.0,0.21100000000000002,0.789,0.34,1,2020-4-13,2020-04-13 00:00:00
+620,2020-04-13 10:17:00,Samsung Biologics is so popular that even Samsung C&T,1,0.0,0.311,0.6890000000000001,0.5598,1,2020-4-13,2020-04-13 00:00:00
+621,2020-04-13 09:10:00,"'Samsung Biologics' rises by more than 5%, stock prices are rising, short-term golden cross...",0,0.0,0.0,1.0,0.0,0,2020-4-13,2020-04-13 00:00:00
+622,2020-04-13 08:14:00,"""Samsung Biologics, possibility of expansion of 4th factory in consignment production contract for corona treatment ↑...",0,0.0,0.0,1.0,0.0,0,2020-4-13,2020-04-13 00:00:00
+623,2020-04-13 08:04:00,"Signed a letter of intent for consignment production of Samsung Bio Corona 19, possibility of expansion ↑-KTB證",0,0.0,0.0,1.0,0.0,0,2020-4-13,2020-04-13 00:00:00
+624,2020-04-20 13:58:00,"U.S. air strikes in full swing... Samsung Bio, Celltrion, and SK Biopharm are on a tripod",0,0.152,0.0,0.848,-0.3612,-1,2020-4-20,2020-04-20 00:00:00
+625,2020-04-13 11:31:00,Samsung Biologics stock price surge... Samsung C&T is also excited,0,0.0,0.21100000000000002,0.789,0.34,1,2020-4-13,2020-04-13 00:00:00
+626,2020-04-13 10:17:00,Samsung Biologics is so popular that even Samsung C&T,1,0.0,0.311,0.6890000000000001,0.5598,1,2020-4-13,2020-04-13 00:00:00
+627,2020-04-13 09:10:00,"'Samsung Biologics' rises by more than 5%, stock prices are rising, short-term golden cross...",0,0.0,0.0,1.0,0.0,0,2020-4-13,2020-04-13 00:00:00
+628,2020-04-13 08:28:00,"[Hot-Line] ""Samsung Biologics, review of 4th plant through large-scale contract a...",0,0.0,0.0,1.0,0.0,0,2020-4-13,2020-04-13 00:00:00
+629,2020-04-13 08:23:00,Samsung Biologics achieves order target early this year-raising,0,0.0,0.0,1.0,0.0,0,2020-4-13,2020-04-13 00:00:00
+630,2020-04-13 08:14:00,"""Samsung Biologics, possibility of expansion of 4th factory in consignment production contract for corona treatment ↑...",0,0.0,0.0,1.0,0.0,0,2020-4-13,2020-04-13 00:00:00
+631,2020-04-13 08:04:00,"Signed a letter of intent for consignment production of Samsung Bio Corona 19, possibility of expansion ↑-KTB證",0,0.0,0.0,1.0,0.0,0,2020-4-13,2020-04-13 00:00:00
+632,2020-04-11 12:31:00,[Pharmaceutical·Bio Various] Samsung Bio evolves into a corona treatment production base,-1,0.0,0.0,1.0,0.0,0,2020-4-11,2020-04-11 00:00:00
+633,2020-04-11 12:31:00,[Pharmaceutical·Bio Various] Samsung Bio evolves into a corona treatment production base,-1,0.0,0.0,1.0,0.0,0,2020-4-11,2020-04-11 00:00:00
+634,2020-04-10 18:36:00,"On the 10th, Samsung Biologics (+16.82%), KODEX...",0,0.0,0.0,1.0,0.0,0,2020-4-11,2020-04-11 00:00:00
+635,2020-04-10 17:48:00,Samsung Bio won an order for pharmaceutical production worth 4418 billion won,-1,0.0,0.508,0.49200000000000005,0.8519,1,2020-4-11,2020-04-11 00:00:00
+636,2020-04-10 16:28:00,"Why Samsung Biologics, making'corona treatment', signed a US production contract first",0,0.0,0.0,1.0,0.0,0,2020-4-11,2020-04-11 00:00:00
+637,2020-04-10 14:02:00,[Features] Samsung Biologics is in a hurry to receive orders for COVID-19 treatment CMO...,0,0.0,0.0,1.0,0.0,0,2020-4-10,2020-04-10 00:00:00
+638,2020-04-10 13:55:00,"[Features] Samsung Bio, commissioned production of'Corona 19' treatment of 440 billion won...",-1,0.0,0.0,1.0,0.0,0,2020-4-10,2020-04-10 00:00:00
+639,2020-04-10 13:19:00,Samsung Biologics becomes a production base for COVID-19 treatment,0,0.0,0.0,1.0,0.0,0,2020-4-10,2020-04-10 00:00:00
+640,2020-04-10 12:44:00,Samsung Bio wins contract for 440 billion corona treatment,0,0.0,0.316,0.684,0.5719,1,2020-4-10,2020-04-10 00:00:00
+641,2020-04-10 12:40:00,"Samsung Biologics, US Beer Bio and Corona 19 Antibody Treatment 440 Billion ...",-1,0.0,0.0,1.0,0.0,0,2020-4-10,2020-04-10 00:00:00
+642,2020-04-10 12:22:00,Samsung Bio signs a contract for mass production of COVID-19 treatment with US bio companies,0,0.0,0.0,1.0,0.0,0,2020-4-10,2020-04-10 00:00:00
+643,2020-04-10 15:39:00,"[fnRASSI] NowIB, Samsung Biologics, etc. 14 stocks 52 weeks reported ...",0,0.0,0.0,1.0,0.0,0,2020-4-10,2020-04-10 00:00:00
+644,2020-04-10 13:53:00,[Features] Samsung Biologics is in a hurry to news of a contract for consignment production of Corona 19 treatment...,0,0.0,0.0,1.0,0.0,0,2020-4-10,2020-04-10 00:00:00
+645,2020-04-10 09:20:00,"'Samsung Biologics' rises by more than 5%, stock prices are rising, short-term golden...",0,0.0,0.0,1.0,0.0,0,2020-4-10,2020-04-10 00:00:00
+646,2020-04-10 12:37:00,Samsung Bio signs a contract to produce COVID-19 treatment candidates with a US company... 440 billion won,-1,0.0,0.209,0.7909999999999999,0.5719,1,2020-4-10,2020-04-10 00:00:00
+647,2020-04-10 10:38:00,[fnRASSI] Samsung Biologics (207940) rose 10.55%,0,0.0,0.0,1.0,0.0,0,2020-4-10,2020-04-10 00:00:00
+648,2020-04-10 10:05:00,"[Features] Samsung Biologics, strong on news of consignment production contracts with US pharmaceutical companies",0,0.0,0.20199999999999999,0.7979999999999999,0.5106,1,2020-4-10,2020-04-10 00:00:00
+649,2020-04-10 10:01:00,"[Features] Samsung Biologics, 8% higher than 400 billion won contracts",-1,0.0,0.29100000000000004,0.7090000000000001,0.5719,1,2020-4-10,2020-04-10 00:00:00
+650,2020-04-10 09:31:00,"[Features] Samsung Biologics, strong in consignment production contract worth 440 billion won",0,0.0,0.49700000000000005,0.503,0.836,1,2020-4-10,2020-04-10 00:00:00
+651,2020-04-10 09:07:00,"[Features] Samsung Bio, strong in CMO contract of 440 billion",0,0.0,0.268,0.732,0.5106,1,2020-4-10,2020-04-10 00:00:00
+652,2020-04-10 09:17:00,"Samsung Bio's 4% strength, US bio consignment production contract",1,0.0,0.28600000000000003,0.7140000000000001,0.4939,1,2020-4-10,2020-04-10 00:00:00
+653,2020-04-10 09:09:00,"Samsung Biologics, signed a contract of intent for consignment production of 4418 billion won with US pharmaceutical companies",-1,0.0,0.188,0.812,0.5719,1,2020-4-10,2020-04-10 00:00:00
+654,2020-04-10 08:31:00,"Samsung Biologics, signed a letter of intent for a consignment production contract worth 4418 billion won with a US pharmaceutical company...",-1,0.0,0.259,0.741,0.6808,1,2020-4-10,2020-04-10 00:00:00
+655,2020-04-10 07:54:00,Samsung Biologics signs contract for consignment production with a US pharmaceutical company,-1,0.0,0.0,1.0,0.0,0,2020-4-10,2020-04-10 00:00:00
+656,2020-04-10 13:53:00,[Features] Samsung Biologics surges on news of consignment production contract for COVID-19 treatment,0,0.0,0.0,1.0,0.0,0,2020-4-10,2020-04-10 00:00:00
+657,2020-04-10 13:31:00,"52-week report of'Samsung Biologics' renewed, stock price is rising, short-term golden gold...",0,0.0,0.0,1.0,0.0,0,2020-4-10,2020-04-10 00:00:00
+658,2020-04-10 09:20:00,"'Samsung Biologics' rises by more than 5%, stock prices are rising, short-term golden...",0,0.0,0.0,1.0,0.0,0,2020-4-10,2020-04-10 00:00:00
+659,2020-04-10 13:19:00,Samsung Biologics becomes a production base for COVID-19 treatment,0,0.0,0.0,1.0,0.0,0,2020-4-10,2020-04-10 00:00:00
+660,2020-04-10 12:40:00,"Samsung Biologics, US Beer Bio and Corona 19 Antibody Treatment 440 Billion ...",-1,0.0,0.0,1.0,0.0,0,2020-4-10,2020-04-10 00:00:00
+661,2020-04-10 12:22:00,Samsung Bio signs a contract for mass production of COVID-19 treatment with US bio companies,0,0.0,0.0,1.0,0.0,0,2020-4-10,2020-04-10 00:00:00
+662,2020-04-10 12:37:00,Samsung Bio signs a contract to produce COVID-19 treatment candidates with a US company... 440 billion won,-1,0.0,0.209,0.7909999999999999,0.5719,1,2020-4-10,2020-04-10 00:00:00
+663,2020-04-10 10:05:00,"[Features] Samsung Biologics, strong on news of consignment production contracts with US pharmaceutical companies",0,0.0,0.20199999999999999,0.7979999999999999,0.5106,1,2020-4-10,2020-04-10 00:00:00
+664,2020-04-10 10:01:00,"[Features] Samsung Biologics, 8% higher than 400 billion won contracts",-1,0.0,0.29100000000000004,0.7090000000000001,0.5719,1,2020-4-10,2020-04-10 00:00:00
+665,2020-04-10 09:31:00,"[Features] Samsung Biologics, strong in consignment production contract worth 440 billion won",0,0.0,0.49700000000000005,0.503,0.836,1,2020-4-10,2020-04-10 00:00:00
+666,2020-04-10 09:07:00,"[Features] Samsung Bio, strong in CMO contract of 440 billion",0,0.0,0.268,0.732,0.5106,1,2020-4-10,2020-04-10 00:00:00
+667,2020-04-10 09:17:00,"Samsung Bio's 4% strength, US bio consignment production contract",1,0.0,0.28600000000000003,0.7140000000000001,0.4939,1,2020-4-10,2020-04-10 00:00:00
+668,2020-04-10 09:09:00,"Samsung Biologics, signed a contract of intent for consignment production of 4418 billion won with US pharmaceutical companies",-1,0.0,0.188,0.812,0.5719,1,2020-4-10,2020-04-10 00:00:00
+669,2020-04-10 08:31:00,"Samsung Biologics, signed a letter of intent for a consignment production contract worth 4418 billion won with a US pharmaceutical company...",-1,0.0,0.259,0.741,0.6808,1,2020-4-10,2020-04-10 00:00:00
+670,2020-04-10 07:54:00,Samsung Biologics signs contract for consignment production with a US pharmaceutical company,-1,0.0,0.0,1.0,0.0,0,2020-4-10,2020-04-10 00:00:00
+671,2020-04-06 17:07:00,"Samsung Bio, Pamexin and new vascular treatment contract development contract",0,0.0,0.0,1.0,0.0,0,2020-4-7,2020-04-07 00:00:00
+672,2020-04-06 09:40:00,Samsung Biologics signs contract for consignment development of Pamexin vascular treatment,0,0.0,0.0,1.0,0.0,0,2020-4-6,2020-04-06 00:00:00
+673,2020-04-06 09:17:00,"Samsung Bio, in charge of consignment development of Pharmexin anticancer drug",-1,0.0,0.0,1.0,0.0,0,2020-4-6,2020-04-06 00:00:00
+674,2020-04-06 09:10:00,Samsung Biologics signs contract for consignment development of anticancer and neovascular treatment with Pamexin,0,0.0,0.0,1.0,0.0,0,2020-4-6,2020-04-06 00:00:00
+675,2020-04-06 11:20:00,Samsung Biologics and Pamexin signed an anticancer drug consignment development contract,0,0.0,0.0,1.0,0.0,0,2020-4-6,2020-04-06 00:00:00
+676,2020-04-06 09:26:00,"Samsung Biologics, consignment development of Pamexin anticancer and neovascular treatment",0,0.0,0.0,1.0,0.0,0,2020-4-6,2020-04-06 00:00:00
+677,2020-04-02 17:31:00,[Securities Market Disclosure] Doosan Bobcat / Samsung Biologics / Halla,0,0.0,0.0,1.0,0.0,0,2020-4-3,2020-04-03 00:00:00
+678,2020-04-10 09:31:00,"[Features] Samsung Biologics, strong in consignment production contract worth 440 billion won",0,0.0,0.49700000000000005,0.503,0.836,1,2020-4-10,2020-04-10 00:00:00
+679,2020-04-10 09:07:00,"[Features] Samsung Bio, strong in CMO contract of 440 billion",0,0.0,0.268,0.732,0.5106,1,2020-4-10,2020-04-10 00:00:00
+680,2020-04-10 09:20:00,"'Samsung Biologics' rises by more than 5%, stock prices are rising, short-term golden cross...",0,0.0,0.0,1.0,0.0,0,2020-4-10,2020-04-10 00:00:00
+681,2020-04-10 09:09:00,"Samsung Biologics, signed a contract of intent for consignment production of 4418 billion won with US pharmaceutical companies",-1,0.0,0.188,0.812,0.5719,1,2020-4-10,2020-04-10 00:00:00
+682,2020-04-10 08:31:00,"Samsung Biologics, signed a letter of intent for a consignment production contract worth 4418 billion won with a US pharmaceutical company...",-1,0.0,0.259,0.741,0.6808,1,2020-4-10,2020-04-10 00:00:00
+683,2020-04-10 07:54:00,Samsung Biologics signs contract for consignment production with a US pharmaceutical company,-1,0.0,0.0,1.0,0.0,0,2020-4-10,2020-04-10 00:00:00
+684,2020-04-06 17:07:00,"Samsung Bio, Pamexin and new vascular treatment contract development contract",0,0.0,0.0,1.0,0.0,0,2020-4-7,2020-04-07 00:00:00
+685,2020-04-06 09:40:00,Samsung Biologics signs contract for consignment development of Pamexin vascular treatment,0,0.0,0.0,1.0,0.0,0,2020-4-6,2020-04-06 00:00:00
+686,2020-04-06 09:10:00,Samsung Biologics signs contract for consignment development of anticancer and neovascular treatment with Pamexin,0,0.0,0.0,1.0,0.0,0,2020-4-6,2020-04-06 00:00:00
+687,2020-04-06 11:20:00,Samsung Biologics and Pamexin signed an anticancer drug consignment development contract,0,0.0,0.0,1.0,0.0,0,2020-4-6,2020-04-06 00:00:00
+688,2020-04-06 09:26:00,"Samsung Biologics, consignment development of Pamexin anticancer and neovascular treatment",0,0.0,0.0,1.0,0.0,0,2020-4-6,2020-04-06 00:00:00
+689,2020-04-02 17:31:00,[Securities Market Disclosure] Doosan Bobcat / Samsung Biologics / Halla,0,0.0,0.0,1.0,0.0,0,2020-4-3,2020-04-03 00:00:00
+690,2020-04-02 16:11:00,"Samsung Biologics, 50 billion KRW Samsung Securities MMT transaction",-1,0.0,0.21600000000000003,0.784,0.29600000000000004,1,2020-4-3,2020-04-03 00:00:00
+691,2020-03-24 10:43:00,[fnRASSI] Samsung Biologics (207940) Current 8.14% ↑,0,0.0,0.0,1.0,0.0,0,2020-3-24,2020-03-24 00:00:00
+692,2020-03-24 04:06:00,"Samsung Biologics, earnings surprise momentum… Higher competitiveness with '3P innovation'...",0,0.0,0.18899999999999997,0.8109999999999999,0.2732,1,2020-3-24,2020-03-24 00:00:00
+693,2020-04-06 09:26:00,"Samsung Biologics, consignment development of Pamexin anticancer and neovascular treatment",0,0.0,0.0,1.0,0.0,0,2020-4-6,2020-04-06 00:00:00
+694,2020-04-06 09:10:00,Samsung Biologics signs contract for consignment development of anticancer and neovascular treatment with Pamexin,0,0.0,0.0,1.0,0.0,0,2020-4-6,2020-04-06 00:00:00
+695,2020-04-02 17:31:00,[Securities Market Disclosure] Doosan Bobcat / Samsung Biologics / Halla,0,0.0,0.0,1.0,0.0,0,2020-4-3,2020-04-03 00:00:00
+696,2020-04-02 16:11:00,"Samsung Biologics, 50 billion KRW Samsung Securities MMT transaction",-1,0.0,0.21600000000000003,0.784,0.29600000000000004,1,2020-4-3,2020-04-03 00:00:00
+697,2020-03-24 10:43:00,[fnRASSI] Samsung Biologics (207940) Current 8.14% ↑,0,0.0,0.0,1.0,0.0,0,2020-3-24,2020-03-24 00:00:00
+698,2020-03-24 04:06:00,"Samsung Biologics, earnings surprise momentum… Higher competitiveness with '3P innovation'...",0,0.0,0.18899999999999997,0.8109999999999999,0.2732,1,2020-3-24,2020-03-24 00:00:00
+699,2020-03-23 11:01:00,"'Samsung Biologics' rises by more than 5%, stock price exceeds the moving average on the 5th, short-term and mid-term...",0,0.0,0.0,1.0,0.0,0,2020-3-23,2020-03-23 00:00:00
+700,2020-03-20 14:49:00,"Samsung Biologics surged by 15%..""Expansion of factory 4""",0,0.0,0.0,1.0,0.0,0,2020-3-20,2020-03-20 00:00:00
+701,2020-03-20 13:30:00,"[President] Kim Tae-han, president of Samsung Bio, ""Super-differential competitiveness through 3P innovation ...",-1,0.0,0.17800000000000002,0.8220000000000001,0.3818,1,2020-3-20,2020-03-20 00:00:00
+702,2020-03-20 12:08:00,"Taehan Kim, President of Samsung Bio, “Expansion of Plant 4, Preparation for the 2nd Bio Campus”",0,0.0,0.0,1.0,0.0,0,2020-3-20,2020-03-20 00:00:00
+703,2020-03-20 12:02:00,"Taehan Kim, President of Samsung Biologics, ""Preparing for Expansion of Factory 4""",0,0.0,0.0,1.0,0.0,0,2020-3-20,2020-03-20 00:00:00
+704,2020-03-20 09:09:00,"'Samsung Biologics' rises by more than 5%, foreigners and institutions respectively 4 days and 3 days ...",0,0.0,0.146,0.8540000000000001,0.34,1,2020-3-20,2020-03-20 00:00:00
+705,2020-03-20 13:30:00,"[President General] Kim Tae-han, president of Samsung Bio, ""Expanding the competitiveness of the super-gap through 3P innovation...",0,0.0,0.0,1.0,0.0,0,2020-3-20,2020-03-20 00:00:00
+706,2020-03-20 12:08:00,"Taehan Kim, President of Samsung Bio, “Expansion of Plant 4, Preparation for the 2nd Bio Campus”",0,0.0,0.0,1.0,0.0,0,2020-3-20,2020-03-20 00:00:00
+707,2020-03-20 12:02:00,"Taehan Kim, President of Samsung Biologics, ""Preparing for Expansion of Factory 4""",0,0.0,0.0,1.0,0.0,0,2020-3-20,2020-03-20 00:00:00
+708,2020-03-20 09:09:00,"'Samsung Biologics' rises by more than 5%, foreigners and institutions respectively 4 days and 3 days ...",0,0.0,0.146,0.8540000000000001,0.34,1,2020-3-20,2020-03-20 00:00:00
+709,2020-03-18 15:59:00,Why Samsung Biologics has brought in female lawyers,0,0.0,0.0,1.0,0.0,0,2020-3-18,2020-03-18 00:00:00
+710,2020-03-18 11:33:00,"Samsung Bio, Alzheimer's drug consignment development... Spur advancement to Greater China",1,0.0,0.2,0.8,0.3612,1,2020-3-18,2020-03-18 00:00:00
+711,2020-03-17 12:32:00,"Samsung Biologics-Aprinoia, consigned development contract for Alzheimer's treatment",0,0.0,0.0,1.0,0.0,0,2020-3-17,2020-03-17 00:00:00
+712,2020-03-17 09:22:00,Samsung Biologics signs CDO partnership with Taiwanese bioventure,0,0.0,0.0,1.0,0.0,0,2020-3-17,2020-03-17 00:00:00
+713,2020-03-17 11:56:00,"Samsung Bio, Taiwanese company and Alzheimer's treatment CDO… Expansion in China",0,0.0,0.0,1.0,0.0,0,2020-3-17,2020-03-17 00:00:00
+714,2020-03-17 09:20:00,Samsung Bio and Taiwanese bio-venture contract for drug development,0,0.0,0.0,1.0,0.0,0,2020-3-17,2020-03-17 00:00:00
+715,2020-03-04 11:34:00,"US ST Cube immune anticancer drug candidate...Samsung Bio, consigned development and production contract",0,0.0,0.155,0.845,0.29600000000000004,1,2020-3-4,2020-03-04 00:00:00
+716,2020-03-03 17:57:00,"Samsung Biologics, signed a contract to develop immune anticancer drugs with the US Bioventure",0,0.0,0.155,0.845,0.29600000000000004,1,2020-3-4,2020-03-04 00:00:00
+717,2020-03-03 10:04:00,Samsung Bio wins an order for consignment development of a new drug for immunotherapy,1,0.0,0.23600000000000002,0.764,0.5719,1,2020-3-3,2020-03-03 00:00:00
+718,2020-03-03 09:52:00,[Features] ST Cube to win CDO contract with Samsung Biologics,1,0.0,0.297,0.703,0.5859,1,2020-3-3,2020-03-03 00:00:00
+719,2020-03-03 09:47:00,"Samsung Biologics, consigned development contract with ST Cube immune anticancer drug",0,0.0,0.18,0.82,0.29600000000000004,1,2020-3-3,2020-03-03 00:00:00
+720,2020-03-03 09:12:00,Samsung Biologics and ST Cube signed a contract to develop an immune anticancer drug,0,0.0,0.155,0.845,0.29600000000000004,1,2020-3-3,2020-03-03 00:00:00
+721,2020-03-03 09:50:00,ST Cube and Samsung Biologics soared in contract for consignment development of immune anticancer drugs,0,0.0,0.136,0.8640000000000001,0.29600000000000004,1,2020-3-3,2020-03-03 00:00:00
+722,2020-03-17 09:22:00,Samsung Biologics signs CDO partnership with Taiwanese bioventure,0,0.0,0.0,1.0,0.0,0,2020-3-17,2020-03-17 00:00:00
+723,2020-03-17 09:20:00,Samsung Bio and Taiwanese bio-venture contract for drug development,0,0.0,0.0,1.0,0.0,0,2020-3-17,2020-03-17 00:00:00
+724,2020-03-17 08:41:00,Samsung Biologics signs a partnership with Alzheimer's treatment CDO to advance China,0,0.0,0.0,1.0,0.0,0,2020-3-17,2020-03-17 00:00:00
+725,2020-03-04 11:34:00,"US ST Cube immune anticancer drug candidate...Samsung Bio, consigned development and production contract",0,0.0,0.155,0.845,0.29600000000000004,1,2020-3-4,2020-03-04 00:00:00
+726,2020-03-03 17:57:00,"Samsung Biologics, signed a contract to develop immune anticancer drugs with the US Bioventure",0,0.0,0.155,0.845,0.29600000000000004,1,2020-3-4,2020-03-04 00:00:00
+727,2020-03-03 10:04:00,Samsung Bio wins an order for consignment development of a new drug for immunotherapy,1,0.0,0.23600000000000002,0.764,0.5719,1,2020-3-3,2020-03-03 00:00:00
+728,2020-03-03 09:52:00,[Features] ST Cube to win CDO contract with Samsung Biologics,1,0.0,0.297,0.703,0.5859,1,2020-3-3,2020-03-03 00:00:00
+729,2020-03-03 09:47:00,"Samsung Biologics, consigned development contract with ST Cube immune anticancer drug",0,0.0,0.18,0.82,0.29600000000000004,1,2020-3-3,2020-03-03 00:00:00
+730,2020-03-03 09:12:00,Samsung Biologics and ST Cube signed a contract to develop an immune anticancer drug,0,0.0,0.155,0.845,0.29600000000000004,1,2020-3-3,2020-03-03 00:00:00
+731,2020-03-03 09:48:00,"'Samsung Biologics' increased by more than 5%, net buying for 6 consecutive days (70,000 shares...",-1,0.0,0.139,0.861,0.2732,1,2020-3-3,2020-03-03 00:00:00
+732,2020-02-11 09:06:00,"52-week report of'Samsung Biologics' renewed, mass net purchase of foreigners the previous day",0,0.0,0.0,1.0,0.0,0,2020-2-11,2020-02-11 00:00:00
+733,2020-02-10 10:51:00,"52 weeks report of'Samsung Biologics' is renewed, short- and medium-term Lee Pyeong-seon's regular arrangement...",0,0.0,0.0,1.0,0.0,0,2020-2-10,2020-02-10 00:00:00
+734,2020-02-07 15:34:00,"52 weeks report of'Samsung Biologics' renewed, foreigners net purchase for 10 consecutive days (4...",-1,0.0,0.0,1.0,0.0,0,2020-2-7,2020-02-07 00:00:00
+735,2020-03-03 09:12:00,Samsung Biologics and ST Cube signed a contract to develop an immune anticancer drug,0,0.0,0.155,0.845,0.29600000000000004,1,2020-3-3,2020-03-03 00:00:00
+736,2020-02-11 09:06:00,"52-week report of'Samsung Biologics' renewed, mass net purchase of foreigners the previous day",0,0.0,0.0,1.0,0.0,0,2020-2-11,2020-02-11 00:00:00
+737,2020-02-10 10:51:00,"52 weeks report of'Samsung Biologics' is renewed, short- and medium-term Lee Pyeong-seon's regular arrangement...",0,0.0,0.0,1.0,0.0,0,2020-2-10,2020-02-10 00:00:00
+738,2020-02-07 15:34:00,"52 weeks report of'Samsung Biologics' renewed, foreigners net purchase for 10 consecutive days (4...",-1,0.0,0.0,1.0,0.0,0,2020-2-7,2020-02-07 00:00:00
+739,2020-02-06 09:22:00,"52 weeks report of'Samsung Biologics' was reported by Kyungshin, foreigners and institutions for 9 consecutive days...",-1,0.0,0.0,1.0,0.0,0,2020-2-6,2020-02-06 00:00:00
+740,2020-02-03 18:37:00,"On the 03th, Samsung Biologics (-1.03%) and NCsoft (...",0,0.0,0.0,1.0,0.0,0,2020-2-4,2020-02-04 00:00:00
+741,2020-02-02 15:50:00,“Samsung Bio will increase its operating profit by 115% this year…I am also interested in Innox Advanced Materials”,0,0.0,0.414,0.586,0.836,1,2020-2-2,2020-02-02 00:00:00
+742,2020-01-31 12:41:00,"[EDaily N] Samsung Bio's 3 replica drugs, the largest sales in Europe",0,0.0,0.0,1.0,0.0,0,2020-1-31,2020-01-31 00:00:00
+743,2020-01-31 09:55:00,Samsung Bio's 3 biosimilars achieve the largest sales in Europe,0,0.0,0.0,1.0,0.0,0,2020-1-31,2020-01-31 00:00:00
+744,2020-01-30 18:14:00,[HR] Samsung Biologics and others,0,0.0,0.0,1.0,0.0,0,2020-1-31,2020-01-31 00:00:00
+745,2020-01-30 14:43:00,"52 weeks of'Samsung Biologics' report is renewed, 2019.3Q, sales 1,8...",0,0.0,0.0,1.0,0.0,0,2020-1-30,2020-01-30 00:00:00
+746,2020-01-28 14:38:00,[Features] Samsung Biologics Strong Despite Stock Market Drop,1,0.0,0.46,0.54,0.6266,1,2020-1-28,2020-01-28 00:00:00
+747,2020-01-28 14:16:00,"[Features] Samsung Biologics, alone in the midst of a crash",0,0.402,0.0,0.598,-0.5719,-1,2020-1-28,2020-01-28 00:00:00
+748,2020-01-28 09:16:00,"52 weeks report of'Samsung Biologics' renewed, institutional net purchase for 4 consecutive days (4.7...",-1,0.0,0.0,1.0,0.0,0,2020-1-28,2020-01-28 00:00:00
+749,2020-01-27 20:25:00,"As a result, Samsung Biologics, the winged edge, continues its high price march",1,0.0,0.0,1.0,0.0,0,2020-1-28,2020-01-28 00:00:00
+750,2020-01-24 12:57:00,Stop doubting any more... Samsung Biologics 4Q last year's operating profit 830%↑,-1,0.46399999999999997,0.14300000000000002,0.39299999999999996,-0.7603,-1,2020-1-24,2020-01-24 00:00:00
+751,2020-01-23 18:37:00,"On the 23rd, KODEX 200TR (-1.38%), Samsung Bar...",0,0.0,0.0,1.0,0.0,0,2020-1-24,2020-01-24 00:00:00
+752,2020-01-23 11:20:00,Samsung Biologics surges 5% in surprise results... Market cap to 4th place↑,0,0.0,0.16,0.84,0.2732,1,2020-1-23,2020-01-23 00:00:00
+753,2020-01-23 09:02:00,[Features] Samsung Biologics surged 3% in surprise performance,0,0.0,0.231,0.769,0.2732,1,2020-1-23,2020-01-23 00:00:00
+754,2020-01-23 11:18:00,"'Samsung Biologics' rises by more than 5%, rising due to the regular alignment of the short and mid-term",0,0.0,0.0,1.0,0.0,0,2020-1-23,2020-01-23 00:00:00
+755,2020-01-23 10:56:00,[Features] Samsung Biologics surged 7% in 4Q earnings... 3rd in market cap,0,0.305,0.0,0.695,-0.7034,-1,2020-1-23,2020-01-23 00:00:00
+756,2020-01-23 10:56:00,[Features] Samsung Biologics surged 7% in 4Q earnings... 3rd in market cap,0,0.305,0.0,0.695,-0.7034,-1,2020-1-23,2020-01-23 00:00:00
+757,2020-01-23 08:24:00,"[Hot-Line] ""Samsung Biologics, Earnings Surprise for the 4th Quarter of Last Year""...",0,0.0,0.16,0.84,0.2732,1,2020-1-23,2020-01-23 00:00:00
+758,2020-01-23 09:27:00,Samsung Biologics ranked third in market cap in good performance last year,1,0.0,0.209,0.7909999999999999,0.4404,1,2020-1-23,2020-01-23 00:00:00
+759,2020-01-23 09:21:00,[Features] In the fourth quarter of ‘surprising results’...,0,0.0,0.0,1.0,0.0,0,2020-1-23,2020-01-23 00:00:00
+760,2020-01-23 09:07:00,[Features] Samsung Bio rises to 3rd place in market cap in surprise,0,0.0,0.16,0.84,0.2732,1,2020-1-23,2020-01-23 00:00:00
+761,2020-01-23 09:06:00,"52 weeks report of'Samsung Biologics' renewed, institutional net purchase for 3 consecutive days (3.8...",-1,0.0,0.0,1.0,0.0,0,2020-1-23,2020-01-23 00:00:00
+762,2020-01-23 09:02:00,[Features] Samsung Biologics surged 3% in surprise performance,0,0.0,0.231,0.769,0.2732,1,2020-1-23,2020-01-23 00:00:00
+763,2020-01-23 08:34:00,“Samsung Biologics 4th quarter surprise results...target price↑”,0,0.0,0.259,0.741,0.2732,1,2020-1-23,2020-01-23 00:00:00
+764,2020-01-23 08:12:00,"[Click e-sector] ""Samsung Bio, Achieved Surprising Results…Improved This Year""",0,0.0,0.20800000000000002,0.792,0.2732,1,2020-1-23,2020-01-23 00:00:00
+765,2020-01-23 07:58:00,Samsung Biologics increases operating profit estimates... Target price↑-KB,0,0.0,0.293,0.7070000000000001,0.4404,1,2020-1-23,2020-01-23 00:00:00
+766,2020-01-23 08:12:00,"[Click e-sector] ""Samsung Bio, Achieved Surprising Results…Improved This Year""",0,0.0,0.20800000000000002,0.792,0.2732,1,2020-1-23,2020-01-23 00:00:00
+767,2020-01-23 08:00:00,"Samsung Biologics,'Surprising Performance' in 4Q last year… Target price ↑-Eugene",0,0.349,0.0,0.6509999999999999,-0.7034,-1,2020-1-23,2020-01-23 00:00:00
+768,2020-01-23 07:43:00,"Samsung Biologics, 4Q surprise results... Target price ↑-Eugene",0,0.374,0.162,0.46399999999999997,-0.5766,-1,2020-1-23,2020-01-23 00:00:00
+769,2020-01-23 07:58:00,Samsung Biologics increases operating profit estimates... Target price↑-KB,0,0.0,0.293,0.7070000000000001,0.4404,1,2020-1-23,2020-01-23 00:00:00
+770,2020-01-22 17:27:00,"Samsung Biologics, operating profit of 91.7 billion won 64.6%↑",-1,0.0,0.485,0.515,0.765,1,2020-1-23,2020-01-23 00:00:00
+771,2020-01-22 17:06:00,"Samsung Biologics, last year's earnings surprise... 65% increase in operating profit",0,0.0,0.366,0.634,0.6369,1,2020-1-23,2020-01-23 00:00:00
+772,2020-01-22 16:50:00,"Samsung Biologics, operating profit of 91.7 billion won last year... 64.6% year-on-year↑",-1,0.0,0.39799999999999996,0.602,0.765,1,2020-1-23,2020-01-23 00:00:00
+773,2020-01-22 16:33:00,"Samsung Biologics, operating profit of 91.7 billion won last year... 64.8% year-on-year↑",-1,0.0,0.39799999999999996,0.602,0.765,1,2020-1-23,2020-01-23 00:00:00
+774,2020-01-22 16:30:00,"Samsung Biologics, operating profit of 91.7 billion won last year... 64.6% year-on-year↑",-1,0.0,0.39799999999999996,0.602,0.765,1,2020-1-23,2020-01-23 00:00:00
+775,2020-01-22 16:35:00,"Samsung Biologics, operating profit of 106.9 billion won in the fourth quarter of last year… 830.1% year-on-year↑",-1,0.0,0.306,0.6940000000000001,0.765,1,2020-1-23,2020-01-23 00:00:00
+776,2020-01-22 16:08:00,"[Temporary Performance] Samsung Biologics, operating profit of 100.7 billion won in 4Q last year, the same period of the previous year...",-1,0.16399999999999998,0.22399999999999998,0.612,0.1943,1,2020-1-23,2020-01-23 00:00:00
+777,2020-01-22 11:15:00,"52 weeks of'Samsung Biologics' report is renewed, 2019.3Q, sales 1,8...",0,0.0,0.0,1.0,0.0,0,2020-1-22,2020-01-22 00:00:00
+778,2020-01-17 15:26:00,"Lee Jae-yong's court ""will not adopt the evidence of Samsung Bio applied for special prosecution""",-1,0.243,0.139,0.618,-0.2542,-1,2020-1-17,2020-01-17 00:00:00
+779,2020-01-22 16:08:00,"[Temporary Performance] Samsung Biologics, operating profit of 100.7 billion won in 4Q last year, the same period of the previous year...",-1,0.16399999999999998,0.22399999999999998,0.612,0.1943,1,2020-1-23,2020-01-23 00:00:00
+780,2020-01-22 11:15:00,"52 weeks of'Samsung Biologics' report is renewed, 2019.3Q, sales 1,8...",0,0.0,0.0,1.0,0.0,0,2020-1-22,2020-01-22 00:00:00
+781,2020-01-21 09:17:00,"52 weeks of'Samsung Biologics' report is renewed, 2019.3Q, sales 1,8...",0,0.0,0.0,1.0,0.0,0,2020-1-21,2020-01-21 00:00:00
+782,2020-01-17 15:26:00,"Lee Jae-yong's court ""will not adopt the evidence of Samsung Bio applied for special prosecution""",-1,0.243,0.139,0.618,-0.2542,-1,2020-1-17,2020-01-17 00:00:00
+783,2020-01-16 18:19:00,Samsung Biologics announced last year's performance on the 22nd,0,0.0,0.0,1.0,0.0,0,2020-1-17,2020-01-17 00:00:00
+784,2020-01-16 17:47:00,"Samsung Biologics ""Advancing into the US in April"" Constructed 4 factories with 180,000 liters in 2022...",0,0.0,0.0,1.0,0.0,0,2020-1-17,2020-01-17 00:00:00
+785,2020-01-16 16:30:00,"Samsung Bio establishes US CDO corporation… ""9000 bio-ventures are customers""",0,0.0,0.0,1.0,0.0,0,2020-1-17,2020-01-17 00:00:00
+786,2020-01-16 14:23:00,"Taehan Kim, President of Samsung Biologics, ""Established a US corporation this year and started construction of the 4th factory""",0,0.0,0.0,1.0,0.0,0,2020-1-16,2020-01-16 00:00:00
+787,2020-01-16 14:38:00,"President of Samsung Bio ""Establishment of a bio-consigned research laboratory in the US""",0,0.0,0.0,1.0,0.0,0,2020-1-16,2020-01-16 00:00:00
+788,2020-01-16 11:41:00,Samsung Biologics enters the US this year,0,0.0,0.0,1.0,0.0,0,2020-1-16,2020-01-16 00:00:00
+789,2020-01-14 17:35:00,"Samsung Biologics,'Take a Breath'... ""An additional rise only when performance improvement is confirmed""",0,0.0,0.214,0.7859999999999999,0.4588,1,2020-1-15,2020-01-15 00:00:00
+790,2020-01-16 08:03:00,"Taehan Kim, President of Samsung Biologics ""Established CDO Research Center in the US""",0,0.0,0.0,1.0,0.0,0,2020-1-16,2020-01-16 00:00:00
+791,2020-01-15 13:25:00,Samsung Bio advances to small CMO… As a'total solution' company,0,0.0,0.204,0.7959999999999999,0.3182,1,2020-1-15,2020-01-15 00:00:00
+792,2020-01-14 19:05:00,"""Immune anticancer drug GI-101 technology transfer to China.. Samsung Bio production and consulting help ...",0,0.0,0.27399999999999997,0.726,0.5994,1,2020-1-15,2020-01-15 00:00:00
+793,2020-01-14 17:35:00,"Samsung Biologics,'Take a Breath'... ""An additional rise only when performance improvement is confirmed""",0,0.0,0.214,0.7859999999999999,0.4588,1,2020-1-15,2020-01-15 00:00:00
+794,2020-01-13 17:32:00,"Samsung Biologics ""We will increase CDO-linked quantity by 50%""",0,0.0,0.223,0.777,0.3182,1,2020-1-14,2020-01-14 00:00:00
+795,2020-01-13 17:09:00,"Samsung Biologics ""Aim to win 40 CDO orders every year from 2021""",1,0.0,0.257,0.743,0.5859,1,2020-1-14,2020-01-14 00:00:00
+796,2020-01-13 15:09:00,"Samsung Biologics, ""plan to increase CDO-linked volume by 50% in 2035""",0,0.0,0.187,0.813,0.3182,1,2020-1-13,2020-01-13 00:00:00
+797,2020-01-12 17:47:00,Samsung Biologics President Kim Tae-han attends'JP Morgan Healthcare',0,0.0,0.0,1.0,0.0,0,2020-1-13,2020-01-13 00:00:00
+798,2020-01-12 08:10:00,Samsung Bio President Kim Tae-han announces achievements at JP Morgan conference,0,0.0,0.20199999999999999,0.7979999999999999,0.368,1,2020-1-12,2020-01-12 00:00:00
+799,2020-01-12 08:01:00,Samsung Biologics Announces Grand Ballroom at'JP Morgan Conference' for 2 consecutive years,-1,0.0,0.231,0.769,0.4588,1,2020-1-12,2020-01-12 00:00:00
+800,2020-01-04 09:00:00,Samsung Biologics growing expectations for earnings,0,0.0,0.254,0.746,0.1779,1,2020-1-4,2020-01-04 00:00:00
+801,2020-01-03 09:11:00,Samsung Biologics improves performance without regular maintenance Target price↑-KB,0,0.0,0.259,0.741,0.4215,1,2020-1-3,2020-01-03 00:00:00
+802,2020-01-12 17:47:00,Samsung Biologics President Kim Tae-han attends'JP Morgan Healthcare',0,0.0,0.0,1.0,0.0,0,2020-1-13,2020-01-13 00:00:00
+803,2020-01-12 08:10:00,Samsung Bio President Kim Tae-han announces achievements at JP Morgan conference,0,0.0,0.20199999999999999,0.7979999999999999,0.368,1,2020-1-12,2020-01-12 00:00:00
+804,2020-01-12 08:01:00,Samsung Biologics Announces Grand Ballroom at'JP Morgan Conference' for 2 consecutive years,-1,0.0,0.231,0.769,0.4588,1,2020-1-12,2020-01-12 00:00:00
+805,2020-01-04 09:00:00,Samsung Biologics growing expectations for earnings,0,0.0,0.254,0.746,0.1779,1,2020-1-4,2020-01-04 00:00:00
+806,2019-12-30 09:06:00,"52-week report of'Samsung Biologics' renewed, mass net purchase of foreigners the previous day",0,0.0,0.0,1.0,0.0,0,2019-12-30,2019-12-30 00:00:00
+807,2019-12-27 10:49:00,"'Samsung Biologics' increased by more than 5%, net buying for 5 consecutive days (183,000...",-1,0.0,0.149,0.851,0.2732,1,2019-12-27,2019-12-27 00:00:00
+808,2019-12-27 10:44:00,"52 weeks of'Samsung Biologics' report is renewed, 2019.3Q, sales 1,8...",0,0.0,0.0,1.0,0.0,0,2019-12-27,2019-12-27 00:00:00
+809,2019-12-26 08:46:00,"Samsung Biologics, consignment production contract for 52.3 billion won",-1,0.0,0.316,0.684,0.5719,1,2019-12-26,2019-12-26 00:00:00
+810,2019-12-24 19:01:00,[Disclosure] Samsung Biologics signs a 52.3 billion won contract with Swiss pharmaceutical company,-1,0.0,0.252,0.748,0.5719,1,2019-12-25,2019-12-25 00:00:00
+811,2019-12-24 18:47:00,Samsung Biologics signs a 52.3 billion won contract with a Swiss pharmaceutical company,-1,0.0,0.27,0.73,0.5719,1,2019-12-25,2019-12-25 00:00:00
+812,2019-12-24 18:41:00,Announcement of orders for Samsung Biologics-Consignment production contract for pharmaceuticals 52.33 billion won (Sales...,-1,0.0,0.222,0.778,0.5719,1,2019-12-25,2019-12-25 00:00:00
+813,2019-12-24 18:47:00,Samsung Biologics signs a 52.3 billion won contract with a Swiss pharmaceutical company,-1,0.0,0.27,0.73,0.5719,1,2019-12-25,2019-12-25 00:00:00
+814,2019-12-24 18:41:00,Announcement of orders for Samsung Biologics-Consignment production contract for pharmaceuticals 52.33 billion won (Sales...,-1,0.0,0.222,0.778,0.5719,1,2019-12-25,2019-12-25 00:00:00
+815,2019-12-24 09:11:00,"52 weeks report of'Samsung Biologics' is Gyeongshin, CMO is good, and simula is good...",1,0.0,0.182,0.818,0.4404,1,2019-12-24,2019-12-24 00:00:00
+816,2019-12-23 18:37:00,"On the 23rd, Samsung Biologics (+6.56%) and Samsung Electro-Mechanics (0...",0,0.0,0.0,1.0,0.0,0,2019-12-24,2019-12-24 00:00:00
+817,2019-12-23 14:42:00,[Features] Samsung Biologics reports 52 weeks,0,0.0,0.0,1.0,0.0,0,2019-12-23,2019-12-23 00:00:00
+818,2019-12-23 10:21:00,"[Features] Samsung Biologics, strong in supply and demand for foreigners",1,0.11699999999999999,0.258,0.625,0.4215,1,2019-12-23,2019-12-23 00:00:00
+819,2019-12-23 09:19:00,"52-week report of'Samsung Biologics' renewed, mass net purchase of institutions the previous day",0,0.0,0.0,1.0,0.0,0,2019-12-23,2019-12-23 00:00:00
+820,2019-12-19 11:11:00,"Samsung Bio's breast cancer treatment, the first biosimilar to be certified by WHO",0,0.268,0.0,0.732,-0.6597,-1,2019-12-19,2019-12-19 00:00:00
+821,2019-12-15 12:50:00,"Celltrion·Samsung Bio, Incheon City, and localization of bio raw and subsidiary materials",0,0.0,0.0,1.0,0.0,0,2019-12-15,2019-12-15 00:00:00
+822,2019-12-11 08:19:00,Samsung Biologics drives up earnings growth in plant utilization rates... Target price ↑-Samsung,0,0.0,0.17800000000000002,0.8220000000000001,0.3818,1,2019-12-11,2019-12-11 00:00:00
+823,2019-12-11 07:19:00,"""Samsung Biologics, target price ↑ in anticipation of next year's earnings growth""-Samsung",0,0.0,0.12300000000000001,0.877,0.1027,1,2019-12-11,2019-12-11 00:00:00
+824,2019-12-15 12:50:00,"Celltrion·Samsung Bio, Incheon City, and localization of bio raw and subsidiary materials",0,0.0,0.0,1.0,0.0,0,2019-12-15,2019-12-15 00:00:00
+825,2019-12-11 08:19:00,Samsung Biologics drives up earnings growth in plant utilization rates... Target price ↑-Samsung,0,0.0,0.17800000000000002,0.8220000000000001,0.3818,1,2019-12-11,2019-12-11 00:00:00
+826,2019-12-09 10:12:00,"Samsung Bio,'fall' ahead of first judicial judgment on charges of destroying evidence",-1,0.363,0.0,0.637,-0.6908,-1,2019-12-9,2019-12-09 00:00:00
+827,2019-12-09 10:01:00,[Features] Samsung Biologics weakens ahead of sentence for destruction of evidence for fraudulent accounting,-1,0.449,0.063,0.488,-0.836,-1,2019-12-9,2019-12-09 00:00:00
+828,2019-12-05 17:36:00,"Samsung Bio, building global capabilities, has both meetings and in-house messages in English",0,0.0,0.0,1.0,0.0,0,2019-12-6,2019-12-06 00:00:00
+829,2019-12-04 11:23:00,Samsung Biologics... Won an order of 80 billion CMO,-1,0.0,0.316,0.684,0.5719,1,2019-12-4,2019-12-04 00:00:00
+830,2019-12-04 09:35:00,Samsung Biologics wins 80 billion won consignment production order for two weeks,0,0.0,0.425,0.575,0.8126,1,2019-12-4,2019-12-04 00:00:00
+831,2019-12-04 08:41:00,Samsung Biologics is expected to improve earnings and relieve uncertainty... Target price↑-SK,-1,0.0,0.35100000000000003,0.649,0.6597,1,2019-12-4,2019-12-04 00:00:00
+832,2019-12-04 08:44:00,"Samsung Biologics, consignment production contract for 55.2 billion won",-1,0.0,0.316,0.684,0.5719,1,2019-12-4,2019-12-04 00:00:00
+833,2019-11-28 15:58:00,"Samsung Biologics, contracted pharmaceutical production contract worth 22.5 billion won",-1,0.0,0.41200000000000003,0.588,0.6808,1,2019-11-28,2019-11-28 00:00:00
+834,2019-11-28 15:52:00,"Samsung Biologics, contracted pharmaceutical production contract worth 22.5 billion won",-1,0.0,0.41200000000000003,0.588,0.6808,1,2019-11-28,2019-11-28 00:00:00
+835,2019-11-28 15:46:00,"Samsung Biologics, contracted pharmaceutical production contract worth 22.5 billion won",-1,0.0,0.41200000000000003,0.588,0.6808,1,2019-11-28,2019-11-28 00:00:00
+836,2019-11-28 15:46:00,"Samsung Biologics, contracted pharmaceutical production contract worth 22.5 billion won",-1,0.0,0.41200000000000003,0.588,0.6808,1,2019-11-28,2019-11-28 00:00:00
+837,2019-12-04 08:41:00,Samsung Biologics is expected to improve earnings and relieve uncertainty... Target price↑-SK,-1,0.0,0.35100000000000003,0.649,0.6597,1,2019-12-4,2019-12-04 00:00:00
+838,2019-11-28 17:51:00,"[Securities Market Disclosure] Samsung Biologics / Iljin Display / Hyundai E&C, etc.",0,0.0,0.0,1.0,0.0,0,2019-11-29,2019-11-29 00:00:00
+839,2019-11-28 15:58:00,"Samsung Biologics, contracted pharmaceutical production contract worth 22.5 billion won",-1,0.0,0.41200000000000003,0.588,0.6808,1,2019-11-28,2019-11-28 00:00:00
+840,2019-11-28 15:52:00,"Samsung Biologics, contracted pharmaceutical production contract worth 22.5 billion won",-1,0.0,0.41200000000000003,0.588,0.6808,1,2019-11-28,2019-11-28 00:00:00
+841,2019-11-28 15:46:00,"Samsung Biologics, contracted pharmaceutical production contract worth 22.5 billion won",-1,0.0,0.41200000000000003,0.588,0.6808,1,2019-11-28,2019-11-28 00:00:00
+842,2019-11-28 15:46:00,"Samsung Biologics, contracted pharmaceutical production contract worth 22.5 billion won",-1,0.0,0.41200000000000003,0.588,0.6808,1,2019-11-28,2019-11-28 00:00:00
+843,2019-11-28 15:55:00,"Samsung Biologics, contracted to produce 22.5 billion won pharmaceutical products",-1,0.0,0.29100000000000004,0.7090000000000001,0.5719,1,2019-11-28,2019-11-28 00:00:00
+844,2019-11-27 11:10:00,“CMO Champion” Samsung Bio... A leap forward as a'game changer',0,0.0,0.0,1.0,0.0,0,2019-11-27,2019-11-27 00:00:00
+845,2019-11-25 18:30:00,"Samsung Biologics Plant 3, integrating Samsung technology from factory design... Advanced research institute ...",0,0.0,0.133,0.867,0.25,1,2019-11-26,2019-11-26 00:00:00
+846,2019-11-24 16:24:00,"Foreigners swept through Samsung Bio, Samsung Electro-Mechanics and Amorepacific",0,0.0,0.0,1.0,0.0,0,2019-11-25,2019-11-25 00:00:00
+847,2019-11-14 18:30:00,Samsung Biologics security management system'world-class',0,0.0,0.375,0.625,0.34,1,2019-11-15,2019-11-15 00:00:00
+848,2019-11-14 14:04:00,Samsung Biologics acquires ISO 27001 for the first time as CMO,0,0.0,0.0,1.0,0.0,0,2019-11-14,2019-11-14 00:00:00
+849,2019-11-14 14:02:00,"Samsung Biologics, the first CMO company to receive ISO information protection certification",0,0.0,0.0,1.0,0.0,0,2019-11-14,2019-11-14 00:00:00
